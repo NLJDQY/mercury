@@ -20,11 +20,11 @@ Hanson2016_18,Carthaea,Unknown,Achaea,Greece,4 or 5,58 G2,-400,NULL,24.314228,37
 Hanson2016_19,Cassope,Kamarina,Achaea,Greece,4 or 5,54 C3,-350,-30,20.675916,39.145016,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_20,Chaeronea,Khaironia,Achaea,Greece,3,55 D4,-600,NULL,22.844532,38.494687,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_21,Chalcis,Chalkis,Achaea,Greece,2,55 F4,-800,NULL,23.643172,38.549423,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; Jones 1937; PECS.
-Hanson2016_22,Cierium,Mataránga,Achaea,Greece,3,55 C2,-600,NULL,22.075455,39.361088,BNP; DGRG; Hansen and Nielsen 2004; Sear 2006.
+Hanson2016_22,Cierium,MatarÃ¡nga,Achaea,Greece,3,55 C2,-600,NULL,22.075455,39.361088,BNP; DGRG; Hansen and Nielsen 2004; Sear 2006.
 Hanson2016_23,Cirrha,Xeropigadi,Achaea,Greece,4 or 5,55 C4,-600,NULL,22.450621,38.428937,Hansen and Nielsen 2004; PECS.
 Hanson2016_24,Cleitor,Kato Klitoria,Achaea,Greece,3,58 C2,-600,NULL,22.044647,37.885611,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS.
 Hanson2016_25,Corcyra,Analipsi,Achaea,Greece,3,54 A2,-734,NULL,19.91558,39.606285,BNP; DGRG; Hansen and Nielsen 2004; PECS; Sear 2006.
-Hanson2016_26,Corinthia,Corinth,Achaea,Greece,1,58 D2,-44,NULL,22.879795,37.906321,BNP; Boatwright 2000; Brunt 1971; Cornell and Mathews 1982; Golvin 1988; Hansen 2006; Hansen and Nielsen 2004; MacMullen 2000; McEvedy 2011; Nelis-Clément and Roddaz 2008; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011.
+Hanson2016_26,Corinthia,Corinth,Achaea,Greece,1,58 D2,-44,NULL,22.879795,37.906321,BNP; Boatwright 2000; Brunt 1971; Cornell and Mathews 1982; Golvin 1988; Hansen 2006; Hansen and Nielsen 2004; MacMullen 2000; McEvedy 2011; Nelis-ClÃ©ment and Roddaz 2008; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011.
 Hanson2016_27,Coronea,Agios Georgios,Achaea,Greece,3,55 D4,-600,NULL,22.957112,38.391204,BNP; Boatwright 2000; Hansen 2006; Hansen and Nielsen 2004.
 Hanson2016_28,Delos,Delos,Achaea,Greece,4 or 5,61 A3,-700,NULL,25.267249,37.398611,BNP; DGRG; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_29,Delphi,Delphi,Achaea,Greece,2,55 D4,-800,NULL,22.5,38.483333,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
@@ -54,7 +54,7 @@ Hanson2016_52,Lousoi,Lousoi,Achaea,Greece,4 or 5,58 C2,-600,150,22.116811,37.969
 Hanson2016_53,Lycosura,Lykosoura,Achaea,Greece,3,58 C3,-600,NULL,22.031019,37.389722,BNP; DGRG; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_54,Macynia,Paleokastro,Achaea,Greece,4 or 5,55 B4,-600,NULL,21.726328,38.355158,BNP; DGRG; Hansen and Nielsen 2004; Sear 2006.
 Hanson2016_55,Mantinea,Mantineia,Achaea,Greece,2,58 C2,-500,NULL,22.405305,37.642803,BNP; Boatwright 2000; Cohen 1995; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
-Hanson2016_56,Megalopolis,Sinánu,Achaea,Greece,2,58 C3,-370,150,22.136771,37.40225,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
+Hanson2016_56,Megalopolis,SinÃ¡nu,Achaea,Greece,2,58 C3,-370,150,22.136771,37.40225,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_57,Megara,Megara,Achaea,Greece,2,58 E2,-900,NULL,23.344591,37.994845,Beloch 1886; BNP; Boatwright 2000; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_58,Melos,Unknown,Achaea,Greece,4 or 5,58 G4,-600,NULL,24.420716,36.733024,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_59,Messene,Mavromati,Achaea,Greece,2,58 B3,-369,NULL,22.008029,37.051363,Beloch 1886; BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
@@ -65,9 +65,9 @@ Hanson2016_63,Nea Pleuron,Pleuron,Achaea,Greece,3,55 A4,-230,NULL,21.41202,38.41
 Hanson2016_64,Neon,Velitsa,Achaea,Greece,3,55 D3,-600,NULL,22.66757,38.584053,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_65,Nicopolis (Achaea),Palioprevesa,Achaea,Greece,3,54 C3,-30,NULL,20.733395,39.026505,BNP; DGRG; Jones 1937; PECS; Russell 1958; Sear 2006.
 Hanson2016_66,Oeniadae,Oiniadai,Achaea,Greece,3,54 D5,-600,NULL,21.212962,38.398985,BNP; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
-Hanson2016_67,Onchesmus,Sarandë,Achaea,Albania,4 or 5,54 B2,-600,NULL,20.000687,39.869988,BNP; DGRG; PECS; Sear 2006.
+Hanson2016_67,Onchesmus,SarandÃ«,Achaea,Albania,4 or 5,54 B2,-600,NULL,20.000687,39.869988,BNP; DGRG; PECS; Sear 2006.
 Hanson2016_68,Orchomenus Arcadicus,Kalpali,Achaea,Greece,3,58 C2,-600,200,22.31536,37.724716,BNP; Cohen 1995; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
-Hanson2016_69,Orchomenus Minyeaus,Skripú,Achaea,Greece,2,55 D4,-600,NULL,22.981125,38.493255,BNP; Cohen 1995; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
+Hanson2016_69,Orchomenus Minyeaus,SkripÃº,Achaea,Greece,2,55 D4,-600,NULL,22.981125,38.493255,BNP; Cohen 1995; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_70,Oricus,Pascha Liman,Achaea,Albania,4 or 5,49 B3,-600,NULL,19.451817,40.323257,BNP; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_71,Oropus,Skala Oropou,Achaea,Greece,3,59 C1,-600,NULL,23.775844,38.320255,BNP; DGRG; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_72,Paeania,Mastru?,Achaea,Greece,3,59 C3,-600,NULL,23.855299,37.958506,BNP; DGRG.
@@ -78,7 +78,7 @@ Hanson2016_76,Patrae,Patrai,Achaea,Greece,2,58 B1,-600,NULL,21.737066,38.254465,
 Hanson2016_77,Pelinna,Palaiogardiki,Achaea,Greece,4 or 5,55 C1,-400,NULL,21.951944,39.576637,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS.
 Hanson2016_78,Pellene,Zougra,Achaea,Greece,3,58 D1,-600,NULL,22.548344,38.043207,BNP; DGRG; Hansen and Nielsen 2004; PECS.
 Hanson2016_79,Peparethum,Piperi,Achaea,Greece,3,55 F2,-101,NULL,23.719616,39.119096,BNP; DGRG; Hansen and Nielsen 2004.
-Hanson2016_80,Phalanna,Karadjóli,Achaea,Greece,4 or 5,55 C1,-600,NULL,22.193106,39.708507,BNP; DGRG; Hansen and Nielsen 2004; PECS; Sear 2006.
+Hanson2016_80,Phalanna,KaradjÃ³li,Achaea,Greece,4 or 5,55 C1,-600,NULL,22.193106,39.708507,BNP; DGRG; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_81,Pharsalus,Farsala,Achaea,Greece,3,55 C2,-600,NULL,22.38454,39.293958,BNP; DGRG; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_82,Pheneus,Feneos,Achaea,Greece,3,58 C2,-600,NULL,22.295238,37.919454,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004.
 Hanson2016_83,Pherae,Velestino,Achaea,Greece,3,55 D2,-400,NULL,22.753851,39.379043,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS.
@@ -89,14 +89,14 @@ Hanson2016_87,Piraeus,Piraeus,Achaea,Greece,3,59 B3,-600,NULL,23.641103,37.95090
 Hanson2016_88,Plataea,Plataea,Achaea,Greece,3,55 E4,-600,NULL,23.26689,38.215488,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS.
 Hanson2016_89,Proerna,Gythokastro,Achaea,Greece,3,55 C2,-600,NULL,22.297255,39.241243,Hansen and Nielsen 2004; PECS.
 Hanson2016_90,Rhamnus,Rhamnous,Achaea,Greece,3,59 D2,-500,NULL,24.028009,38.222727,PECS; Sear 2006.
-Hanson2016_91,Scotussa,Suplí,Achaea,Greece,3,55 D2,-600,NULL,22.574579,39.37552,BNP; DGRG; Hansen and Nielsen 2004; PECS; Sear 2006; Wilkes 2003b.
+Hanson2016_91,Scotussa,SuplÃ­,Achaea,Greece,3,55 D2,-600,NULL,22.574579,39.37552,BNP; DGRG; Hansen and Nielsen 2004; PECS; Sear 2006; Wilkes 2003b.
 Hanson2016_92,Sicyon,Basiliko,Achaea,Greece,2,58 D2,-303,NULL,22.726044,37.9799,BNP; Cohen 1995; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_93,Sparta,Sparti,Achaea,Greece,2,58 C3,-800,NULL,22.432584,37.074301,Beloch 1886; BNP; DGRG; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_94,Stratus,Surovigli,Achaea,Greece,3,54 D4,-600,-30,21.31366,38.666849,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; Sear 2006PECS.
 Hanson2016_95,Stymphalum,Stymphalos,Achaea,Greece,3,58 C2,-600,NULL,22.45934,37.859281,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_96,Tanagra,Graimadha,Achaea,Greece,3,59 B1,-600,NULL,23.536834,38.32732,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_97,Tegea,Alea,Achaea,Greece,2,58 C3,-600,NULL,22.417226,37.427653,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
-Hanson2016_98,Teuthrone,Kotrónes,Achaea,Greece,4 or 5,58 C4,-600,NULL,22.489063,36.621145,DGRG; Hansen 2006; PECS.
+Hanson2016_98,Teuthrone,KotrÃ³nes,Achaea,Greece,4 or 5,58 C4,-600,NULL,22.489063,36.621145,DGRG; Hansen 2006; PECS.
 Hanson2016_99,Thaumacia,Unknown,Achaea,Greece,3,55 C2,-400,NULL,22.321996,39.126554,BNP; DGRG; Hansen and Nielsen 2004; PECS.
 Hanson2016_100,Thebae,Thebes,Achaea,Greece,2,55 E4,-800,NULL,23.317799,38.319077,BNP; Cohen 1995; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_101,Thebae Phthiotides,Nea Anchialos,Achaea,Greece,3,55 D2,-400,-27,22.762344,39.27303,BNP; Cohen 1995; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
@@ -110,7 +110,7 @@ Hanson2016_108,Troezen,Troizina,Achaea,Greece,3,58 E3,-600,NULL,23.362481,37.496
 Hanson2016_109,Zacynthus,Unknown,Achaea,Greece,4 or 5,54 inset,-800,NULL,20.892091,37.787178,BNP; DGRG; Hansen and Nielsen 2004.
 Hanson2016_110,Alexandria (Aegyptus),Alexandria,Aegyptus,Egypt,1,74 B2,-322,NULL,29.903728,31.195024,Beloch 1886; Bowman 2011; Cohen 2006; Humphrey 1986; Johnson 1936; Jones 1937; McEvedy 2011; PECS; Russell 1958; Sear 2006; Wilson 2011.
 Hanson2016_111,Antaeopolis,Qaw el Kebir,Aegyptus,Egypt,3,77 F3,-323,NULL,31.517443,26.899283,Bagnall 1993; Jones 1937.
-Hanson2016_112,Antinoopolis,Sheikh Abadah,Aegyptus,Egypt,3,77 D1,130,NULL,30.875182,27.81166,Bagnall 1993; BNP; Boatwright 2000; Bowman 2011; DGRG; Humphrey 1986; Jones 1937; Nelis-Clément and Roddaz 2008; PECS; Russell 1958; Sear 2006; Wilson 2011.
+Hanson2016_112,Antinoopolis,Sheikh Abadah,Aegyptus,Egypt,3,77 D1,130,NULL,30.875182,27.81166,Bagnall 1993; BNP; Boatwright 2000; Bowman 2011; DGRG; Humphrey 1986; Jones 1937; Nelis-ClÃ©ment and Roddaz 2008; PECS; Russell 1958; Sear 2006; Wilson 2011.
 Hanson2016_113,Aphroditopolis,El Gabalein,Aegyptus,Egypt,3,80 B3,-323,NULL,32.473946,25.369659,Bagnall 1993; BNP; Bowman 2011; DGRG; Jones 1937; PECS; Wilson 2011.
 Hanson2016_114,Apollonopolis Magna,Kom Edfu,Aegyptus,Egypt,3,80 B4,-323,NULL,32.873294,24.979536,Bagnall 1993; BNP; Jones 1937; PECS.
 Hanson2016_115,Apollonopolis Parva,Kom Isfaht,Aegyptus,Egypt,3,80 B2,-323,NULL,32.710142,25.854554,Bagnall 1993; Jones 1937; Sear 2006.
@@ -170,21 +170,21 @@ Hanson2016_168,Belalis,Henchir el Faouar,Africa Proconsularis,Tunisia,3,32 D3,10
 Hanson2016_169,Bisica,Henchir Bijga,Africa Proconsularis,Tunisia,3,32 E4,100,NULL,9.634267,36.397969,Boatwright 2000; Lepelley 1979-1981; Quinn and Wilson 2013; Salmon 1969.
 Hanson2016_170,Capsa,Gafsa,Africa Proconsularis,Tunisia,3,33 C4,100,NULL,8.786674,34.418648,DGRG; Lepelley 1979-1981; PECS; Russell 1958; Salmon 1969.
 Hanson2016_171,Carpis,Mraissa,Africa Proconsularis,Tunisia,3,32 G3,-45,NULL,10.553122,36.765245,Brunt 1971; Cornell and Mathews 1982; DGRG; Lepelley 1979-1981; MacMullen 2000; Salmon 1969.
-Hanson2016_172,Carthago,Tunis,Africa Proconsularis,Tunisia,1,32 F3,-49,NULL,10.327685,36.851318,Bomgardner 2000; Brunt 1971; Cornell and Mathews 1982; Lepelley 1979-1981; MacMullen 2000; McEvedy 2011; Nelis-Clément and Roddaz 2008; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; 1995; Wilson 2011; Woloch 1983.
+Hanson2016_172,Carthago,Tunis,Africa Proconsularis,Tunisia,1,32 F3,-49,NULL,10.327685,36.851318,Bomgardner 2000; Brunt 1971; Cornell and Mathews 1982; Lepelley 1979-1981; MacMullen 2000; McEvedy 2011; Nelis-ClÃ©ment and Roddaz 2008; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; 1995; Wilson 2011; Woloch 1983.
 Hanson2016_173,Chidibbia,Slouguia,Africa Proconsularis,Tunisia,3,32 E3,200,NULL,9.512,36.5803,BNP; Lepelley 1979-1981.
 Hanson2016_174,Cillium,Kasserine,Africa Proconsularis,Tunisia,3,33 C2,69,NULL,8.799233,35.167704,Lepelley 1979-1981; PECS; Salmon 1969; Sear 2006; Wilson 2011.
 Hanson2016_175,Clupea,Kelibia,Africa Proconsularis,Tunisia,4 or 5,32 H3,-310,NULL,11.099916,36.849616,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; MacMullen 2000; PECS; Salmon 1969.
 Hanson2016_176,Curubis,Korba,Africa Proconsularis,Tunisia,4 or 5,32 G3,-45,NULL,10.857137,36.57591,Brunt 1971; Cornell and Mathews 1982; DGRG; MacMullen 2000; Salmon 1969; Sear 2006.
 Hanson2016_177,Gigthis,Bou Grara,Africa Proconsularis,Tunisia,3,35 C1,-200,NULL,10.6795,33.5415,BNP; Boatwright 2000; Lepelley 1979-1981; PECS; Quinn and Wilson 2013; Wilson 2011.
-Hanson2016_178,Hadrumetum,Sousse,Africa Proconsularis,Tunisia,3,33 G1,-150,NULL,10.637607,35.824984,BNP; Brunt 1971; DGRG; Lepelley 1979-1981; MacMullen 2000; Nelis-Clément and Roddaz 2008; PECS; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
+Hanson2016_178,Hadrumetum,Sousse,Africa Proconsularis,Tunisia,3,33 G1,-150,NULL,10.637607,35.824984,BNP; Brunt 1971; DGRG; Lepelley 1979-1981; MacMullen 2000; Nelis-ClÃ©ment and Roddaz 2008; PECS; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
 Hanson2016_179,Hippo Diarrhytus,Bizerte,Africa Proconsularis,Tunisia,3,32 E2,-46,NULL,9.8708,37.272,Brunt 1971; Cornell and Mathews 1982; DGRG; MacMullen 2000; Salmon 1969; Wilson 2011.
-Hanson2016_180,Lepcis Magna,Lebda,Africa Proconsularis,Libya,1,35 G2,-30,NULL,14.29306,32.63833,Bomgardner 2000; Golvin 1988; Humphrey 1986; Lepelley 1979-1981; McEvedy 2011; Nelis-Clément and Roddaz 2008; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
+Hanson2016_180,Lepcis Magna,Lebda,Africa Proconsularis,Libya,1,35 G2,-30,NULL,14.29306,32.63833,Bomgardner 2000; Golvin 1988; Humphrey 1986; Lepelley 1979-1981; McEvedy 2011; Nelis-ClÃ©ment and Roddaz 2008; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
 Hanson2016_181,Leptiminus,Lemta,Africa Proconsularis,Tunisia,3,33 G1,-150,NULL,10.898,35.666,BNP; Bomgardner 2000; PECS; Russell 1958; Sear 2006; Wilson 2011.
 Hanson2016_182,Limisa,Ksar Lemsa,Africa Proconsularis,Tunisia,3,32 E4,100,NULL,9.691873,36.035878,PECS; Quinn and Wilson 2013; Sear 2006.
 Hanson2016_183,Macomades,Merkeb-Talha,Africa Proconsularis,Libya,3,37 B1,-50,NULL,16.588338,31.205047,Lepelley 1979-1981; PECS.
 Hanson2016_184,Mactaris,Mactar,Africa Proconsularis,Tunisia,3,33 D1,-50,NULL,9.207183,35.853814,BNP; Bomgardner 2000; Lepelley 1979-1981; PECS; Quinn and Wilson 2013; Salmon 1969; Wilson 2011.
 Hanson2016_185,Maraci,Ksar Toual Zammel,Africa Proconsularis,Tunisia,4 or 5,33 D1,100,NULL,9.222873,36.029941,PECS; Quinn and Wilson 2013.
-Hanson2016_186,Maxula,Radès,Africa Proconsularis,Tunisia,4 or 5,32 F3,-27,NULL,10.271569,36.768841,BNP; Brunt 1971; DGRG; Lepelley 1979-1981; MacMullen 2000; Quinn and Wilson 2013; Salmon 1969.
+Hanson2016_186,Maxula,RadÃ¨s,Africa Proconsularis,Tunisia,4 or 5,32 F3,-27,NULL,10.271569,36.768841,BNP; Brunt 1971; DGRG; Lepelley 1979-1981; MacMullen 2000; Quinn and Wilson 2013; Salmon 1969.
 Hanson2016_187,Meninx,Bordj el Kantara,Africa Proconsularis,Tunisia,3,35 C1,-200,NULL,10.913075,33.688857,DGRG; PECS; Wilson 2011.
 Hanson2016_188,Missua,Sidi Daoud,Africa Proconsularis,Tunisia,4 or 5,32 G3,-50,NULL,10.899956,36.999978,BNP; Lepelley 1979-1981.
 Hanson2016_189,Neapolis (Africa Proconsularis),Nabeul,Africa Proconsularis,Tunisia,3,32 G4,-49,NULL,10.73614,36.453512,BNP; Brunt 1971; Cornell and Mathews 1982; Lepelley 1979-1981; MacMullen 2000; Salmon 1969.
@@ -197,14 +197,14 @@ Hanson2016_195,Segermes,Henchir Harat,Africa Proconsularis,Tunisia,3,32 F4,100,N
 Hanson2016_196,Seressi,Henchir Oum el Abouab,Africa Proconsularis,Tunisia,3,32 E4,100,NULL,9.773609,36.166741,Bomgardner 2000; Golvin 1988; Lepelley 1979-1981; Sear 2006.
 Hanson2016_197,Sufes,Sbiba,Africa Proconsularis,Tunisia,3,33 D1,100,NULL,9.074415,35.542707,DGRG; Lepelley 1979-1981; PECS; Salmon 1969.
 Hanson2016_198,Sufetula,Sbeitla,Africa Proconsularis,Tunisia,3,33 D2,69,NULL,9.118399,35.241664,BNP; Bomgardner 2000; DGRG; Golvin 1988; Lepelley 1979-1981; PECS; Quinn and Wilson 2013; Salmon 1969; Sear 2006; Wilson 2011.
-Hanson2016_199,Tacapae,Gabès,Africa Proconsularis,Libya,2,35 C1,-50,NULL,14.5,32.5,BNP; PECS; Salmon 1969.
+Hanson2016_199,Tacapae,GabÃ¨s,Africa Proconsularis,Libya,2,35 C1,-50,NULL,14.5,32.5,BNP; PECS; Salmon 1969.
 Hanson2016_200,Thaenae,Henchir Thina,Africa Proconsularis,Tunisia,3,33 G3,-50,NULL,10.670659,34.655347,Boatwright 2000; Bomgardner 2000; Lepelley 1979-1981; PECS; Salmon 1969; Wilson 2011.
 Hanson2016_201,Thapsus,Ras Dimas,Africa Proconsularis,Tunisia,3,33 H1,-200,NULL,11.0428,35.622788,BNP; Boatwright 2000; Bomgardner 2000; Brunt 1971; DGRG; Golvin 1988; MacMullen 2000; PECS; Russell 1958; Wilson 2011.
-Hanson2016_202,Thelepte,Thélepte,Africa Proconsularis,Tunisia,3,33 C3,-27,NULL,8.593867,34.975746,BNP; PECS; Salmon 1969; Sear 2006; Wilson 2011.
+Hanson2016_202,Thelepte,ThÃ©lepte,Africa Proconsularis,Tunisia,3,33 C3,-27,NULL,8.593867,34.975746,BNP; PECS; Salmon 1969; Sear 2006; Wilson 2011.
 Hanson2016_203,Thibiuca,Henchir Zouitina,Africa Proconsularis,Tunisia,4 or 5,32 E3,100,NULL,9.750001,36.750001,Lepelley 1979-1981; Russell 1958; Salmon 1969.
 Hanson2016_204,Thigibba,Hamman Zouakra,Africa Proconsularis,Tunisia,4 or 5,33 D1,-50,NULL,9.25,35.75,Lepelley 1979-1981; Salmon 1969.
-Hanson2016_205,Thignica,Aïn Tounga,Africa Proconsularis,Tunisia,3,32 D3,100,NULL,9.361747,36.52366,Golvin 1988; Lepelley 1979-1981; Russell 1958; Sear 2006.
-Hanson2016_206,Thisica,Aïn Tachegga,Africa Proconsularis,Tunisia,3,32 E3,-50,NULL,9.702008,37.003737,Boatwright 2000.
+Hanson2016_205,Thignica,AÃ¯n Tounga,Africa Proconsularis,Tunisia,3,32 D3,100,NULL,9.361747,36.52366,Golvin 1988; Lepelley 1979-1981; Russell 1958; Sear 2006.
+Hanson2016_206,Thisica,AÃ¯n Tachegga,Africa Proconsularis,Tunisia,3,32 E3,-50,NULL,9.702008,37.003737,Boatwright 2000.
 Hanson2016_207,Thuburbo Maius,Henchir Kasbat,Africa Proconsularis,Tunisia,3,32 E4,-50,NULL,9.904195,36.400856,BNP; Boatwright 2000; Bomgardner 2000; Brunt 1971; Cornell and Mathews 1982; Golvin 1988; Lepelley 1979-1981; MacMullen 2000; McEvedy 2011; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011.
 Hanson2016_208,Thuburbo Minus,Tebourba,Africa Proconsularis,Tunisia,4 or 5,32 E3,-27,NULL,9.838642,36.829599,BNP; Brunt 1971; Lepelley 1979-1981; MacMullen 2000; PECS; Salmon 1969.
 Hanson2016_209,Thubursicum Bure,Teboursouk,Africa Proconsularis,Tunisia,3,32 D4,100,NULL,9.24443,36.461488,BNP; Lepelley 1979-1981; Salmon 1969; Sear 2006; Wilson 2011.
@@ -217,7 +217,7 @@ Hanson2016_215,Unknown (1),Ksar el Guelal,Africa Proconsularis,Tunisia,-,-,100,N
 Hanson2016_216,Uthina,Oudna,Africa Proconsularis,Tunisia,3,32 F3,-200,NULL,10.172746,36.606899,BNP; Bomgardner 2000; Brunt 1971; Cornell and Mathews 1982; DGRG; Golvin 1988; MacMullen 2000; PECS; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011.
 Hanson2016_217,Utica,Utique,Africa Proconsularis,Tunisia,3,32 F2,-400,NULL,10.038,37.0358,BNP; Boatwright 2000; Bomgardner 2000; Brunt 1971; Cornell and Mathews 1982; DGRG; Golvin 1988; Lepelley 1979-1981; MacMullen 2000; PECS; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011.
 Hanson2016_218,Uzalis,Al Alia,Africa Proconsularis,Tunisia,4 or 5,32 F2,-150,NULL,10.033986,37.169048,Lepelley 1979-1981; Russell 1958; Salmon 1969.
-Hanson2016_219,Vaga,Béja,Africa Proconsularis,Tunisia,3,32 D3,-50,NULL,9.182019,36.725536,BNP; Brunt 1971; DGRG; Lepelley 1979-1981; PECS; Salmon 1969.
+Hanson2016_219,Vaga,BÃ©ja,Africa Proconsularis,Tunisia,3,32 D3,-50,NULL,9.182019,36.725536,BNP; Brunt 1971; DGRG; Lepelley 1979-1981; PECS; Salmon 1969.
 Hanson2016_220,Vallis,Henchir Sidi Median,Africa Proconsularis,Tunisia,4 or 5,32 E3,100,NULL,9.750001,36.750001,BNP; Lepelley 1979-1981; Quinn and Wilson 2013; Salmon 1969; Sear 2006.
 Hanson2016_221,Zama Regia,Seba Biar,Africa Proconsularis,Tunisia,3,32 D4,-200,NULL,9.285786,36.111664,BNP; Boatwright 2000; DGRG; Lepelley 1979-1981; PECS; Quinn and Wilson 2013; Salmon 1969.
 Hanson2016_222,Zitha,Unknown,Africa Proconsularis,Tunisia,3,35 D1,100,NULL,11.112906,33.503896,DGRG; Quinn and Wilson 2013.
@@ -234,7 +234,7 @@ Hanson2016_232,Canatha,Qanawat,Arabia,Syria,3,69 E4,-323,NULL,36.603111,32.74261
 Hanson2016_233,Capitolias,Beit Ras,Arabia,Jordan,4 or 5,69 C4,-323,NULL,35.858293,32.598602,BNP; Cohen 2006; DGRG; Jones 1937; PECS.
 Hanson2016_234,Dionysias,As Suwayda,Arabia,Syria,3,69 E4,-323,NULL,36.565286,32.707083,Cohen 2006; PECS.
 Hanson2016_235,Elusa,El Khalasa,Arabia,Israel,3,70 F3,-323,NULL,34.653209,31.100106,Broshi 1979; DGRG; Jones 1937; PECS; Sear 2006.
-Hanson2016_236,Gadara,Umm Qais,Arabia,Jordan,3,69 C4,-323,NULL,35.678858,32.655629,BNP; Cohen 2006; DGRG; Jones 1937; Nelis-Clément and Roddaz 2008; PECS; Sear 2006.
+Hanson2016_236,Gadara,Umm Qais,Arabia,Jordan,3,69 C4,-323,NULL,35.678858,32.655629,BNP; Cohen 2006; DGRG; Jones 1937; Nelis-ClÃ©ment and Roddaz 2008; PECS; Sear 2006.
 Hanson2016_237,Gerasa,Jerash,Arabia,Jordan,3,69 C5,-175,NULL,35.891296,32.281164,Cohen 2006; Humphrey 1986; Jones 1937; McEvedy 2011; PECS; Sear 2006.
 Hanson2016_238,Hippus,Nuqeib,Arabia,Israel,3,69 C4,-305,NULL,35.65987,32.778764,BNP; Jones 1937; McEvedy 2011; Sear 2006.
 Hanson2016_239,Madaba,Madaba,Arabia,Jordan,3,71 B2,-323,NULL,35.794735,31.711726,BNP; Jones 1937; PECS.
@@ -242,29 +242,29 @@ Hanson2016_240,Petra,Petra,Arabia,Jordan,2,71 A5,-8,NULL,35.442275,30.328981,Jon
 Hanson2016_241,Philippopolis (Arabia),Shahba,Arabia,Syria,3,69 E4,244,NULL,36.627525,32.853765,DGRG; Jones 1937; PECS; Salmon 1969; Salmon 1969; Sear 2006.
 Hanson2016_242,Saccaea,Unknown,Arabia,Syria,3,69 E4,-323,NULL,36.697835,32.896794,Sear 2006.
 Hanson2016_243,Abydus,Nara Burnu,Asia,Turkey,4 or 5,51 G4,-700,NULL,26.416868,40.194977,BNP; Hansen and Nielsen 2004; Jones 1937; PECS.
-Hanson2016_244,Acmonia,Ahat Köyü,Asia,Turkey,3,62 C4,-323,NULL,29.773954,38.659698,Cohen 1995; Jones 1937; Sear 2006.
+Hanson2016_244,Acmonia,Ahat KÃ¶yÃ¼,Asia,Turkey,3,62 C4,-323,NULL,29.773954,38.659698,Cohen 1995; Jones 1937; Sear 2006.
 Hanson2016_245,Adramyttium,Edremit,Asia,Turkey,3,56 D2,-323,NULL,26.947793,39.500301,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; Jones 1937.
 Hanson2016_246,Aegae,Nemrutkale,Asia,Turkey,3,56 E4,-323,NULL,27.168362,38.825064,BNP; Cohen 1995; DGRG; Hansen and Nielsen 2004; Jones 1937; McEvedy 2011; PECS; Sear 2006.
-Hanson2016_247,Aezanis,Çavdarhisar,Asia,Turkey,3,62 C3,-323,NULL,29.61965,39.193569,BNP; Jones 1937; PECS; Sear 2006.
+Hanson2016_247,Aezanis,Ã‡avdarhisar,Asia,Turkey,3,62 C3,-323,NULL,29.61965,39.193569,BNP; Jones 1937; PECS; Sear 2006.
 Hanson2016_248,Alabanda,Do?anyurt,Asia,Turkey,3,61 F2,-201,NULL,27.985429,37.591796,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; Jones 1937; PECS; Sear 2006.
 Hanson2016_249,Alexandria (Asia),Stambul,Asia,Turkey,3,56 C2,-310,NULL,26.154749,39.756473,BNP; Brunt 1971; Cohen 1995; Cornell and Mathews 1982; Hanson 2011; Jones 1937; MacMullen 2000; PECS; Salmon 1969; Sear 2006.
 Hanson2016_250,Alinda,Demircideresi,Asia,Turkey,3,61 F2,-600,NULL,27.83048,37.560831,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; Hanson 2011; Jones 1937; PECS; Sear 2006.
-Hanson2016_251,Amorium,Hisarköy,Asia,Turkey,3,62 F3,-323,NULL,31.320619,39.035611,Cohen 1995; DGRG; Hanson 2011; Jones 1937.
+Hanson2016_251,Amorium,HisarkÃ¶y,Asia,Turkey,3,62 F3,-323,NULL,31.320619,39.035611,Cohen 1995; DGRG; Hanson 2011; Jones 1937.
 Hanson2016_252,Amyzon,Mazi n Kalesi,Asia,Turkey,4 or 5,61 F2,-323,NULL,27.690896,37.59888,BNP; Cohen 1995; DGRG; Hansen and Nielsen 2004; Jones 1937; PECS; Sear 2006.
 Hanson2016_253,Antiochia (Asia),Kuyucak,Asia,Turkey,3,65 A2,-261,NULL,28.579354,37.871365,BNP; Cohen 1995; DGRG; Jones 1937; PECS; Quinn and Wilson 2013; Sear 2006.
 Hanson2016_254,Aphrodisias,Geyre,Asia,Turkey,3,65 A2,-100,NULL,28.723436,37.708402,Hansen 2006; Hansen and Nielsen 2004; Hanson 2011; Jones 1937; McEvedy 2011; PECS; Russell 1958; Salmon 1969; Sear 2006.
 Hanson2016_255,Apollonia (Asia) (1),Yeniji,Asia,Turkey,3,65 A1,-600,NULL,28.956451,38.048649,BNP; Cohen 1995; DGRG; Jones 1937; Sear 2006.
-Hanson2016_256,Apollonia (Asia) (2),Gölyaz?,Asia,Turkey,3,52 D4,-600,NULL,28.684113,40.174987,BNP; Cohen 1995; DGRG; Jones 1937; PECS; Sear 2006.
+Hanson2016_256,Apollonia (Asia) (2),GÃ¶lyaz?,Asia,Turkey,3,52 D4,-600,NULL,28.684113,40.174987,BNP; Cohen 1995; DGRG; Jones 1937; PECS; Sear 2006.
 Hanson2016_257,Assus,Behramkale,Asia,Turkey,3,56 C3,-700,NULL,26.336667,39.490556,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; Jones 1937; PECS; Sear 2006.
 Hanson2016_258,Astypalaea,Chora,Asia,Greece,4 or 5,61 C4,-500,NULL,26.350463,36.544912,BNP; DGRG; Hansen and Nielsen 2004; Jones 1937; PECS.
 Hanson2016_259,Bargylia,Varvil,Asia,Turkey,3,61 F3,-323,NULL,27.588037,37.195779,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; Jones 1937; PECS; Sear 2006.
-Hanson2016_260,Blaundus,Sülümenli,Asia,Turkey,3,62 B5,-323,NULL,29.209771,38.357291,BNP; Cohen 1995; DGRG; Jones 1937; Sear 2006.
+Hanson2016_260,Blaundus,SÃ¼lÃ¼menli,Asia,Turkey,3,62 B5,-323,NULL,29.209771,38.357291,BNP; Cohen 1995; DGRG; Jones 1937; Sear 2006.
 Hanson2016_261,Castabus,Pazarlik,Asia,Turkey,4 or 5,61 G4,-323,NULL,28.176816,36.787594,BNP; PECS; Sear 2006.
 Hanson2016_262,Caunus,Dalyan,Asia,Turkey,3,65 A4,-600,NULL,28.621505,36.825754,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; Jones 1937; PECS; Sear 2006.
 Hanson2016_263,Cedreae,Unknown,Asia,Turkey,4 or 5,62 E4,-323,NULL,30.88416,38.946418,Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_264,Celaenae,Dinar,Asia,Turkey,2,65 D1,-324,NULL,30.15853,38.076044,BNP; Cohen 1995; DGRG; PECS; Russell 1958; Sear 2006.
 Hanson2016_265,Ceramus,Oren,Asia,Turkey,4 or 5,61 F3,-323,NULL,27.956217,37.041728,BNP; DGRG; Hansen and Nielsen 2004; Jones 1937; PECS; Sear 2006.
-Hanson2016_266,Clazomenae,Klazümen,Asia,Turkey,3,56 D5,-600,NULL,26.770558,38.361462,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; Hanson 2011; Jones 1937; PECS; Sear 2006.
+Hanson2016_266,Clazomenae,KlazÃ¼men,Asia,Turkey,3,56 D5,-600,NULL,26.770558,38.361462,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; Hanson 2011; Jones 1937; PECS; Sear 2006.
 Hanson2016_267,Cnidus,Cnidus,Asia,Turkey,3,61 F4,-700,NULL,27.683943,36.732481,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; Hanson 2011; PECS; Sear 2006.
 Hanson2016_268,Colophon,Degirmendere,Asia,Turkey,3,61 E1,-601,NULL,27.200838,38.002389,BNP; Cohen 1995; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_269,Colossae,Honaz,Asia,Turkey,3,65 B2,-323,NULL,29.229382,37.786887,BNP; Jones 1937; Sear 2006.
@@ -280,7 +280,7 @@ Hanson2016_278,Euhippe,Dalama,Asia,Turkey,4 or 5,61 G2,-323,NULL,28.086631,37.78
 Hanson2016_279,Euromus,Ayakli,Asia,Turkey,4 or 5,61 F3,-323,NULL,27.673196,37.378355,BNP; Cohen 1995; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_280,Halicarnassus,Bodrum,Asia,Turkey,3,61 E3,-600,NULL,27.421615,37.040071,Beloch 1886; BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; Hanson 2011; Jones 1937; PECS; Sear 2006.
 Hanson2016_281,Harpasa,Unknown,Asia,Turkey,4 or 5,61 G2,-323,NULL,28.348056,37.805833,DGRG; Jones 1937; Sear 2006.
-Hanson2016_282,Heraclea (Asia) (1),Bafa Gölü,Asia,Turkey,3,61 F2,-301,NULL,27.526883,37.502431,BNP; Cohen 1995; DGRG; Hansen and Nielsen 2004; Hanson 2011; Jones 1937; PECS; Sear 2006.
+Hanson2016_282,Heraclea (Asia) (1),Bafa GÃ¶lÃ¼,Asia,Turkey,3,61 F2,-301,NULL,27.526883,37.502431,BNP; Cohen 1995; DGRG; Hansen and Nielsen 2004; Hanson 2011; Jones 1937; PECS; Sear 2006.
 Hanson2016_283,Heraclea (Asia) (2),Vakif,Asia,Turkey,3,65 A2,-323,NULL,28.994099,37.628189,BNP; Hansen and Nielsen 2004; Jones 1937; PECS.
 Hanson2016_284,Hierapolis,Pamukkale,Asia,Turkey,3,65 B2,-300,NULL,29.131799,37.917505,Cohen 1995; Jones 1937; McEvedy 2011; PECS; Sear 2006.
 Hanson2016_285,Hydissa,Karacahisar,Asia,Turkey,4 or 5,61 F3,-323,NULL,27.806175,37.150552,DGRG; Hansen and Nielsen 2004; PECS.
@@ -288,17 +288,17 @@ Hanson2016_286,Hyllarima,Mesevle and Kapraklar,Asia,Turkey,4 or 5,61 G2,-323,NUL
 Hanson2016_287,Iasus,Kiyi Kilacik,Asia,Turkey,3,61 F3,-700,NULL,27.582133,37.277521,BNP; Cohen 1995; DGRG; Hansen 2006; Hansen and Nielsen 2004; Hanson 2011; Jones 1937; PECS; Sear 2006.
 Hanson2016_288,Ilium,H?sarl?k,Asia,Turkey,3,56 C2,-700,NULL,26.257773,39.953869,BNP; Cohen 1995; DGRG; Hansen and Nielsen 2004; Jones 1937; PECS; Sear 2006.
 Hanson2016_289,Lampsacus,Lamsaki,Asia,Turkey,3,51 H4,-654,NULL,26.699162,40.346685,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; Hansen and Nielsen 2004; Jones 1937; MacMullen 2000; PECS; Salmon 1969.
-Hanson2016_290,Laodicea (Asia),Eskihisar and Gonçal?,Asia,Turkey,2,65 B2,-261,NULL,29.114376,37.84108,BNP; Cohen 1995; Hanson 2011; Jones 1937; McEvedy 2011; PECS; Sear 2006.
+Hanson2016_290,Laodicea (Asia),Eskihisar and GonÃ§al?,Asia,Turkey,2,65 B2,-261,NULL,29.114376,37.84108,BNP; Cohen 1995; Hanson 2011; Jones 1937; McEvedy 2011; PECS; Sear 2006.
 Hanson2016_291,Larisa (Asia),Buruncuk,Asia,Turkey,4 or 5,56 C2,-323,NULL,26.147559,39.615744,Cohen 1995; Hansen and Nielsen 2004; Jones 1937; PECS.
 Hanson2016_292,Lebedus,Kisik,Asia,Turkey,4 or 5,61 D1,-700,NULL,26.967317,38.072781,BNP; Cohen 1995; DGRG; Hansen and Nielsen 2004; Jones 1937; PECS; Sear 2006.
 Hanson2016_293,Lindus,Lindos,Asia,Greece,4 or 5,60 G3,-600,NULL,28.08776,36.091362,BNP; DGRG; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_294,Magnesia (Asia) (1),Tekin,Asia,Turkey,3,61 F2,-400,NULL,27.524647,37.84779,BNP; DGRG; Hansen and Nielsen 2004; Jones 1937; PECS; Sear 2006.
 Hanson2016_295,Magnesia (Asia) (2),Manisa,Asia,Turkey,3,56 E4,-700,NULL,27.425833,38.613056,BNP; Cohen 1995; DGRG; Hansen and Nielsen 2004; Jones 1937; PECS; Sear 2006.
 Hanson2016_296,Methymna,Mithymna,Asia,Greece,4 or 5,56 C3,-700,NULL,26.176097,39.36722,BNP; DGRG; Hansen and Nielsen 2004; PECS; Sear 2006.
-Hanson2016_297,Metropolis,Yeniköy,Asia,Turkey,3,62 E3,-323,NULL,30.628155,39.171334,BNP; Cohen 1995; DGRG; Hansen and Nielsen 2004; Hanson 2011; Jones 1937; PECS; Sear 2006.
+Hanson2016_297,Metropolis,YenikÃ¶y,Asia,Turkey,3,62 E3,-323,NULL,30.628155,39.171334,BNP; Cohen 1995; DGRG; Hansen and Nielsen 2004; Hanson 2011; Jones 1937; PECS; Sear 2006.
 Hanson2016_298,Miletus,Balat,Asia,Turkey,2,61 E2,-479,NULL,27.27621,37.531791,Hansen 2006; Hansen and Nielsen 2004; Hanson 2011; Jones 1937; McEvedy 2011; PECS; Russell 1958; Sear 2006.
-Hanson2016_299,Mylasa,Milâs,Asia,Turkey,3,61 F3,-500,NULL,27.78165,37.31714,BNP; Cohen 1995; DGRG; Hansen and Nielsen 2004; Jones 1937; PECS; Sear 2006.
-Hanson2016_300,Myndus,Gümüslük,Asia,Turkey,4 or 5,61 E3,-360,NULL,27.233275,37.052928,BNP; Hansen 2006; Hansen and Nielsen 2004; Jones 1937; PECS.
+Hanson2016_299,Mylasa,MilÃ¢s,Asia,Turkey,3,61 F3,-500,NULL,27.78165,37.31714,BNP; Cohen 1995; DGRG; Hansen and Nielsen 2004; Jones 1937; PECS; Sear 2006.
+Hanson2016_300,Myndus,GÃ¼mÃ¼slÃ¼k,Asia,Turkey,4 or 5,61 E3,-360,NULL,27.233275,37.052928,BNP; Hansen 2006; Hansen and Nielsen 2004; Jones 1937; PECS.
 Hanson2016_301,Myrina,Sandarlik,Asia,Turkey,4 or 5,56 D4,-700,NULL,26.985537,38.840097,BNP; DGRG; Hansen and Nielsen 2004; Jones 1937; PECS; Sear 2006.
 Hanson2016_302,Mytilene,Mytilini,Asia,Greece,3,56 D3,-700,NULL,26.555374,39.107893,Beloch 1886; BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; Jones 1937; PECS; Russell 1958; Sear 2006.
 Hanson2016_303,Nysa,Sultanhisar,Asia,Turkey,3,61 G2,-281,NULL,28.144999,37.903405,BNP; Cohen 1995; DGRG; Hanson 2011; Jones 1937; PECS; Quinn and Wilson 2013; Sear 2006.
@@ -306,7 +306,7 @@ Hanson2016_304,Parium,Kemer,Asia,Turkey,3,52 A4,-600,NULL,27.069096,40.420499,BN
 Hanson2016_305,Pergamum,Bergama,Asia,Turkey,2,56 E3,-500,NULL,27.185314,39.12984,Benario 1981; Cohen 1995; Golvin 1988; Hansen 2006; Hansen and Nielsen 2004; Hanson 2011; Jones 1937; McEvedy 2011; PECS; Russell 1958; Sear 2006.
 Hanson2016_306,Pessinus,Sivrihisar,Asia,Turkey,3,62 G3,-323,NULL,31.551393,39.381063,BNP; Cohen 1995; DGRG; Jones 1937; PECS; Sear 2006.
 Hanson2016_307,Philadelphia (Asia),Ala?ehir,Asia,Turkey,3,56 H5,-159,NULL,28.516667,38.35,BNP; Jones 1937; PECS; Sear 2006.
-Hanson2016_308,Phocaea,Foça,Asia,Turkey,3,56 D4,-700,NULL,26.758728,38.672908,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; Jones 1937; PECS; Sear 2006.
+Hanson2016_308,Phocaea,FoÃ§a,Asia,Turkey,3,56 D4,-700,NULL,26.758728,38.672908,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; Jones 1937; PECS; Sear 2006.
 Hanson2016_309,Rhodus,Rhodes,Asia,Greece,3,60 G3,-408,NULL,28.227007,36.443235,Beloch 1886; Hansen 2006; Hansen and Nielsen 2004; Jones 1937; McEvedy 2011; PECS; Russell 1958; Sear 2006.
 Hanson2016_310,Saettae,Sidas Kale,Asia,Turkey,3,62 A4,-323,NULL,28.624001,38.703021,BNP; Jones 1937; PECS.
 Hanson2016_311,Samos,Tigani,Asia,Greece,3,61 D2,-700,NULL,26.94006,37.691522,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; Jones 1937; PECS; Sear 2006.
@@ -331,25 +331,25 @@ Hanson2016_329,Baelo,Bolonia,Baetica,Spain,3,26 E5,-27,NULL,-5.774611,36.089886,
 Hanson2016_330,Callet,Tajo de Mogarejo,Baetica,Spain,3,26 E4,-49,NULL,-5.626201,37.052305,MacMullen 2000.
 Hanson2016_331,Canama,Alcolea,Baetica,Spain,3,26 E4,-50,NULL,-5.671334,37.614155,Sear 2006.
 Hanson2016_332,Carissa,Carija,Baetica,Spain,3,26 E5,-50,NULL,-5.732102,36.877668,Keay 1998.
-Hanson2016_333,Carmo,Carmona,Baetica,Spain,3,26 E4,-50,NULL,-5.640374,37.471356,BNP; Carreras Monfort 1995-1996; Keay 1998; Nelis-Clément and Roddaz 2008; PECS; Russell 1958.
+Hanson2016_333,Carmo,Carmona,Baetica,Spain,3,26 E4,-50,NULL,-5.640374,37.471356,BNP; Carreras Monfort 1995-1996; Keay 1998; Nelis-ClÃ©ment and Roddaz 2008; PECS; Russell 1958.
 Hanson2016_334,Carteia,Cortijo de el Rocadillo,Baetica,Spain,3,26 E5,-400,NULL,-5.410359,36.183163,BNP; Carreras Monfort 1995-1996; DGRG; Keay 1998; MacMullen 2000; PECS; Sear 2006.
 Hanson2016_335,Cartima,Cartama,Baetica,Spain,3,27 A5,-50,NULL,-4.630741,36.711313,BNP; Sear 2006.
-Hanson2016_336,Corduba,Córdoba,Baetica,Spain,1,26 F4,-152,NULL,-4.78025,37.88376,Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; Keay 1998; MacMullen 2000; McEvedy 2011; Nelis-Clément and Roddaz 2008; PECS; Russell 1958; Salmon 1969; Sear 2006.
-Hanson2016_337,Gades,Cádiz,Baetica,Spain,2,26 D5,-400,NULL,-6.292409,36.529942,BNP; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; DGRG; Keay 1998; MacMullen 2000; Nelis-Clément and Roddaz 2008; PECS; Russell 1958; Sear 2006.
+Hanson2016_336,Corduba,CÃ³rdoba,Baetica,Spain,1,26 F4,-152,NULL,-4.78025,37.88376,Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; Keay 1998; MacMullen 2000; McEvedy 2011; Nelis-ClÃ©ment and Roddaz 2008; PECS; Russell 1958; Salmon 1969; Sear 2006.
+Hanson2016_337,Gades,CÃ¡diz,Baetica,Spain,2,26 D5,-400,NULL,-6.292409,36.529942,BNP; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; DGRG; Keay 1998; MacMullen 2000; Nelis-ClÃ©ment and Roddaz 2008; PECS; Russell 1958; Sear 2006.
 Hanson2016_338,Hasta Regia,Mesas de Asta,Baetica,Spain,3,26 D5,-49,NULL,-6.172572,36.788002,BNP; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; Keay 1998; MacMullen 2000; PECS; Salmon 1969.
-Hanson2016_339,Hispalis,Seville,Baetica,Spain,2,26 E4,-45,NULL,-5.996676,37.394112,BNP; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; DGRG; Keay 1998; MacMullen 2000; Nelis-Clément and Roddaz 2008; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Wilkes 2003b; Woloch 1983.
-Hanson2016_340,Ilipa,Alcalá del Río,Baetica,Spain,4 or 5,26 E4,-49,NULL,-5.978254,37.518215,BNP; Carreras Monfort 1995-1996; DGRG; Keay 1998; MacMullen 2000; PECS.
+Hanson2016_339,Hispalis,Seville,Baetica,Spain,2,26 E4,-45,NULL,-5.996676,37.394112,BNP; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; DGRG; Keay 1998; MacMullen 2000; Nelis-ClÃ©ment and Roddaz 2008; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Wilkes 2003b; Woloch 1983.
+Hanson2016_340,Ilipa,AlcalÃ¡ del RÃ­o,Baetica,Spain,4 or 5,26 E4,-49,NULL,-5.978254,37.518215,BNP; Carreras Monfort 1995-1996; DGRG; Keay 1998; MacMullen 2000; PECS.
 Hanson2016_341,Iliturgi,Cortijo de Maquiz,Baetica,Spain,3,27 B4,-50,NULL,-3.80883,37.968343,MacMullen 2000.
 Hanson2016_342,Illiberi,Elvira,Baetica,Spain,4 or 5,27 B4,-50,NULL,-3.597934,37.176484,BNP; DGRG; MacMullen 2000; PECS; Quinn and Wilson 2013.
-Hanson2016_343,Iluro,Mataró,Baetica,Spain,3,26 F5,-100,NULL,-4.706673,36.822609,Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; MacMullen 2000.
+Hanson2016_343,Iluro,MatarÃ³,Baetica,Spain,3,26 F5,-100,NULL,-4.706673,36.822609,Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; MacMullen 2000.
 Hanson2016_344,Iptuci,Torreparedones,Baetica,Spain,3,27 A4,-49,NULL,-4.377602,37.755932,Brunt 1971; Cornell and Mathews 1982; DGRG; Keay 1998; MacMullen 2000; Salmon 1969.
 Hanson2016_345,Irni,Molino del Postero,Baetica,Spain,3,26 E4,-50,NULL,-5.108907,37.050024,Boatwright 2000.
 Hanson2016_346,Isturgi,Los Villares,Baetica,Spain,3,27 A3,-50,NULL,-4.022437,38.030217,MacMullen 2000; Sear 2006.
-Hanson2016_347,Italica,Santiponce,Baetica,Spain,3,26 D4,-206,NULL,-6.044856,37.44111,Benario 1981; BNP; Boatwright 2000; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; Golvin 1988; Keay 1998; MacMullen 2000; Nelis-Clément and Roddaz 2008; PECS; Quinn and Wilson 2013; Salmon 1969; Sear 2006; Woloch 1983.
+Hanson2016_347,Italica,Santiponce,Baetica,Spain,3,26 D4,-206,NULL,-6.044856,37.44111,Benario 1981; BNP; Boatwright 2000; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; Golvin 1988; Keay 1998; MacMullen 2000; Nelis-ClÃ©ment and Roddaz 2008; PECS; Quinn and Wilson 2013; Salmon 1969; Sear 2006; Woloch 1983.
 Hanson2016_348,Iulia Traducta,Algericas,Baetica,Spain,3,26 E5,-27,NULL,-5.447744,36.129768,Brunt 1971; PECS; Salmon 1969.
 Hanson2016_349,Laepia,Rio de las Piedras?,Baetica,Spain,-,26 Unlocated,-50,NULL,-6.106487,36.695801,Keay 1998.
 Hanson2016_350,Lucurgentum,Moron de la Frontera,Baetica,Spain,3,26 E4,-49,NULL,-5.451969,37.122328,Keay 1998; MacMullen 2000; Sear 2006.
-Hanson2016_351,Malaca,Málaga,Baetica,Spain,3,27 A5,-200,NULL,-4.416667,36.716667,BNP; Carreras Monfort 1995-1996; DGRG; Keay 1998; PECS; Russell 1958; Sear 2006; Woloch 1983.
+Hanson2016_351,Malaca,MÃ¡laga,Baetica,Spain,3,27 A5,-200,NULL,-4.416667,36.716667,BNP; Carreras Monfort 1995-1996; DGRG; Keay 1998; PECS; Russell 1958; Sear 2006; Woloch 1983.
 Hanson2016_352,Munigua,Mulva,Baetica,Spain,3,26 E4,-50,NULL,-5.740734,37.713343,BNP; Carreras Monfort 1995-1996; Keay 1998; PECS.
 Hanson2016_353,Nabrissa,Lebrija,Baetica,Spain,3,26 D5,-49,NULL,-6.078402,36.919505,DGRG; MacMullen 2000.
 Hanson2016_354,Nertobriga,Unknown,Baetica,Spain,3,26 D3,-50,NULL,-6.651443,38.164818,BNP; MacMullen 2000.
@@ -361,9 +361,9 @@ Hanson2016_359,Sacili,Alcorrucen,Baetica,Spain,3,27 A4,-50,NULL,-4.507161,38.005
 Hanson2016_360,Salpensa,Cortijo de la Coria,Baetica,Spain,3,26 E4,-50,NULL,-5.781537,37.181513,BNP; ; Woloch 1983.
 Hanson2016_361,Segida,Unknown,Baetica,Spain,3,26 D3,-50,NULL,-6.589301,38.378494,DGRG; Keay 1998; MacMullen 2000.
 Hanson2016_362,Seria,Jerez de los Caballeros,Baetica,Spain,3,26 D3,-49,NULL,-6.771094,38.319329,MacMullen 2000.
-Hanson2016_363,Sexi,Almuñécar,Baetica,Spain,3,27 B5,-200,NULL,-3.690736,36.73454,BNP; MacMullen 2000.
+Hanson2016_363,Sexi,AlmuÃ±Ã©car,Baetica,Spain,3,27 B5,-200,NULL,-3.690736,36.73454,BNP; MacMullen 2000.
 Hanson2016_364,Siarum,Torre del Aguila,Baetica,Spain,3,26 E4,-50,NULL,-5.751603,37.052397,Keay 1998; MacMullen 2000.
-Hanson2016_365,Singilia Barba,Cortijo del Castillón,Baetica,Spain,4 or 5,26 F4,-50,NULL,-4.630364,37.032488,Keay 1998; Nelis-Clément and Roddaz 2008; Sear 2006.
+Hanson2016_365,Singilia Barba,Cortijo del CastillÃ³n,Baetica,Spain,4 or 5,26 F4,-50,NULL,-4.630364,37.032488,Keay 1998; Nelis-ClÃ©ment and Roddaz 2008; Sear 2006.
 Hanson2016_366,Suel,Fuengirola,Baetica,Spain,3,27 A5,-50,NULL,-4.628919,36.525435,DGRG.
 Hanson2016_367,Tucci,Martos,Baetica,Spain,3,27 B4,-27,NULL,-3.966243,37.722761,BNP; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; Keay 1998; MacMullen 2000; Salmon 1969; Sear 2006.
 Hanson2016_368,Ucubi,Espejo,Baetica,Spain,3,27 A4,-49,NULL,-4.552369,37.682102,Brunt 1971; Cornell and Mathews 1982; DGRG; Keay 1998; MacMullen 2000; PECS; Salmon 1969.
@@ -375,16 +375,16 @@ Hanson2016_373,Urso,Osuna,Baetica,Spain,3,26 E4,-45,NULL,-5.103412,37.237271,BNP
 Hanson2016_374,Amastris,Amasra,Bithynia et Pontus,Turkey,3,86 C2,-400,NULL,32.380582,41.734981,BNP; Cohen 1995; DGRG; Hansen and Nielsen 2004; Jones 1937; PECS; Sear 2006.
 Hanson2016_375,Amisus,Samsun,Bithynia et Pontus,Turkey,4 or 5,87 B3,-750,NULL,36.3313,41.292721,BNP; Cohen 1995; DGRG; Hansen and Nielsen 2004; Jones 1937; MacMullen 2000; PECS.
 Hanson2016_376,Apamea (Bithynia et Pontus),Mudanya,Bithynia et Pontus,Turkey,3,52 D4,-500,NULL,28.891104,40.368487,BNP; Brunt 1971; Cohen 1995; Cornell and Mathews 1982; DGRG; Hansen and Nielsen 2004; Jones 1937; MacMullen 2000; Salmon 1969; Sear 2006.
-Hanson2016_377,Chalcedon,Kad?köy,Bithynia et Pontus,Turkey,3,53 B3,-685,NULL,29.026779,40.985381,BNP; Hansen and Nielsen 2004; Jones 1937; PECS.
+Hanson2016_377,Chalcedon,Kad?kÃ¶y,Bithynia et Pontus,Turkey,3,53 B3,-685,NULL,29.026779,40.985381,BNP; Hansen and Nielsen 2004; Jones 1937; PECS.
 Hanson2016_378,Nicaea,Iznik,Bithynia et Pontus,Turkey,2,52 F4,-316,NULL,29.71967,40.427979,BNP; Boatwright 2000; Cohen 1995; DGRG; Hanson 2011; Jones 1937; PECS; Russell 1958; Sear 2006.
-Hanson2016_379,Nicomedia,Ismit,Bithynia et Pontus,Turkey,2,52 F3,-264,NULL,29.919877,40.760677,BNP; Boatwright 2000; Cohen 1995; Jones 1937; Nelis-Clément and Roddaz 2008; PECS; Russell 1958; Salmon 1969; Sear 2006.
+Hanson2016_379,Nicomedia,Ismit,Bithynia et Pontus,Turkey,2,52 F3,-264,NULL,29.919877,40.760677,BNP; Boatwright 2000; Cohen 1995; Jones 1937; Nelis-ClÃ©ment and Roddaz 2008; PECS; Russell 1958; Salmon 1969; Sear 2006.
 Hanson2016_380,Prusias,Konuralp,Bithynia et Pontus,Turkey,3,86 B3,-600,NULL,31.148171,40.905988,BNP; Cohen 1995; Jones 1937; PECS; Sear 2006.
 Hanson2016_381,Sinope,Sinop,Bithynia et Pontus,Turkey,2,87 A2,-756,NULL,35.148025,42.026184,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; Hansen and Nielsen 2004; Jones 1937; MacMullen 2000; PECS; Salmon 1969.
-Hanson2016_382,Tius,Hisarönü,Bithynia et Pontus,Turkey,3,86 C2,-700,NULL,32.055366,41.558273,BNP; Jones 1937; PECS.
+Hanson2016_382,Tius,HisarÃ¶nÃ¼,Bithynia et Pontus,Turkey,3,86 C2,-700,NULL,32.055366,41.558273,BNP; Jones 1937; PECS.
 Hanson2016_383,Aquae Sulis,Bath,Britannia,United Kingdom,4 or 5,8 E3,100,NULL,-2.357454,51.381428,BNP; Burnham and Wacher 1990; McEvedy 2011; Millett 1990: Table 6.5; PECS.
 Hanson2016_384,Caesaromagus (Britannia),Chelmsford,Britannia,France,4 or 5,8 H3,100,NULL,0.469708,51.735814,DGRG; Millett 1990: Table 6.5; Russell 1958; Wacher 1995.
 Hanson2016_385,Calleva,Silchester,Britannia,United Kingdom,3,8 F3,50,NULL,-1.082817,51.357148,Golvin 1988; McEvedy 2011; Millett 1990: Table 4.4; Millett 1990: Table 6.5; PECS; Russell 1958; Wacher 1995; Woloch 1983.
-Hanson2016_386,Camulodunum,Colchester,Britannia,United Kingdom,3,8 H3,49,NULL,0.899031,51.890961,Humphrey 1986; McEvedy 2011; Millett 1990: Table 4.4; Millett 1990: Table 6.5; Nelis-Clément and Roddaz 2008; PECS; Russell 1958; Salmon 1969; Sear 2006; Wacher 1995; Woloch 1983.
+Hanson2016_386,Camulodunum,Colchester,Britannia,United Kingdom,3,8 H3,49,NULL,0.899031,51.890961,Humphrey 1986; McEvedy 2011; Millett 1990: Table 4.4; Millett 1990: Table 6.5; Nelis-ClÃ©ment and Roddaz 2008; PECS; Russell 1958; Salmon 1969; Sear 2006; Wacher 1995; Woloch 1983.
 Hanson2016_387,Corinium Dobunnorum,Cirencester,Britannia,United Kingdom,3,8 F3,100,NULL,-1.966753,51.713643,Golvin 1988; McEvedy 2011; Millett 1990: Table 4.4; Millett 1990: Table 6.5; PECS; Russell 1958; Sear 2006; Wacher 1995.
 Hanson2016_388,Corstopitum,Corbridge,Britannia,United Kingdom,4 or 5,9 E6,200,NULL,-2.029155,54.978122,BNP; Burnham and Wacher 1990; Millett 1990: Table 6.5; PECS.
 Hanson2016_389,Durnovaria,Dorchester,Britannia,United Kingdom,3,8 E4,100,NULL,-2.440504,50.71094,BNP; DGRG; Golvin 1988; Millett 1990: Table 4.4; Millett 1990: Table 6.5; PECS; Russell 1958; Wacher 1995.
@@ -410,10 +410,10 @@ Hanson2016_408,Verulamium,S. Albans,Britannia,United Kingdom,3,8 G3,50,NULL,-0.3
 Hanson2016_409,Viroconium,Wroxeter,Britannia,United Kingdom,3,8 E2,100,NULL,-2.644025,52.674302,BNP; DGRG; Millett 1990: Table 4.4; Millett 1990: Table 6.5; PECS; Russell 1958; Wacher 1995; Woloch 1983.
 Hanson2016_410,Amasia,Amasya,Cappadocia et Galatia,Turkey,4 or 5,87 A4,-323,NULL,35.828747,40.659003,Jones 1937; McEvedy 2011; PECS.
 Hanson2016_411,Ancyra,Ankara,Cappadocia et Galatia,Turkey,2,63 B1,-25,NULL,32.860416,39.941901,BNP; Broughton 1938; DGRG; Jones 1937; PECS; Russell 1958; Sear 2006.
-Hanson2016_412,Antiochia (Cappadocia et Galatia),Yalvaç,Cappadocia et Galatia,Turkey,2,62 F5,-281,NULL,31.178933,38.300733,BNP; Brunt 1971; Cohen 1995; Cornell and Mathews 1982; Hanson 2011; Jones 1937; MacMullen 2000; McEvedy 2011; PECS; Salmon 1969; Sear 2006.
+Hanson2016_412,Antiochia (Cappadocia et Galatia),YalvaÃ§,Cappadocia et Galatia,Turkey,2,62 F5,-281,NULL,31.178933,38.300733,BNP; Brunt 1971; Cohen 1995; Cornell and Mathews 1982; Hanson 2011; Jones 1937; MacMullen 2000; McEvedy 2011; PECS; Salmon 1969; Sear 2006.
 Hanson2016_413,Archelais,Aksaray,Cappadocia et Galatia,Turkey,3,63 E4,-36,NULL,34.035252,38.37844,BNP; PECS; Salmon 1969.
 Hanson2016_414,Comana,?ar,Cappadocia et Galatia,Turkey,3,64 C4,-323,NULL,36.325893,38.329523,BNP; Cornell and Mathews 1982; Jones 1937; MacMullen 2000; PECS; Sear 2006.
-Hanson2016_415,Faustinopolis,Ba?makç?,Cappadocia et Galatia,Turkey,4 or 5,66 F1,161,NULL,34.744323,37.654291,DGRG; Jones 1937; PECS; Salmon 1969.
+Hanson2016_415,Faustinopolis,Ba?makÃ§?,Cappadocia et Galatia,Turkey,4 or 5,66 F1,161,NULL,34.744323,37.654291,DGRG; Jones 1937; PECS; Salmon 1969.
 Hanson2016_416,Germa,Babadat,Cappadocia et Galatia,Turkey,2,62 G2,-25,NULL,31.616172,39.511421,BNP; DGRG; Jones 1937; MacMullen 2000; Salmon 1969.
 Hanson2016_417,Iconium,Konya,Cappadocia et Galatia,Turkey,3,66 B1,-323,NULL,32.492331,37.872202,BNP; Boatwright 2000; DGRG; Jones 1937; MacMullen 2000; Salmon 1969.
 Hanson2016_418,Isaura,Ulu Pinar,Cappadocia et Galatia,Turkey,4 or 5,66 A2,-75,NULL,32.453818,37.260592,BNP; DGRG; PECS.
@@ -423,15 +423,15 @@ Hanson2016_421,Melitene,Malatya,Cappadocia et Galatia,Turkey,2,64 E4,71,NULL,37.
 Hanson2016_422,Neocaesarea,Niksar,Cappadocia et Galatia,Turkey,4 or 5,87 B4,-64,NULL,37.020122,40.589213,BNP; DGRG; Jones 1937; PECS.
 Hanson2016_423,Nicopolis (Cappadocia (et Galatia)),Yeilyayla,Cappadocia et Galatia,Turkey,4 or 5,87 D4,-305,NULL,38.143534,40.148557,BNP; Cohen 1995; DGRG; PECS.
 Hanson2016_424,Sebaste,Sivas,Cappadocia et Galatia,Turkey,3,64 E1,-64,NULL,37.016663,39.749999,BNP; DGRG; PECS.
-Hanson2016_425,Tavium,Büyüknefes,Cappadocia et Galatia,Turkey,3,63 F1,-323,NULL,34.456374,39.878991,BNP; DGRG; Jones 1937; PECS; Sear 2006.
+Hanson2016_425,Tavium,BÃ¼yÃ¼knefes,Cappadocia et Galatia,Turkey,3,63 F1,-323,NULL,34.456374,39.878991,BNP; DGRG; Jones 1937; PECS; Sear 2006.
 Hanson2016_426,Tyana,Kemerhisan,Cappadocia et Galatia,Turkey,3,66 F1,-323,NULL,34.572513,37.82365,BNP; Cohen 1995; DGRG; Jones 1937; PECS; Salmon 1969.
 Hanson2016_427,Zela,Zile,Cappadocia et Galatia,Turkey,4 or 5,87 A4,-323,NULL,35.883334,40.3,BNP; Cohen 1995; DGRG; PECS.
 Hanson2016_428,Amathus,Amathos,Cilicia et Cyprus,Cyprus,3,72 C3,-600,NULL,33.14383,34.712175,Hansen 2006; Hansen and Nielsen 2004; Jones 1937; PECS; Wilson 2011.
-Hanson2016_429,Anazarbus,Anavarza,Cilicia et Cyprus,Turkey,2,67 B2,-323,NULL,35.906017,37.260375,BNP; DGRG; Jones 1937; Nelis-Clément and Roddaz 2008; PECS; Sear 2006.
+Hanson2016_429,Anazarbus,Anavarza,Cilicia et Cyprus,Turkey,2,67 B2,-323,NULL,35.906017,37.260375,BNP; DGRG; Jones 1937; Nelis-ClÃ©ment and Roddaz 2008; PECS; Sear 2006.
 Hanson2016_430,Anemurium,Eski Anemur,Cilicia et Cyprus,Turkey,3,66 B4,-323,NULL,32.802995,36.022713,BNP; DGRG; Jones 1937; PECS; Sear 2006.
-Hanson2016_431,Antiochia (Cilicia et Cyprus) (1),Endi?egüney,Cilicia et Cyprus,Turkey,4 or 5,66 A4,-323,NULL,32.429139,36.153303,BNP; DGRG; PECS.
+Hanson2016_431,Antiochia (Cilicia et Cyprus) (1),Endi?egÃ¼ney,Cilicia et Cyprus,Turkey,4 or 5,66 A4,-323,NULL,32.429139,36.153303,BNP; DGRG; PECS.
 Hanson2016_432,Antiochia (Cilicia et Cyprus) (2),Karata?,Cilicia et Cyprus,Turkey,3,66 G3,-323,NULL,35.4852,36.756188,BNP; Cohen 1995; DGRG; Jones 1937; Russell 1958.
-Hanson2016_433,Augusta Cilicia,Gübe,Cilicia et Cyprus,Turkey,4 or 5,66 G2,100,NULL,35.344088,37.245212,BNP; DGRG; PECS; Sear 2006.
+Hanson2016_433,Augusta Cilicia,GÃ¼be,Cilicia et Cyprus,Turkey,4 or 5,66 G2,100,NULL,35.344088,37.245212,BNP; DGRG; PECS; Sear 2006.
 Hanson2016_434,Carpasium,Haghios Philon,Cilicia et Cyprus,Northern Cyprus,3,72 E1,-700,NULL,34.368147,35.62473,Hansen and Nielsen 2004; Jones 1937; PECS.
 Hanson2016_435,Castabala,Denlizi,Cilicia et Cyprus,Turkey,3,67 C2,-323,NULL,36.177154,37.160372,BNP; Cohen 1995; DGRG; Hanson 2011; Jones 1937; PECS; Sear 2006.
 Hanson2016_436,Celenderis,Gilindire,Cilicia et Cyprus,Turkey,3,66 C4,-800,NULL,33.318,36.1427,BNP; DGRG; Hansen and Nielsen 2004; Jones 1937; PECS; Sear 2006.
@@ -442,7 +442,7 @@ Hanson2016_440,Colybrassus,Ayasofya,Cilicia et Cyprus,Turkey,4 or 5,65 G4,-323,N
 Hanson2016_441,Coracesium,Alanya,Cilicia et Cyprus,Turkey,3,65 G4,-323,NULL,31.985995,36.549144,BNP; DGRG; Jones 1937; PECS.
 Hanson2016_442,Coropissus,Da? Pazari,Cilicia et Cyprus,Turkey,-,66 Unlocated,-323,NULL,33.4775,36.818889,BNP; DGRG; PECS.
 Hanson2016_443,Curium,Kourion,Cilicia et Cyprus,United Kingdom,3,72 B3,-700,NULL,32.8877,34.6642,BNP; Hansen and Nielsen 2004; PECS; Sear 2006; Wilson 2011.
-Hanson2016_444,Diocaesarea,Uzuncaburç,Cilicia et Cyprus,Turkey,3,66 D3,-323,NULL,33.924665,36.580481,BNP; Hanson 2011; PECS; Sear 2006.
+Hanson2016_444,Diocaesarea,UzuncaburÃ§,Cilicia et Cyprus,Turkey,3,66 D3,-323,NULL,33.924665,36.580481,BNP; Hanson 2011; PECS; Sear 2006.
 Hanson2016_445,Drepanum (Cilicia et Cyprus),Unknown,Cilicia et Cyprus,Cyprus,4 or 5,72 A3,-600,NULL,32.320817,34.902248,BNP; DGRG; PECS.
 Hanson2016_446,Elaeussa,Aya?,Cilicia et Cyprus,Turkey,3,66 E4,-323,NULL,34.178741,36.494212,BNP; DGRG; Hansen and Nielsen 2004; Hanson 2011; PECS; Sear 2006.
 Hanson2016_447,Idalium,Dali,Cilicia et Cyprus,Cyprus,3,72 C2,-600,NULL,33.424817,35.01609,Hansen 2006; Hansen and Nielsen 2004; PECS.
@@ -455,14 +455,14 @@ Hanson2016_453,Neapaphus,Kato Paphos,Cilicia et Cyprus,Cyprus,2,72 A3,-400,NULL,
 Hanson2016_454,Oeniandus,Oiniandos,Cilicia et Cyprus,Turkey,3,67 C3,-323,NULL,36.154415,36.961892,BNP; Cohen 1995; DGRG; Jones 1937; PECS; Sear 2006.
 Hanson2016_455,Olba,U?ura,Cilicia et Cyprus,Turkey,4 or 5,66 D3,-323,NULL,33.956686,36.585191,BNP; DGRG; Jones 1937; PECS; Salmon 1969; Sear 2006.
 Hanson2016_456,Palaepaphus,Kouklia,Cilicia et Cyprus,Cyprus,3,72 B3,-600,NULL,32.573711,34.707147,BNP; Cohen 1995; DGRG; PECS.
-Hanson2016_457,Pompeiopolis,Ta?köprü,Cilicia et Cyprus,Turkey,3,66 F3,-600,NULL,34.603922,36.80888,BNP; DGRG; Hansen and Nielsen 2004; Jones 1937; PECS.
+Hanson2016_457,Pompeiopolis,Ta?kÃ¶prÃ¼,Cilicia et Cyprus,Turkey,3,66 F3,-600,NULL,34.603922,36.80888,BNP; DGRG; Hansen and Nielsen 2004; Jones 1937; PECS.
 Hanson2016_458,Salamis,Salamis,Cilicia et Cyprus,Northern Cyprus,2,72 D2,-750,NULL,33.902516,35.1848,Cohen 1995; Hansen 2006; Hansen and Nielsen 2004; McEvedy 2011; PECS; Sear 2006; Wilson 2011.
 Hanson2016_459,Seleucia (Cilicia et Cyprus),Silifke,Cilicia et Cyprus,Turkey,3,66 D4,-296,NULL,33.921463,36.379274,BNP; Cohen 1995; Hansen and Nielsen 2004; Hanson 2011; Jones 1937; PECS; Sear 2006.
 Hanson2016_460,Selinus,Gazipa?a,Cilicia et Cyprus,Turkey,4 or 5,66 A4,-323,NULL,32.283277,36.258467,Beloch 1886; BNP; DGRG; Jones 1937; Salmon 1969; Sear 2006; Woloch 1983.
 Hanson2016_461,Soli,Karavostasi,Cilicia et Cyprus,Northern Cyprus,3,72 B2,-700,NULL,32.811959,35.139761,BNP; DGRG; Hansen and Nielsen 2004; Jones 1937; PECS; Sear 2006.
 Hanson2016_462,Syedra,Sedra,Cilicia et Cyprus,Turkey,3,66 A4,-323,NULL,32.147655,36.446061,BNP; DGRG; Jones 1937; PECS.
 Hanson2016_463,Tarsus,Tarsus,Cilicia et Cyprus,Turkey,2,66 F3,-600,NULL,34.892717,36.917425,BNP; Cohen 1995; DGRG; Jones 1937; PECS.
-Hanson2016_464,Aleria,Aléria,Corsica et Sardinia,France,3,48 D2,-564,NULL,9.512141,42.102958,Bedon 2001; Bedon et al 1988; BNP; Boatwright 2000; Brunt 1971; Cornell and Mathews 1982; DGRG; Golvin 1988; Hansen and Nielsen 2004; PECS; Salmon 1969; Wilson 2011; .
+Hanson2016_464,Aleria,AlÃ©ria,Corsica et Sardinia,France,3,48 D2,-564,NULL,9.512141,42.102958,Bedon 2001; Bedon et al 1988; BNP; Boatwright 2000; Brunt 1971; Cornell and Mathews 1982; DGRG; Golvin 1988; Hansen and Nielsen 2004; PECS; Salmon 1969; Wilson 2011; .
 Hanson2016_465,Caralis,Cagliari,Corsica et Sardinia,Italy,3,48 B3,-400,NULL,9.104227,39.220021,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; Golvin 1988; PECS; Quinn and Wilson 2013; Sear 2006; Wilson 2011.
 Hanson2016_466,Cornus,S. Archittu,Corsica et Sardinia,Italy,4 or 5,48 A2,-400,NULL,8.492639,40.104395,BNP; DGRG; PECS.
 Hanson2016_467,Mariana,Bastia,Corsica et Sardinia,France,4 or 5,48 D2,-100,NULL,9.497109,42.538723,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; PECS; Salmon 1969.
@@ -479,8 +479,8 @@ Hanson2016_477,Chersonesus,Limani Khersonesou,Creta et Cyrenaica,Greece,3,60 D2,
 Hanson2016_478,Cisamus,Kastelli Kisamou,Creta et Cyrenaica,Greece,3,60 A2,-600,NULL,23.660727,35.495307,PECS.
 Hanson2016_479,Cnossus,Knossos,Creta et Cyrenaica,Greece,2,60 D2,-500,NULL,25.160724,35.298843,Brunt 1971; Cornell and Mathews 1982; Hansen and Nielsen 2004; MacMullen 2000; PECS; Salmon 1969.
 Hanson2016_480,Cydonea,Khania,Creta et Cyrenaica,Greece,2,60 B1,-524,NULL,24.01869,35.515775,Hansen and Nielsen 2004; PECS; Sear 2006; Wilson 2011.
-Hanson2016_481,Cyrene,Aïn Shahat,Creta et Cyrenaica,Libya,2,38 C1,-631,NULL,21.854404,32.820182,BNP; Golvin 1988; Hansen 2006; Hansen and Nielsen 2004; Humphrey 1986; Jones 1937; McEvedy 2011; Nelis-Clément and Roddaz 2008; PECS; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011.
-Hanson2016_482,Gortyna,Kainourgiou,Creta et Cyrenaica,Greece,2,60 C2,-323,NULL,24.946944,35.06272,Hansen and Nielsen 2004; Nelis-Clément and Roddaz 2008; PECS; Sear 2006; Wilson 2011.
+Hanson2016_481,Cyrene,AÃ¯n Shahat,Creta et Cyrenaica,Libya,2,38 C1,-631,NULL,21.854404,32.820182,BNP; Golvin 1988; Hansen 2006; Hansen and Nielsen 2004; Humphrey 1986; Jones 1937; McEvedy 2011; Nelis-ClÃ©ment and Roddaz 2008; PECS; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011.
+Hanson2016_482,Gortyna,Kainourgiou,Creta et Cyrenaica,Greece,2,60 C2,-323,NULL,24.946944,35.06272,Hansen and Nielsen 2004; Nelis-ClÃ©ment and Roddaz 2008; PECS; Sear 2006; Wilson 2011.
 Hanson2016_483,Hadrianopolis (Cyrenaica),Driana,Creta et Cyrenaica,Libya,3,38 B1,50,200,20.3075,32.358,Boatwright 2000.
 Hanson2016_484,Hierapytna,Ierapetra,Creta et Cyrenaica,Greece,2,60 E2,-500,NULL,25.736874,35.008189,Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_485,Lyctus,Xydas,Creta et Cyrenaica,Greece,2,60 D2,-500,NULL,25.359346,35.204721,Cohen 1995; Hansen and Nielsen 2004; PECS; Sear 2006.
@@ -515,7 +515,7 @@ Hanson2016_513,Baloie,Sipovo,Dalmatia,Bosnia and Herzegovina,3,20 E5,-44,NULL,17
 Hanson2016_514,Benzavaticum,Mostar,Dalmatia,Bosnia and Herzegovina,-,20 Unlocated,-44,NULL,18.5,43.500001,Wilkes 2003a.
 Hanson2016_515,Bistua Nova,Bugojno,Dalmatia,Bosnia and Herzegovina,3,20 E5,-44,NULL,17.437348,44.053454,BNP; Wilkes 2003a; Wilkes 2003b.
 Hanson2016_516,Blandona,Stabanj,Dalmatia,Croatia,4 or 5,20 C6,-44,NULL,15.501534,43.986045,DGRG; Wilkes 2003a.
-Hanson2016_517,Burnum,Ivoševci,Dalmatia,Croatia,3,20 C5,-35,NULL,15.993626,44.031704,BNP; DGRG; PECS; Wilkes 2003a; Wilkes 2003b.
+Hanson2016_517,Burnum,IvoÂševci,Dalmatia,Croatia,3,20 C5,-35,NULL,15.993626,44.031704,BNP; DGRG; PECS; Wilkes 2003a; Wilkes 2003b.
 Hanson2016_518,Butua,Budva,Dalmatia,Montenegro,4 or 5,49 A1,-44,NULL,18.8425,42.288056,Brunt 1971; Cornell and Mathews 1982; DGRG; Wilkes 2003a.
 Hanson2016_519,Cissa,Caska,Dalmatia,Croatia,4 or 5,20 B5,-44,NULL,14.918037,44.550965,BNP; Wilkes 2003a.
 Hanson2016_520,Corinium,Karin,Dalmatia,Croatia,4 or 5,20 C5,-44,NULL,15.633505,44.104528,MacMullen 2000; Wilkes 2003a.
@@ -526,16 +526,16 @@ Hanson2016_524,Diluntum,Stolac,Dalmatia,Bosnia and Herzegovina,3,20 E6,-44,NULL,
 Hanson2016_525,Doclea,Dukljia,Dalmatia,Montenegro,3,49 B1,-35,NULL,19.265596,42.468229,McEvedy 2011; PECS; Wilkes 2003a; Wilson 2011.
 Hanson2016_526,Domavium,Gradina,Dalmatia,Bosnia and Herzegovina,3,21 B5,-44,NULL,19.36267,44.143981,BNP; PECS; Wilkes 2003a; Wilkes 2003b.
 Hanson2016_527,Epidaurum,Cavtat,Dalmatia,Croatia,3,20 F7,-323,NULL,18.216409,42.582593,BNP; Brunt 1971; Cornell and Mathews 1982; MacMullen 2000; PECS; Salmon 1969; Wilkes 2003a; Wilkes 2003b.
-Hanson2016_528,Fulfinium,Omišalj,Dalmatia,Croatia,4 or 5,20 B4,-44,NULL,14.554038,45.211779,Wilkes 2003a.
+Hanson2016_528,Fulfinium,OmiÂšalj,Dalmatia,Croatia,4 or 5,20 B4,-44,NULL,14.554038,45.211779,Wilkes 2003a.
 Hanson2016_529,Iader,Zadar,Dalmatia,Croatia,3,20 C5,-35,NULL,15.224674,44.115526,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; MacMullen 2000; PECS; Quinn and Wilson 2013; Salmon 1969; Sear 2006; Wilkes 2003a; Wilkes 2003b; Wilson 2011.
 Hanson2016_530,Issa,Vis,Dalmatia,Croatia,-,-,-400,NULL,16.184086,43.061568,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006; Wilkes 2003a.
 Hanson2016_531,Leusaba,Bjelajce,Dalmatia,Bosnia and Herzegovina,4 or 5,20 E5,-44,NULL,17.083953,44.416993,Wilkes 2003a.
-Hanson2016_532,Lissus,Lezhë,Dalmatia,Albania,3,49 B2,-44,NULL,19.64367,41.785984,BNP; Brunt 1971; Cornell and Mathews 1982; Hansen 2006; Hansen and Nielsen 2004; PECS; Wilkes 2003a; Wilkes 2003b.
+Hanson2016_532,Lissus,LezhÃ«,Dalmatia,Albania,3,49 B2,-44,NULL,19.64367,41.785984,BNP; Brunt 1971; Cornell and Mathews 1982; Hansen 2006; Hansen and Nielsen 2004; PECS; Wilkes 2003a; Wilkes 2003b.
 Hanson2016_533,Lopsica,Sv. Juraj,Dalmatia,Croatia,4 or 5,20 B5,-44,NULL,14.92,44.928868,DGRG; Wilkes 2003a.
 Hanson2016_534,Magnum,Umljanovic,Dalmatia,Croatia,3,20 D6,-44,NULL,16.31337,43.793599,Wilkes 2003a.
 Hanson2016_535,Malvesia,Skelani,Dalmatia,Serbia,3,21 B6,-44,NULL,19.568865,43.969954,Wilkes 2003a; Wilkes 2003b.
 Hanson2016_536,Metulum,Vinicica,Dalmatia,Croatia,3,20 C4,-44,NULL,15.299752,45.209371,BNP; Wilkes 2003a; Wilkes 2003b.
-Hanson2016_537,Municipium S…,Komini,Dalmatia,Montenegro,4 or 5,21 B6,-44,NULL,19.358333,43.356667,PECS; Wilkes 2003a; Wilkes 2003b.
+Hanson2016_537,Municipium SÂ…,Komini,Dalmatia,Montenegro,4 or 5,21 B6,-44,NULL,19.358333,43.356667,PECS; Wilkes 2003a; Wilkes 2003b.
 Hanson2016_538,Narona,Narenta,Dalmatia,Bosnia and Herzegovina,3,20 E6,-49,NULL,17.61342,43.063722,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; MacMullen 2000; PECS; Salmon 1969; Sear 2006; Wilkes 2003a; Wilkes 2003b.
 Hanson2016_539,Nedinum,Nadin,Dalmatia,Croatia,4 or 5,20 C5,-27,NULL,15.497238,44.071458,Beloch 1880; BNP; DGRG; Wilkes 2003a; Wilkes 2003b.
 Hanson2016_540,Novae (Dalmatia),Runovic,Dalmatia,Bosnia and Herzegovina,3,20 E6,-44,NULL,17.500001,43.500001,BNP; Wilkes 2003a.
@@ -543,12 +543,12 @@ Hanson2016_541,Olcinium,Ulcinj,Dalmatia,Montenegro,4 or 5,49 B2,-44,NULL,19.2413
 Hanson2016_542,Ortoplinia,Stinica,Dalmatia,Croatia,3,20 B5,-44,NULL,14.89265,44.717576,Brunt 1971; Cornell and Mathews 1982; DGRG; Wilkes 2003a.
 Hanson2016_543,Raetinium,Golubic,Dalmatia,Bosnia and Herzegovina,4 or 5,20 C5,-44,NULL,15.938378,44.781037,Wilkes 2003a.
 Hanson2016_544,Rider,Danilo,Dalmatia,Croatia,3,20 D6,-44,NULL,16.055704,43.700462,BNP; PECS; Wilkes 2003a.
-Hanson2016_545,Ris…,Rogatica,Dalmatia,Bosnia and Herzegovina,3,20 G6,-44,NULL,19.004323,43.8017,Wilkes 2003a.
+Hanson2016_545,RisÂ…,Rogatica,Dalmatia,Bosnia and Herzegovina,3,20 G6,-44,NULL,19.004323,43.8017,Wilkes 2003a.
 Hanson2016_546,Risinium,Risan,Dalmatia,Montenegro,3,20 F7,-44,NULL,18.694988,42.514718,BNP; Brunt 1971; Cornell and Mathews 1982; MacMullen 2000; PECS; Wilkes 2003a.
 Hanson2016_547,Salona,Solin,Dalmatia,Croatia,2,20 D6,-78,NULL,16.48323,43.539485,BNP; Bomgardner 2000; Brunt 1971; Cornell and Mathews 1982; MacMullen 2000; McEvedy 2011; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Wilkes 2003a; Wilkes 2003b; Wilson 2011.
 Hanson2016_548,Salvium,Glamo?,Dalmatia,Bosnia and Herzegovina,3,20 D5,-44,NULL,16.751098,44.048361,BNP; Wilkes 2003a; Wilkes 2003b.
 Hanson2016_549,Scardona,Skradin,Dalmatia,Croatia,3,20 C6,-44,NULL,15.923047,43.817902,BNP; PECS; Wilkes 2003a.
-Hanson2016_550,Scodra,Shkodër,Dalmatia,Albania,3,49 B1,-44,NULL,19.522997,42.066252,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; MacMullen 2000; Salmon 1969; Wilkes 2003a.
+Hanson2016_550,Scodra,ShkodÃ«r,Dalmatia,Albania,3,49 B1,-44,NULL,19.522997,42.066252,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; MacMullen 2000; Salmon 1969; Wilkes 2003a.
 Hanson2016_551,Senia,Senj,Dalmatia,Croatia,3,20 B5,-44,NULL,14.900878,44.990559,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; MacMullen 2000; PECS; Wilkes 2003a; Wilkes 2003b.
 Hanson2016_552,Setovia,Susanj,Dalmatia,Croatia,4 or 5,20 D6,-44,NULL,16.655524,43.719024,DGRG; Wilkes 2003a; Wilkes 2003b.
 Hanson2016_553,Sidrona,Gradina,Dalmatia,Croatia,4 or 5,20 C5,-44,NULL,15.792445,44.09906,Wilkes 2003a.
@@ -571,10 +571,10 @@ Hanson2016_569,Divona,Cahors,Gallia Aquitania,France,3,14 G4,-27,NULL,1.434132,4
 Hanson2016_570,Limonum,Poitiers,Gallia Aquitania,France,3,14 F2,-27,NULL,0.344832,46.580343,Bedon 2001; Bedon et al 1988; Benario 1981; BNP; DGRG; Golvin 1988; PECS; Russell 1958.
 Hanson2016_571,Lugdunum Convenarum,S. Bertrand de Comminges,Gallia Aquitania,France,3,25 F2,-43,NULL,0.573699,43.02753,Golvin 1988; MacMullen 2000; PECS; Salmon 1969; Sear 2006; Woloch 1983.
 Hanson2016_572,Mediolanum (Gallia Aquitania),Saintes,Gallia Aquitania,France,3,14 E3,-20,NULL,-0.641006,45.745105,Bedon 2001; Bedon et al 1988; BNP; DGRG; Golvin 1988; Humphrey 1986; MacMullen 2000; PECS; Quinn and Wilson 2013; Russell 1958; Sear 2006; Woloch 1983.
-Hanson2016_573,Ratiatum,Rezé,Gallia Aquitania,France,4 or 5,14 D1,-27,NULL,-1.546694,47.183971,DGRG; PECS.
+Hanson2016_573,Ratiatum,RezÃ©,Gallia Aquitania,France,4 or 5,14 D1,-27,NULL,-1.546694,47.183971,DGRG; PECS.
 Hanson2016_574,Segodunum,Rodez,Gallia Aquitania,France,3,14 H4,-27,NULL,2.573786,44.351011,Bedon 2001; Bedon et al 1988; BNP; DGRG; Golvin 1988; PECS.
 Hanson2016_575,Unknown (2),Civaux,Gallia Aquitania,France,-,-,-27,NULL,0.664866,46.444209,PECS; Sear 2006.
-Hanson2016_576,Vesunna,Périgueux,Gallia Aquitania,France,3,14 F3,-27,NULL,0.721994,45.183546,Bedon 2001; Bedon et al 1988; BNP; Golvin 1988; MacMullen 2000; PECS; Sear 2006; Woloch 1983.
+Hanson2016_576,Vesunna,PÃ©rigueux,Gallia Aquitania,France,3,14 F3,-27,NULL,0.721994,45.183546,Bedon 2001; Bedon et al 1988; BNP; Golvin 1988; MacMullen 2000; PECS; Sear 2006; Woloch 1983.
 Hanson2016_577,Vetus Pictavis,Vieux Poitiers,Gallia Aquitania,France,-,-,-27,NULL,0.512508,46.761759,PECS; Sear 2006.
 Hanson2016_578,Vindobriga (Gallia Aquitania) (1),Vendeuvre du Poitou,Gallia Aquitania,France,-,-,-27,NULL,0.309739,46.735447,PECS; Sear 2006.
 Hanson2016_579,Vindobriga (Gallia Aquitania) (2),Vendoeuvres en Brenne,Gallia Aquitania,France,4 or 5,14 G2,-27,NULL,1.354148,46.800928,BNP; DGRG; PECS.
@@ -604,9 +604,9 @@ Hanson2016_602,Augustodunum,Autun,Gallia Lugdunensis,France,4 or 5,18 B3,-27,NUL
 Hanson2016_603,Augustodurum,Bayeux,Gallia Lugdunensis,France,4 or 5,7 F2,-27,NULL,-0.7052,49.275312,Bedon 2001; Bedon et al 1988; DGRG; MacMullen 2000; PECS.
 Hanson2016_604,Augustomagus,Senlis,Gallia Lugdunensis,France,4 or 5,11 C3,-27,NULL,2.586016,49.206826,BNP; DGRG; PECS.
 Hanson2016_605,Autricum,Chartres,Gallia Lugdunensis,France,4 or 5,11 B4,-27,NULL,1.485618,48.445658,Bedon 2001; Bedon et al 1988; BNP; DGRG; Golvin 1988; PECS; Rivet 1988.
-Hanson2016_606,Cabillonum,Chalon sur Saône,Gallia Lugdunensis,France,4 or 5,18 B3,-27,NULL,4.856014,46.783372,BNP; DGRG; PECS.
+Hanson2016_606,Cabillonum,Chalon sur SaÃ´ne,Gallia Lugdunensis,France,4 or 5,18 B3,-27,NULL,4.856014,46.783372,BNP; DGRG; PECS.
 Hanson2016_607,Caesarodunum,Tours,Gallia Lugdunensis,France,3,14 F1,-27,NULL,0.68666,47.395241,Bedon 2001; Bedon et al 1988; Benario 1981; MacMullen 2000; McEvedy 2011; PECS; Russell 1958; Wilson 2011.
-Hanson2016_608,Cenabum,Orléans,Gallia Lugdunensis,France,3,14 G1,-27,NULL,1.903976,47.901387,Bedon 2001; Bedon et al 1988; BNP; DGRG; PECS; Russell 1958; Sear 2006.
+Hanson2016_608,Cenabum,OrlÃ©ans,Gallia Lugdunensis,France,3,14 G1,-27,NULL,1.903976,47.901387,Bedon 2001; Bedon et al 1988; BNP; DGRG; PECS; Russell 1958; Sear 2006.
 Hanson2016_609,Condate Redonum,Rennes,Gallia Lugdunensis,France,4 or 5,7 E3,-27,NULL,-1.679444,48.114722,DGRG; PECS; Russell 1958.
 Hanson2016_610,Cosedia,Coutances,Gallia Lugdunensis,France,4 or 5,7 E2,-27,NULL,-1.444318,49.048162,DGRG; PECS.
 Hanson2016_611,Darioritum,Vannes,Gallia Lugdunensis,France,4 or 5,14 C1,-27,NULL,-2.75957,47.654797,BNP; PECS.
@@ -621,7 +621,7 @@ Hanson2016_619,Iuliomagus,Angers,Gallia Lugdunensis,France,3,14 E1,-27,NULL,-0.5
 Hanson2016_620,Lugdunum,Lyon,Gallia Lugdunensis,France,1,17 D2,-43,NULL,4.820576,45.759119,Benario 1981; Brunt 1971; Cornell and Mathews 1982; Golvin 1988; MacMullen 2000; McEvedy 2011; PECS; Quinn and Wilson 2013; Russell 1958; Sear 2006; Woloch 1983.
 Hanson2016_621,Lutetia,Paris,Gallia Lugdunensis,France,4 or 5,11 C4,-27,NULL,2.351107,48.856515,Bedon 2001; Bedon et al 1988; Benario 1981; Golvin 1988; MacMullen 2000; McEvedy 2011; PECS; Rivet 1988; Russell 1958; Sear 2006; Wilson 2011; Woloch 1983.
 Hanson2016_622,Mediolanum (Gallia Lugdunensis) (1),Evreux,Gallia Lugdunensis,France,4 or 5,11 B3,-27,NULL,1.153484,49.021165,Bedon 2001; Bedon et al 1988; BNP; DGRG; PECS; Russell 1958; Sear 2006; Woloch 1983.
-Hanson2016_623,Mediolanum (Gallia Lugdunensis) (2),Mâlain,Gallia Lugdunensis,France,4 or 5,18 B2,-27,NULL,4.795725,47.327119,PECS; Sear 2006.
+Hanson2016_623,Mediolanum (Gallia Lugdunensis) (2),MÃ¢lain,Gallia Lugdunensis,France,4 or 5,18 B2,-27,NULL,4.795725,47.327119,PECS; Sear 2006.
 Hanson2016_624,Noviodunum (Gallia Lugdunensis),Jublains,Gallia Lugdunensis,France,4 or 5,7 F3,-27,NULL,-0.494546,48.25736,Bedon 2001; Bedon et al 1988; BNP; PECS; Sear 2006.
 Hanson2016_625,Noviomagus (Gallia Lugdunensis),Lisieux,Gallia Lugdunensis,France,4 or 5,7 G3,-49,NULL,0.22653,49.14635,Bedon 2001; Bedon et al 1988; BNP; DGRG; Golvin 1988; PECS; Sear 2006; Woloch 1983.
 Hanson2016_626,Rotomagus,Rouen,Gallia Lugdunensis,France,4 or 5,11 B3,-27,NULL,1.092623,49.441988,Bedon 2001; Bedon et al 1988; BNP; DGRG; PECS; Russell 1958; Sear 2006.
@@ -632,7 +632,7 @@ Hanson2016_630,Antipolis,Antibes,Gallia Narbonensis,France,4 or 5,16 D2,-600,NUL
 Hanson2016_631,Apta,Apt,Gallia Narbonensis,France,4 or 5,15 E2,-43,NULL,5.397449,43.876504,Bedon 2001; Bedon et al 1988; MacMullen 2000; PECS; Rivet 1988; Salmon 1969; Sear 2006.
 Hanson2016_632,Aquae Sextiae,Aix en Provence,Gallia Narbonensis,France,3,15 E2,-27,NULL,5.448322,43.529405,Bedon 2001; Bedon et al 1988; MacMullen 2000; McEvedy 2011; PECS; Rivet 1988; Salmon 1969; Wilson 2011; Woloch 1983.
 Hanson2016_633,Arausio,Orange,Gallia Narbonensis,France,3,15 D1,-35,NULL,4.807562,44.136702,Brunt 1971; Cornell and Mathews 1982; Golvin 1988; MacMullen 2000; McEvedy 2011; PECS; Quinn and Wilson 2013; Rivet 1988; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
-Hanson2016_634,Arelate,Arles,Gallia Narbonensis,France,2,15 D2,-400,NULL,4.627804,43.676651,Bedon 2001; Bedon et al 1988; Benario 1981; Bomgardner 2000; Brunt 1971; Cornell and Mathews 1982; Humphrey 1986; MacMullen 2000; McEvedy 2011; Nelis-Clément and Roddaz 2008; PECS; Quinn and Wilson 2013; Rivet 1988; Russell 1958; Sear 2006; Wilson 2011; Woloch 1983.
+Hanson2016_634,Arelate,Arles,Gallia Narbonensis,France,2,15 D2,-400,NULL,4.627804,43.676651,Bedon 2001; Bedon et al 1988; Benario 1981; Bomgardner 2000; Brunt 1971; Cornell and Mathews 1982; Humphrey 1986; MacMullen 2000; McEvedy 2011; Nelis-ClÃ©ment and Roddaz 2008; PECS; Quinn and Wilson 2013; Rivet 1988; Russell 1958; Sear 2006; Wilson 2011; Woloch 1983.
 Hanson2016_635,Augusta Tricastinorum,S. Paul Trois Chateaux,Gallia Narbonensis,France,3,17 D5,-27,NULL,4.766995,44.349538,Bedon 2001; Bedon et al 1988; BNP; DGRG; PECS; Salmon 1969.
 Hanson2016_636,Avennio,Avignon,Gallia Narbonensis,France,4 or 5,15 D2,-27,NULL,4.80676,43.947655,MacMullen 2000; Rivet 1988; Russell 1958; Salmon 1969; Woloch 1983.
 Hanson2016_637,Baeterrae,Beziers,Gallia Narbonensis,France,3,15 A3,-36,NULL,3.213445,43.341283,Bedon 2001; Bedon et al 1988; Benario 1981; BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; Golvin 1988; MacMullen 2000; PECS; Quinn and Wilson 2013; Salmon 1969; Wilson 2011; Woloch 1983.
@@ -643,14 +643,14 @@ Hanson2016_641,Carpentorate,Carpentras,Gallia Narbonensis,France,4 or 5,15 E1,-2
 Hanson2016_642,Consoranni,S. Lizier en Couseran,Gallia Narbonensis,France,4 or 5,25 G2,-27,NULL,1.138354,43.00174,DGRG; PECS.
 Hanson2016_643,Cularo,Grenoble,Gallia Narbonensis,France,4 or 5,17 F3,-27,NULL,5.726945,45.187778,Bedon 2001; Bedon et al 1988; DGRG; PECS; Rivet 1988; Russell 1958.
 Hanson2016_644,Dea Augusta Vocontiorum,Die,Gallia Narbonensis,France,3,17 E4,-27,NULL,5.370462,44.752501,BNP; DGRG; MacMullen 2000; PECS; Rivet 1988; Woloch 1983.
-Hanson2016_645,Forum Iulii (Gallia Narbonensis),Fréjus,Gallia Narbonensis,France,3,16 C3,-43,NULL,6.733551,43.433273,Bedon 2001; Bedon et al 1988; Benario 1981; BNP; Brunt 1971; Cornell and Mathews 1982; Golvin 1988; MacMullen 2000; McEvedy 2011; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
+Hanson2016_645,Forum Iulii (Gallia Narbonensis),FrÃ©jus,Gallia Narbonensis,France,3,16 C3,-43,NULL,6.733551,43.433273,Bedon 2001; Bedon et al 1988; Benario 1981; BNP; Brunt 1971; Cornell and Mathews 1982; Golvin 1988; MacMullen 2000; McEvedy 2011; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
 Hanson2016_646,Genava,Geneva,Gallia Narbonensis,Switzerland,4 or 5,18 D3,-27,NULL,6.139959,46.20381,BNP; PECS; Rivet 1988; Woloch 1983.
 Hanson2016_647,Glanum,S. Remy de Provence,Gallia Narbonensis,France,4 or 5,15 D2,-200,270,4.8325,43.773889,MacMullen 2000; PECS; Sear 2006; Woloch 1983.
 Hanson2016_648,Lucus Augusti (Gallia Narbonensis),Luc en Diois,Gallia Narbonensis,France,4 or 5,17 E4,-49,NULL,5.453333,44.615556,DGRG; MacMullen 2000.
 Hanson2016_649,Massalia,Marseille,Gallia Narbonensis,France,2,15 E3,-600,NULL,5.364897,43.303884,Bedon 2001; Bedon et al 1988; Beloch 1886; Hansen 2006; Hansen and Nielsen 2004; McEvedy 2011; PECS; Rivet 1988; Russell 1958; Sear 2006; Wilson 2011; Woloch 1983.
 Hanson2016_650,Mauves,Mauves,Gallia Narbonensis,France,4 or 5,14 D1,-27,NULL,4.830044,45.03917,PECS; Sear 2006.
 Hanson2016_651,Narbo Martius,Narbonne,Gallia Narbonensis,France,2,25 H2,-45,NULL,3.004192,43.183566,Bedon 2001; Bedon et al 1988; Brunt 1971; Cornell and Mathews 1982; Golvin 1988; MacMullen 2000; McEvedy 2011; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Wilson 2011; Woloch 1983.
-Hanson2016_652,Nemausus,Nîmes,Gallia Narbonensis,France,3,15 C2,-52,NULL,4.360864,43.83459,Bedon 2001; Bedon et al 1988; Benario 1981; Boatwright 2000; Bomgardner 2000; MacMullen 2000; PECS; Quinn and Wilson 2013; Rivet 1988; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
+Hanson2016_652,Nemausus,NÃ®mes,Gallia Narbonensis,France,3,15 C2,-52,NULL,4.360864,43.83459,Bedon 2001; Bedon et al 1988; Benario 1981; Boatwright 2000; Bomgardner 2000; MacMullen 2000; PECS; Quinn and Wilson 2013; Rivet 1988; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
 Hanson2016_653,Ruscino,Castel Roussillon,Gallia Narbonensis,France,3,25 H3,-27,NULL,2.913713,42.708051,Bedon 2001; Bedon et al 1988; BNP; DGRG; PECS.
 Hanson2016_654,Tolosa,Toulouse,Gallia Narbonensis,France,3,25 G2,-27,NULL,1.436275,43.61905,Bedon 2001; Bedon et al 1988; BNP; DGRG; Golvin 1988; MacMullen 2000; PECS; Quinn and Wilson 2013; Rivet 1988; Russell 1958; Sear 2006; Woloch 1983.
 Hanson2016_655,Unknown (3),Grand,Gallia Narbonensis,France,4 or 5,16 A3,-27,NULL,5.982327,43.319761,Bedon 2001; Bedon et al 1988; DGRG; Golvin 1988; PECS.
@@ -677,7 +677,7 @@ Hanson2016_675,Noviomagus (Germania Superior),Speyer,Germania Superior,Germany,4
 Hanson2016_676,Saletio,Seltz,Germania Superior,France,4 or 5,11 I4,41,NULL,8.106202,48.895055,BNP.
 Hanson2016_677,Sumelocenna,Rottenburg am Neckar,Germania Superior,Germany,4 or 5,12 B4,90,NULL,8.93775,48.476887,BNP; PECS; Sear 2006.
 Hanson2016_678,Vertillum,Vertault,Germania Superior,France,4 or 5,18 B2,-27,NULL,4.352002,47.917449,PECS.
-Hanson2016_679,Vesontio,Besançon,Germania Superior,France,3,18 D2,-49,NULL,6.022908,47.236543,Bedon 2001; Bedon et al 1988; Golvin 1988; McEvedy 2011; PECS; Quinn and Wilson 2013; Wilson 2011.
+Hanson2016_679,Vesontio,BesanÃ§on,Germania Superior,France,3,18 D2,-49,NULL,6.022908,47.236543,Bedon 2001; Bedon et al 1988; Golvin 1988; McEvedy 2011; PECS; Quinn and Wilson 2013; Wilson 2011.
 Hanson2016_680,Vindonissa,Brugg,Germania Superior,Switzerland,3,18 F2,16,NULL,8.206654,47.47965,Benario 1981; BNP; DGRG; Golvin 1988; PECS.
 Hanson2016_681,Acci,Guadix el Viejo,Hispania Tarraconensis,Spain,3,27 B4,-27,NULL,-3.134636,37.300309,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; MacMullen 2000; PECS; Salmon 1969.
 Hanson2016_682,Aeso,Isona,Hispania Tarraconensis,Spain,4 or 5,25 G3,-50,NULL,1.044057,42.117837,BNP; Carreras Monfort 1995-1996.
@@ -690,22 +690,22 @@ Hanson2016_688,Bilbilis,Calatayud,Hispania Tarraconensis,Spain,3,25 D4,-50,NULL,
 Hanson2016_689,Bocchori,Unknown,Hispania Tarraconensis,Spain,4 or 5,27 inset,-27,NULL,3.138591,39.932414,MacMullen 2000.
 Hanson2016_690,Bracara,Braga,Hispania Tarraconensis,Portugal,2,24 C3,-27,NULL,-8.42699,41.550136,Carreras Monfort 1995-1996; DGRG; MacMullen 2000; PECS.
 Hanson2016_691,Caesaraugusta,Zaragoza,Hispania Tarraconensis,Spain,2,25 E4,-24,NULL,-0.878491,41.654027,BNP; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; DGRG; MacMullen 2000; PECS; Russell 1958; Salmon 1969; Sear 2006.
-Hanson2016_692,Calagurris,Calahorra,Hispania Tarraconensis,Spain,3,25 D3,-50,NULL,-1.965034,42.303719,BNP; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; DGRG; MacMullen 2000; Nelis-Clément and Roddaz 2008; PECS.
+Hanson2016_692,Calagurris,Calahorra,Hispania Tarraconensis,Spain,3,25 D3,-50,NULL,-1.965034,42.303719,BNP; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; DGRG; MacMullen 2000; Nelis-ClÃ©ment and Roddaz 2008; PECS.
 Hanson2016_693,Carthago Nova,Cartagena,Hispania Tarraconensis,Spain,2,27 E4,-225,NULL,-0.984266,37.599656,BNP; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; DGRG; MacMullen 2000; PECS; Russell 1958; Salmon 1969; Sear 2006.
 Hanson2016_694,Castulo,Cazona,Hispania Tarraconensis,Spain,3,27 B3,-50,NULL,-3.623611,38.035833,BNP; Carreras Monfort 1995-1996; DGRG; MacMullen 2000; PECS; Sear 2006.
 Hanson2016_695,Celsa,Velilla del Ebro,Hispania Tarraconensis,Spain,3,25 E4,-27,NULL,-0.437853,41.374996,Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; DGRG; MacMullen 2000; PECS; Salmon 1969.
-Hanson2016_696,Clunia,Peñalba de Castro,Hispania Tarraconensis,Spain,2,25 B4,14,NULL,-3.370101,41.781171,BNP; Carreras Monfort 1995-1996; DGRG; PECS; Salmon 1969; Sear 2006.
+Hanson2016_696,Clunia,PeÃ±alba de Castro,Hispania Tarraconensis,Spain,2,25 B4,14,NULL,-3.370101,41.781171,BNP; Carreras Monfort 1995-1996; DGRG; PECS; Salmon 1969; Sear 2006.
 Hanson2016_697,Dertosa,Tortosa,Hispania Tarraconensis,Spain,3,25 F5,-50,NULL,0.520955,40.811004,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; MacMullen 2000; Salmon 1969.
 Hanson2016_698,Dianium,Unknown,Hispania Tarraconensis,Spain,3,27 F3,-50,NULL,0.107511,38.842795,DGRG; MacMullen 2000.
 Hanson2016_699,Ebusus,Ebusus,Hispania Tarraconensis,Spain,3,27 G3,-500,NULL,1.432264,38.90841,BNP.
-Hanson2016_700,Emporiae,Empúries,Hispania Tarraconensis,Spain,3,25 I3,-520,NULL,3.115825,42.133303,BNP; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; DGRG; Golvin 1988; Hansen 2006; Hansen and Nielsen 2004; MacMullen 2000; PECS; Woloch 1983.
-Hanson2016_701,Ercavica,Cañaveruelas,Hispania Tarraconensis,Spain,4 or 5,25 C5,-50,NULL,-2.669748,40.433344,BNP; Carreras Monfort 1995-1996.
+Hanson2016_700,Emporiae,EmpÃºries,Hispania Tarraconensis,Spain,3,25 I3,-520,NULL,3.115825,42.133303,BNP; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; DGRG; Golvin 1988; Hansen 2006; Hansen and Nielsen 2004; MacMullen 2000; PECS; Woloch 1983.
+Hanson2016_701,Ercavica,CaÃ±averuelas,Hispania Tarraconensis,Spain,4 or 5,25 C5,-50,NULL,-2.669748,40.433344,BNP; Carreras Monfort 1995-1996.
 Hanson2016_702,Flaviobriga,Portugalete,Hispania Tarraconensis,Spain,4 or 5,25 B2,-50,NULL,-3.219572,43.382784,DGRG; PECS; Salmon 1969.
 Hanson2016_703,Gerunda,Gerona,Hispania Tarraconensis,Spain,4 or 5,25 H4,-80,NULL,2.826608,41.987346,BNP; Carreras Monfort 1995-1996; DGRG; PECS.
 Hanson2016_704,Gracchuris,Alfaro,Hispania Tarraconensis,Spain,4 or 5,25 D3,-179,NULL,-1.749167,42.178333,BNP; MacMullen 2000; PECS.
 Hanson2016_705,Iamo,Ciudadela,Hispania Tarraconensis,Spain,3,27 inset,-123,NULL,3.861187,40.009209,Carreras Monfort 1995-1996.
 Hanson2016_706,Iesso,Guissona,Hispania Tarraconensis,Spain,4 or 5,25 G4,-100,NULL,1.290233,41.787158,Carreras Monfort 1995-1996.
-Hanson2016_707,Ilerda,Lérida,Hispania Tarraconensis,Spain,3,25 F4,-50,NULL,0.625938,41.615953,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; MacMullen 2000; PECS.
+Hanson2016_707,Ilerda,LÃ©rida,Hispania Tarraconensis,Spain,3,25 F4,-50,NULL,0.625938,41.615953,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; MacMullen 2000; PECS.
 Hanson2016_708,Ilici,Elche,Hispania Tarraconensis,Spain,3,27 E3,-29,NULL,-0.6953,38.2396,BNP; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; DGRG; MacMullen 2000; PECS; Salmon 1969.
 Hanson2016_709,Ilugo,Venta de S. Andres,Hispania Tarraconensis,Spain,3,27 B3,-50,NULL,-3.206444,38.247458,BNP; Boatwright 2000; PECS.
 Hanson2016_710,Iuliobriga,Retortillo,Hispania Tarraconensis,Spain,3,24 G2,-50,NULL,-4.113918,42.985111,BNP; DGRG; PECS.
@@ -713,7 +713,7 @@ Hanson2016_711,Labitolosa,Cerro del Calvario,Hispania Tarraconensis,Spain,4 or 5
 Hanson2016_712,Libisosa,Lezuza,Hispania Tarraconensis,Spain,3,27 C3,-27,NULL,-2.353774,38.949019,Brunt 1971; Cornell and Mathews 1982; MacMullen 2000; PECS; Salmon 1969.
 Hanson2016_713,Lucentum,Tossal de Manises,Hispania Tarraconensis,Spain,3,27 E3,-201,NULL,-0.484794,38.346018,Carreras Monfort 1995-1996; DGRG; MacMullen 2000; PECS.
 Hanson2016_714,Lucus Augusti (Hispania Tarraconensis),Lugo,Hispania Tarraconensis,Spain,2,24 D1,-27,NULL,-7.557873,43.011212,Carreras Monfort 1995-1996; DGRG; MacMullen 2000; PECS; Russell 1958.
-Hanson2016_715,Mago,Mahón,Hispania Tarraconensis,Spain,3,27 inset,-400,NULL,4.251253,39.895863,BNP; Sear 2006.
+Hanson2016_715,Mago,MahÃ³n,Hispania Tarraconensis,Spain,3,27 inset,-400,NULL,4.251253,39.895863,BNP; Sear 2006.
 Hanson2016_716,Mirobriga (Hispania Tarraconensis),Capilla,Hispania Tarraconensis,Spain,3,26 E3,-50,NULL,-5.084293,38.82045,BNP; DGRG; PECS.
 Hanson2016_717,Numantia,Numancia,Hispania Tarraconensis,Spain,3,25 C4,-27,NULL,-2.444258,41.809586,BNP; Carreras Monfort 1995-1996; DGRG; PECS.
 Hanson2016_718,Osca,Huesca,Hispania Tarraconensis,Spain,3,25 E3,-50,NULL,-0.408898,42.140102,BNP; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; DGRG; MacMullen 2000; PECS; Sear 2006.
@@ -722,27 +722,27 @@ Hanson2016_720,Palma,Palma,Hispania Tarraconensis,Spain,3,27 inset,-123,NULL,2.6
 Hanson2016_721,Pollentia (Hispania Tarraconensis),Alcudia de Pollensa,Hispania Tarraconensis,Spain,3,27 inset,-123,NULL,3.017176,39.877683,BNP; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; Golvin 1988; MacMullen 2000; PECS; Sear 2006.
 Hanson2016_722,Pompaelo,Pamplona,Hispania Tarraconensis,Spain,4 or 5,25 D3,-75,NULL,-1.6428,42.817,BNP; Carreras Monfort 1995-1996; MacMullen 2000; PECS; Russell 1958.
 Hanson2016_723,Roda,Rosas,Hispania Tarraconensis,Spain,4 or 5,25 I3,-600,NULL,3.169169,42.267489,DGRG; Hansen and Nielsen 2004; PECS; Quinn and Wilson 2013.
-Hanson2016_724,Saetabis,Játiva,Hispania Tarraconensis,Spain,3,27 E2,-50,NULL,-0.515639,38.988847,Carreras Monfort 1995-1996; DGRG; MacMullen 2000.
-Hanson2016_725,Saguntum,Sagunto,Hispania Tarraconensis,Spain,3,27 E2,-210,NULL,-0.277795,39.676202,BNP; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; DGRG; MacMullen 2000; Nelis-Clément and Roddaz 2008; PECS; Quinn and Wilson 2013; Russell 1958; Sear 2006.
+Hanson2016_724,Saetabis,JÃ¡tiva,Hispania Tarraconensis,Spain,3,27 E2,-50,NULL,-0.515639,38.988847,Carreras Monfort 1995-1996; DGRG; MacMullen 2000.
+Hanson2016_725,Saguntum,Sagunto,Hispania Tarraconensis,Spain,3,27 E2,-210,NULL,-0.277795,39.676202,BNP; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; DGRG; MacMullen 2000; Nelis-ClÃ©ment and Roddaz 2008; PECS; Quinn and Wilson 2013; Russell 1958; Sear 2006.
 Hanson2016_726,Salaria,Ubeda la Vieja,Hispania Tarraconensis,Spain,3,27 B4,-27,NULL,-3.368532,38.008075,Brunt 1971; Cornell and Mathews 1982; MacMullen 2000; PECS; Salmon 1969.
 Hanson2016_727,Segeda,Belmonte del Perejil,Hispania Tarraconensis,Spain,3,25 D4,-153,-49,-1.51768,41.289132,Carreras Monfort 1995-1996.
-Hanson2016_728,Segobriga,Cabezo del Griego,Hispania Tarraconensis,Spain,4 or 5,27 C2,-50,NULL,-2.81302,39.885321,BNP; Carreras Monfort 1995-1996; DGRG; Golvin 1988; MacMullen 2000; Nelis-Clément and Roddaz 2008; PECS; Sear 2006.
+Hanson2016_728,Segobriga,Cabezo del Griego,Hispania Tarraconensis,Spain,4 or 5,27 C2,-50,NULL,-2.81302,39.885321,BNP; Carreras Monfort 1995-1996; DGRG; Golvin 1988; MacMullen 2000; Nelis-ClÃ©ment and Roddaz 2008; PECS; Sear 2006.
 Hanson2016_729,Segovia,Segovia,Hispania Tarraconensis,Spain,3,24 G4,-50,NULL,-4.11922,40.949384,BNP; DGRG; PECS.
 Hanson2016_730,Sisapo,La Bienvenida,Hispania Tarraconensis,Spain,4 or 5,27 A3,-50,NULL,-4.518296,38.646441,Carreras Monfort 1995-1996.
-Hanson2016_731,Tarraco,Tarragona,Hispania Tarraconensis,Spain,1,25 G4,-218,NULL,1.25763,41.117936,Benario 1981; Boatwright 2000; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; Golvin 1988; Humphrey 1986; MacMullen 2000; McEvedy 2011; Nelis-Clément and Roddaz 2008; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Woloch 1983.
+Hanson2016_731,Tarraco,Tarragona,Hispania Tarraconensis,Spain,1,25 G4,-218,NULL,1.25763,41.117936,Benario 1981; Boatwright 2000; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; Golvin 1988; Humphrey 1986; MacMullen 2000; McEvedy 2011; Nelis-ClÃ©ment and Roddaz 2008; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Woloch 1983.
 Hanson2016_732,Termes,Tiermes,Hispania Tarraconensis,Spain,4 or 5,25 B4,-50,NULL,-3.148649,41.331017,BNP; Carreras Monfort 1995-1996; DGRG; PECS.
-Hanson2016_733,Toletum,Toledo,Hispania Tarraconensis,Spain,3,27 A2,-50,NULL,-4.024491,39.85668,BNP; Carreras Monfort 1995-1996; DGRG; Nelis-Clément and Roddaz 2008; PECS.
+Hanson2016_733,Toletum,Toledo,Hispania Tarraconensis,Spain,3,27 A2,-50,NULL,-4.024491,39.85668,BNP; Carreras Monfort 1995-1996; DGRG; Nelis-ClÃ©ment and Roddaz 2008; PECS.
 Hanson2016_734,Turiaso,Tarazona,Hispania Tarraconensis,Spain,4 or 5,25 D4,-50,NULL,-1.726083,41.904789,Brunt 1971; Cornell and Mathews 1982; DGRG; MacMullen 2000.
 Hanson2016_735,Uxama,Osma,Hispania Tarraconensis,Spain,4 or 5,25 B4,-50,NULL,-3.082109,41.585279,Carreras Monfort 1995-1996; DGRG; PECS.
-Hanson2016_736,Valentia (Hispania Tarraconensis) (1),Valencia,Hispania Tarraconensis,Spain,3,27 E2,-138,NULL,-0.375507,39.475798,BNP; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; DGRG; MacMullen 2000; Nelis-Clément and Roddaz 2008; PECS; Salmon 1969.
+Hanson2016_736,Valentia (Hispania Tarraconensis) (1),Valencia,Hispania Tarraconensis,Spain,3,27 E2,-138,NULL,-0.375507,39.475798,BNP; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; DGRG; MacMullen 2000; Nelis-ClÃ©ment and Roddaz 2008; PECS; Salmon 1969.
 Hanson2016_737,Valentia (Hispania Tarraconensis) (2),Valencia,Hispania Tarraconensis,Spain,3,27 E2,-138,NULL,-0.376814,39.470371,BNP; Carreras Monfort 1995-1996; DGRG; PECS; Russell 1958.
 Hanson2016_738,Valeria,Valera la Vieja,Hispania Tarraconensis,Spain,3,27 C2,-50,NULL,-2.14935,39.811189,Carreras Monfort 1995-1996; DGRG.
 Hanson2016_739,Abella,Avella,Italia (I Latium and Campania),Italy,3,44 G4,-600,NULL,14.601389,40.96,Beloch 1880; Bomgardner 2000; Cornell and Mathews 1982; de Ligt 2012; DGRG; PECS; Salmon 1969; Salmon 1969; Sear 2006.
 Hanson2016_740,Abellinum,Avellino,Italia (I Latium and Campania),Italy,3,44 G4,-400,NULL,14.792723,40.914749,Beloch 1880; BNP; Cornell and Mathews 1982; de Ligt 2012; Quinn and Wilson 2013; Salmon 1969; Sear 2006.
 Hanson2016_741,Acerrae,Acerra,Italia (I Latium and Campania),Italy,3,44 F4,-400,NULL,14.371049,40.945557,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; DGRG; Sear 2006.
-Hanson2016_742,Aletrium,Alatri,Italia (I Latium and Campania),Italy,3,44 D2,-400,NULL,13.34211,41.726495,Beloch 1880; Bispham 2007; de Ligt 2012; Nelis-Clément and Roddaz 2008; PECS.
+Hanson2016_742,Aletrium,Alatri,Italia (I Latium and Campania),Italy,3,44 D2,-400,NULL,13.34211,41.726495,Beloch 1880; Bispham 2007; de Ligt 2012; Nelis-ClÃ©ment and Roddaz 2008; PECS.
 Hanson2016_743,Allifae,Alife,Italia (I Latium and Campania),Italy,3,44 F3,-400,NULL,14.330584,41.328485,Beloch 1880; Bispham 2007; BNP; Cornell and Mathews 1982; de Ligt 2012; DGRG; PECS; Salmon 1969; Salmon 1969.
-Hanson2016_744,Anagnia,Anagni,Italia (I Latium and Campania),Italy,2,43 E3,-400,NULL,13.158999,41.742235,Beloch 1880; Bispham 2007; de Ligt 2012; Nelis-Clément and Roddaz 2008; PECS.
+Hanson2016_744,Anagnia,Anagni,Italia (I Latium and Campania),Italy,2,43 E3,-400,NULL,13.158999,41.742235,Beloch 1880; Bispham 2007; de Ligt 2012; Nelis-ClÃ©ment and Roddaz 2008; PECS.
 Hanson2016_745,Antium,Anzio,Italia (I Latium and Campania),Italy,2,43 C4,-500,NULL,12.629052,41.447947,Beloch 1880; Cornell and Mathews 1982; de Ligt 2012; PECS; Salmon 1969; Salmon 1969; Sear 2006.
 Hanson2016_746,Aquilonia,Unknown,Italia (I Latium and Campania),Italy,4 or 5,45 B2,-400,NULL,14.750001,40.75,Beloch 1880; BNP; de Ligt 2012; PECS.
 Hanson2016_747,Aquinum,Aquino,Italia (I Latium and Campania),Italy,2,44 E3,-400,NULL,13.70563,41.492204,Beloch 1880; Bispham 2007; Cornell and Mathews 1982; de Ligt 2012; Golvin 1988; PECS; Quinn and Wilson 2013; Salmon 1969; Sear 2006.
@@ -752,11 +752,11 @@ Hanson2016_750,Arpinum,Arpino,Italia (I Latium and Campania),Italy,3,44 E2,-400,
 Hanson2016_751,Atella,Atella,Italia (I Latium and Campania),Italy,3,44 F4,-400,NULL,14.269963,40.980411,Beloch 1880; Bispham 2007; de Ligt 2012; DGRG; PECS; Salmon 1969.
 Hanson2016_752,Atina,Atina,Italia (I Latium and Campania),Italy,3,44 E2,-400,NULL,13.799572,41.619665,Beloch 1880; Bispham 2007; de Ligt 2012; DGRG; Golvin 1988.
 Hanson2016_753,Baiae,Baia di Bacoli,Italia (I Latium and Campania),Italy,4 or 5,44 F4,-100,NULL,14.06645,40.819151,BNP; DGRG; PECS; Sear 2006.
-Hanson2016_754,Bovillae,Frattocchie,Italia (I Latium and Campania),Italy,3,43 C2,-400,NULL,12.60986,41.743602,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; DGRG; Nelis-Clément and Roddaz 2008; Sear 2006.
+Hanson2016_754,Bovillae,Frattocchie,Italia (I Latium and Campania),Italy,3,43 C2,-400,NULL,12.60986,41.743602,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; DGRG; Nelis-ClÃ©ment and Roddaz 2008; Sear 2006.
 Hanson2016_755,Caiatia,Caiazzo,Italia (I Latium and Campania),Italy,3,44 F3,-400,NULL,14.366638,41.177123,Beloch 1880; Bispham 2007; de Ligt 2012.
 Hanson2016_756,Calatia,Giacomo alle Galazze,Italia (I Latium and Campania),Italy,3,44 F3,-400,NULL,14.377833,41.041111,Bispham 2007; Cornell and Mathews 1982; de Ligt 2012; DGRG; Salmon 1969.
 Hanson2016_757,Cales,Calvi,Italia (I Latium and Campania),Italy,3,44 F3,-500,NULL,14.132,41.2,Beloch 1880; Bispham 2007; Cornell and Mathews 1982; de Ligt 2012; DGRG; PECS; Salmon 1969; Sear 2006.
-Hanson2016_758,Capua,S. Maria di Capua Vetere,Italia (I Latium and Campania),Italy,2,44 F3,-550,NULL,14.256289,41.081428,Beloch 1880; Beloch 1886; Benario 1981; Bispham 2007; BNP; Cornell and Mathews 1982; de Ligt 2012; DGRG; Golvin 1988; McEvedy 2011; Nelis-Clément and Roddaz 2008; PECS; Quinn and Wilson 2013; Salmon 1969; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
+Hanson2016_758,Capua,S. Maria di Capua Vetere,Italia (I Latium and Campania),Italy,2,44 F3,-550,NULL,14.256289,41.081428,Beloch 1880; Beloch 1886; Benario 1981; Bispham 2007; BNP; Cornell and Mathews 1982; de Ligt 2012; DGRG; Golvin 1988; McEvedy 2011; Nelis-ClÃ©ment and Roddaz 2008; PECS; Quinn and Wilson 2013; Salmon 1969; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
 Hanson2016_759,Casilinum,Capua,Italia (I Latium and Campania),Italy,3,44 F3,-400,NULL,14.211983,41.108736,Cornell and Mathews 1982; de Ligt 2012; DGRG; Salmon 1969; Woloch 1983.
 Hanson2016_760,Casinum,Cassino,Italia (I Latium and Campania),Italy,2,44 E3,-400,NULL,13.822167,41.48279,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; Golvin 1988; PECS; Sear 2006.
 Hanson2016_761,Castrimoenium,Marino,Italia (I Latium and Campania),Italy,4 or 5,43 C2,-82,NULL,12.666646,41.766575,Beloch 1880; Bispham 2007; de Ligt 2012; DGRG; PECS.
@@ -766,7 +766,7 @@ Hanson2016_764,Circeii (1),Circeo,Italia (I Latium and Campania),Italy,3,44 D3,-
 Hanson2016_765,Circeii (2),Circeo,Italia (I Latium and Campania),Italy,3,44 D3,-27,NULL,13.096164,41.235449,Beloch 1880; de Ligt 2012; DGRG; Golvin 1988.
 Hanson2016_766,Cora,Cori a Valle,Italia (I Latium and Campania),Italy,3,43 D3,-600,NULL,12.91612,41.642797,Beloch 1880; Bispham 2007; BNP; Cornell and Mathews 1982; de Ligt 2012; PECS; Salmon 1969; Sear 2006.
 Hanson2016_767,Cubulteria,Alvignano?,Italia (I Latium and Campania),Italy,3,44 F3,-400,NULL,14.33333,41.25,Beloch 1880; BNP; de Ligt 2012.
-Hanson2016_768,Cumae,Cumae,Italia (I Latium and Campania),Italy,3,44 F4,-750,NULL,14.056078,40.847118,Beloch 1880; Benario 1981; Bispham 2007; Cornell and Mathews 1982; de Ligt 2012; DGRG; Golvin 1988; Hansen 2006; McEvedy 2011; Nelis-Clément and Roddaz 2008; PECS; Quinn and Wilson 2013; Salmon 1969; Sear 2006.
+Hanson2016_768,Cumae,Cumae,Italia (I Latium and Campania),Italy,3,44 F4,-750,NULL,14.056078,40.847118,Beloch 1880; Benario 1981; Bispham 2007; Cornell and Mathews 1982; de Ligt 2012; DGRG; Golvin 1988; Hansen 2006; McEvedy 2011; Nelis-ClÃ©ment and Roddaz 2008; PECS; Quinn and Wilson 2013; Salmon 1969; Sear 2006.
 Hanson2016_769,Fabrateria Nova,S. Giovanni Incarico,Italia (I Latium and Campania),Italy,3,44 E2,-124,NULL,13.558926,41.502833,Beloch 1880; BNP; Cornell and Mathews 1982; de Ligt 2012; DGRG; McEvedy 2011; PECS; Salmon 1969.
 Hanson2016_770,Ferentinum,Ferentino,Italia (I Latium and Campania),Italy,3,44 D2,-400,NULL,13.253358,41.692712,Beloch 1880; Beloch 1880; Bispham 2007; de Ligt 2012; PECS; Sear 2006.
 Hanson2016_771,Formiae,Formia,Italia (I Latium and Campania),Italy,3,44 E3,-400,NULL,13.605914,41.256351,Beloch 1880; Bispham 2007; Boatwright 2000; de Ligt 2012; PECS; Quinn and Wilson 2013; Salmon 1969; Sear 2006.
@@ -792,7 +792,7 @@ Hanson2016_790,Pompeii,Pompei,Italia (I Latium and Campania),Italy,3,44 F4,-600,
 Hanson2016_791,Pontia,Ponza,Italia (I Latium and Campania),Italy,3,44 C4,-400,NULL,12.965089,40.892523,Beloch 1880; BNP; Cornell and Mathews 1982; DGRG; PECS; Salmon 1969.
 Hanson2016_792,Praeneste,Palestrina,Italia (I Latium and Campania),Italy,2,43 D2,-400,NULL,12.892377,41.840006,Beloch 1880; Beloch 1886; Bispham 2007; Cornell and Mathews 1982; de Ligt 2012; PECS; Salmon 1969; Sear 2006; Woloch 1983.
 Hanson2016_793,Privernum,Priverno,Italia (I Latium and Campania),Italy,3,44 D3,-49,NULL,13.180367,41.472643,Beloch 1880; de Ligt 2012; DGRG; PECS; Salmon 1969; Sear 2006.
-Hanson2016_794,Puteoli,Pozzuoli,Italia (I Latium and Campania),Italy,2,44 F4,-524,NULL,14.125078,40.825869,Beloch 1880; Benario 1981; Bomgardner 2000; Cornell and Mathews 1982; de Ligt 2012; DGRG; Nelis-Clément and Roddaz 2008; PECS; Salmon 1969; Sear 2006; Wilson 2011.
+Hanson2016_794,Puteoli,Pozzuoli,Italia (I Latium and Campania),Italy,2,44 F4,-524,NULL,14.125078,40.825869,Beloch 1880; Benario 1981; Bomgardner 2000; Cornell and Mathews 1982; de Ligt 2012; DGRG; Nelis-ClÃ©ment and Roddaz 2008; PECS; Salmon 1969; Sear 2006; Wilson 2011.
 Hanson2016_795,Salernum,Salerno,Italia (I Latium and Campania),Italy,3,44 G4,-400,NULL,14.759886,40.679087,Beloch 1880; Bomgardner 2000; Cornell and Mathews 1982; de Ligt 2012; DGRG; PECS; Salmon 1969.
 Hanson2016_796,Saticula,S. Agata de Goti,Italia (I Latium and Campania),Italy,3,44 G3,-400,NULL,14.504636,41.090469,Bispham 2007; Cornell and Mathews 1982; de Ligt 2012; DGRG; PECS; Salmon 1969.
 Hanson2016_797,Setia,Sezze,Italia (I Latium and Campania),Italy,3,43 E3,-500,NULL,13.058893,41.498643,Beloch 1880; Bispham 2007; Cornell and Mathews 1982; de Ligt 2012; DGRG; PECS; Salmon 1969.
@@ -801,10 +801,10 @@ Hanson2016_799,Sinuessa,Mondragone,Italia (I Latium and Campania),Italy,3,44 E3,
 Hanson2016_800,Sora,Sora,Italia (I Latium and Campania),Italy,3,44 E2,-400,NULL,13.616791,41.717925,Beloch 1880; Bispham 2007; Cornell and Mathews 1982; de Ligt 2012; DGRG; PECS; Salmon 1969; Salmon 1969.
 Hanson2016_801,Suessa,Sessa Aurunca,Italia (I Latium and Campania),Italy,3,44 E3,-400,NULL,13.933661,41.236115,Beloch 1880; Bispham 2007; BNP; Cornell and Mathews 1982; de Ligt 2012; DGRG; Salmon 1969; Sear 2006.
 Hanson2016_802,Suessula,Near Acerra,Italia (I Latium and Campania),Italy,3,44 F4,-400,NULL,14.398876,40.990548,Beloch 1880; Bispham 2007; de Ligt 2012; DGRG; PECS; Salmon 1969; Sear 2006.
-Hanson2016_803,Surrentum,Sorrento,Italia (I Latium and Campania),Italy,4 or 5,44 F4,-600,NULL,14.375738,40.626321,Beloch 1880; Beloch 1886; de Ligt 2012; DGRG; Nelis-Clément and Roddaz 2008; PECS; Sear 2006.
+Hanson2016_803,Surrentum,Sorrento,Italia (I Latium and Campania),Italy,4 or 5,44 F4,-600,NULL,14.375738,40.626321,Beloch 1880; Beloch 1886; de Ligt 2012; DGRG; Nelis-ClÃ©ment and Roddaz 2008; PECS; Sear 2006.
 Hanson2016_804,Tarracina,Terracina,Italia (I Latium and Campania),Italy,2,44 D3,-400,NULL,13.248865,41.291217,Beloch 1880; Cornell and Mathews 1982; de Ligt 2012; Golvin 1988; McEvedy 2011; PECS; Quinn and Wilson 2013; Salmon 1969; Sear 2006.
-Hanson2016_805,Teanum Sidicinum,Teano,Italia (I Latium and Campania),Italy,4 or 5,44 F3,-400,NULL,14.049598,41.269557,Beloch 1880; Bispham 2007; de Ligt 2012; DGRG; Nelis-Clément and Roddaz 2008; PECS; Sear 2006.
-Hanson2016_806,Telesia,Telese Terme,Italia (I Latium and Campania),Italy,3,44 G3,-400,NULL,14.528778,41.218463,Beloch 1880; Cornell and Mathews 1982; de Ligt 2012; DGRG; Nelis-Clément and Roddaz 2008; PECS; Salmon 1969; Sear 2006.
+Hanson2016_805,Teanum Sidicinum,Teano,Italia (I Latium and Campania),Italy,4 or 5,44 F3,-400,NULL,14.049598,41.269557,Beloch 1880; Bispham 2007; de Ligt 2012; DGRG; Nelis-ClÃ©ment and Roddaz 2008; PECS; Sear 2006.
+Hanson2016_806,Telesia,Telese Terme,Italia (I Latium and Campania),Italy,3,44 G3,-400,NULL,14.528778,41.218463,Beloch 1880; Cornell and Mathews 1982; de Ligt 2012; DGRG; Nelis-ClÃ©ment and Roddaz 2008; PECS; Salmon 1969; Sear 2006.
 Hanson2016_807,Treba,Trevi,Italia (I Latium and Campania),Italy,3,44 D2,-400,NULL,13.248674,41.862465,Beloch 1880; de Ligt 2012; DGRG.
 Hanson2016_808,Trebula Balliensis,Treglia,Italia (I Latium and Campania),Italy,3,44 F3,-400,NULL,14.259857,41.227259,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; DGRG; PECS; Sear 2006.
 Hanson2016_809,Tusculum,Tuscolo,Italia (I Latium and Campania),Italy,3,43 C2,-400,NULL,12.70869,41.798377,Beloch 1880; Beloch 1886; Bispham 2007; de Ligt 2012; DGRG; Golvin 1988; PECS; Sear 2006; Woloch 1983.
@@ -922,18 +922,18 @@ Hanson2016_920,Trea,Treia,Italia (V Picenum),Italy,3,42 E2,-400,NULL,13.312548,4
 Hanson2016_921,Urbs Salvia,Urbisaglia,Italia (V Picenum),Italy,3,42 E2,-400,NULL,13.381379,43.198353,Beloch 1880; de Ligt 2012; Golvin 1988; PECS; Salmon 1969; Sear 2006.
 Hanson2016_922,Aesis,Iesi,Italia (VI Umbria and Ager Gallicus),Italy,3,42 E1,-400,NULL,13.24375,43.522387,Beloch 1880; Cornell and Mathews 1982; de Ligt 2012; PECS; Salmon 1969.
 Hanson2016_923,Ameria,Amelia,Italia (VI Umbria and Ager Gallicus),Italy,3,42 C3,-400,NULL,12.413636,42.557585,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; DGRG; PECS.
-Hanson2016_924,Asisium,Assisi,Italia (VI Umbria and Ager Gallicus),Italy,3,42 D2,-400,NULL,12.617518,43.070167,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; DGRG; Golvin 1988; Nelis-Clément and Roddaz 2008; PECS; Quinn and Wilson 2013; Russell 1958; Sear 2006; Woloch 1983.
+Hanson2016_924,Asisium,Assisi,Italia (VI Umbria and Ager Gallicus),Italy,3,42 D2,-400,NULL,12.617518,43.070167,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; DGRG; Golvin 1988; Nelis-ClÃ©ment and Roddaz 2008; PECS; Quinn and Wilson 2013; Russell 1958; Sear 2006; Woloch 1983.
 Hanson2016_925,Camerinum,Camerino,Italia (VI Umbria and Ager Gallicus),Italy,3,42 E2,-400,NULL,13.066642,43.134144,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; DGRG.
 Hanson2016_926,Carsulae,Carsulae,Italia (VI Umbria and Ager Gallicus),Italy,3,42 D3,-400,NULL,12.557153,42.639792,Beloch 1880; BNP; de Ligt 2012; DGRG; Golvin 1988; PECS; Sear 2006.
 Hanson2016_927,Cingulum,Cingoli,Italia (VI Umbria and Ager Gallicus),Italy,3,42 E2,-400,NULL,13.203437,43.37422,Beloch 1880; Bispham 2007; BNP; Boatwright 2000; de Ligt 2012; DGRG.
 Hanson2016_928,Cupra Maritima,Civita di Marano,Italia (VI Umbria and Ager Gallicus),Italy,3,42 F2,-400,NULL,13.116407,43.446889,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; DGRG; PECS; Salmon 1969.
 Hanson2016_929,Fanum Fortunae,Fano,Italia (VI Umbria and Ager Gallicus),Italy,3,42 E1,-27,NULL,13.017751,43.843172,Beloch 1880; BNP; Cornell and Mathews 1982; de Ligt 2012; DGRG; PECS; Salmon 1969.
 Hanson2016_930,Forum Sempronii,Fossombrone,Italia (VI Umbria and Ager Gallicus),Italy,4 or 5,42 D1,-122,NULL,12.817031,43.700322,Beloch 1880; de Ligt 2012; DGRG; PECS.
-Hanson2016_931,Fulginiae,Foligno,Italia (VI Umbria and Ager Gallicus),Italy,3,42 D3,-400,NULL,12.703192,42.955653,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; DGRG; Nelis-Clément and Roddaz 2008; PECS.
+Hanson2016_931,Fulginiae,Foligno,Italia (VI Umbria and Ager Gallicus),Italy,3,42 D3,-400,NULL,12.703192,42.955653,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; DGRG; Nelis-ClÃ©ment and Roddaz 2008; PECS.
 Hanson2016_932,Hispellum,Spello,Italia (VI Umbria and Ager Gallicus),Italy,3,42 D3,-400,NULL,12.670753,42.994022,Beloch 1880; Bispham 2007; BNP; Cornell and Mathews 1982; de Ligt 2012; DGRG; Golvin 1988; PECS; Salmon 1969; Sear 2006.
 Hanson2016_933,Iguvium,Gubbio,Italia (VI Umbria and Ager Gallicus),Italy,3,42 D2,-400,NULL,12.580375,43.350411,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; DGRG; PECS; Sear 2006.
 Hanson2016_934,Interamna Nahars,Terni,Italia (VI Umbria and Ager Gallicus),Italy,3,42 D3,-400,NULL,12.646781,42.560219,Beloch 1880; Bispham 2007; de Ligt 2012; Golvin 1988; PECS; Sear 2006.
-Hanson2016_935,Matilica,Matélica,Italia (VI Umbria and Ager Gallicus),Italy,3,42 E2,-400,NULL,13.008723,43.255867,Beloch 1880; de Ligt 2012; DGRG; PECS.
+Hanson2016_935,Matilica,MatÃ©lica,Italia (VI Umbria and Ager Gallicus),Italy,3,42 E2,-400,NULL,13.008723,43.255867,Beloch 1880; de Ligt 2012; DGRG; PECS.
 Hanson2016_936,Mevania,Bevagna,Italia (VI Umbria and Ager Gallicus),Italy,3,42 D3,-400,NULL,12.607281,42.931821,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; DGRG; Golvin 1988; PECS; Sear 2006.
 Hanson2016_937,Mevaniola,Unknown,Italia (VI Umbria and Ager Gallicus),Italy,3,42 B1,-400,NULL,11.903398,43.983123,Beloch 1880; Bispham 2007; de Ligt 2012; DGRG; PECS.
 Hanson2016_938,Narnia,Narni,Italia (VI Umbria and Ager Gallicus),Italy,3,42 D3,-400,NULL,12.51563,42.517602,Beloch 1880; Bispham 2007; BNP; Cornell and Mathews 1982; de Ligt 2012; PECS; Salmon 1969.
@@ -941,7 +941,7 @@ Hanson2016_939,Nuceria Camellaria,Nocera dei Pagani,Italia (VI Umbria and Ager G
 Hanson2016_940,Nursia,Norcia,Italia (VI Umbria and Ager Gallicus),Italy,3,42 E3,-400,NULL,13.093901,42.79336,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; DGRG; PECS.
 Hanson2016_941,Ocriculum,Otricoli,Italia (VI Umbria and Ager Gallicus),Italy,3,42 C4,-400,NULL,12.47655,42.422887,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; DGRG; Golvin 1988; PECS; Salmon 1969; Sear 2006.
 Hanson2016_942,Ostra,Unknown,Italia (VI Umbria and Ager Gallicus),Italy,3,42 E1,-400,NULL,13.157975,43.61335,Beloch 1880; de Ligt 2012; DGRG; Sear 2006.
-Hanson2016_943,Pisaurum,Pesauro,Italia (VI Umbria and Ager Gallicus),Italy,3,42 D1,-184,NULL,12.909749,43.91017,Beloch 1880; BNP; Cornell and Mathews 1982; de Ligt 2012; DGRG; Nelis-Clément and Roddaz 2008; PECS; Salmon 1969; Sear 2006.
+Hanson2016_943,Pisaurum,Pesauro,Italia (VI Umbria and Ager Gallicus),Italy,3,42 D1,-184,NULL,12.909749,43.91017,Beloch 1880; BNP; Cornell and Mathews 1982; de Ligt 2012; DGRG; Nelis-ClÃ©ment and Roddaz 2008; PECS; Salmon 1969; Sear 2006.
 Hanson2016_944,Pitinum Mergens,Cagli,Italia (VI Umbria and Ager Gallicus),Italy,3,42 D1,-400,NULL,12.648462,43.546441,BNP; DGRG; Sear 2006.
 Hanson2016_945,Pitinum Pisaurense,Macerata Feltria,Italia (VI Umbria and Ager Gallicus),Italy,3,42 C1,-400,NULL,12.441276,43.803909,Bispham 2007; BNP.
 Hanson2016_946,Plestia,Colfiorito,Italia (VI Umbria and Ager Gallicus),Italy,3,42 D2,-400,NULL,12.889556,43.027667,Beloch 1880; BNP; de Ligt 2012; PECS.
@@ -950,7 +950,7 @@ Hanson2016_948,Sena Gallica,Senigallia,Italia (VI Umbria and Ager Gallicus),Ital
 Hanson2016_949,Sentinum,Sentino,Italia (VI Umbria and Ager Gallicus),Italy,3,42 D2,-400,NULL,12.852965,43.42179,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; DGRG; PECS.
 Hanson2016_950,Septempeda,S. Severino Marche,Italia (VI Umbria and Ager Gallicus),Italy,3,42 E2,-400,NULL,13.197841,43.235641,Beloch 1880; BNP; de Ligt 2012; DGRG; PECS; Salmon 1969.
 Hanson2016_951,Sestinum,Sestino,Italia (VI Umbria and Ager Gallicus),Italy,3,42 C1,-400,NULL,12.298883,43.710612,Beloch 1880; BNP; de Ligt 2012; DGRG; PECS.
-Hanson2016_952,Spoletium,Spoleto,Italia (VI Umbria and Ager Gallicus),Italy,2,42 D3,-240,NULL,12.736833,42.734216,Beloch 1880; Benario 1981; Bispham 2007; BNP; Cornell and Mathews 1982; de Ligt 2012; DGRG; Golvin 1988; Nelis-Clément and Roddaz 2008; PECS; Salmon 1969; Sear 2006.
+Hanson2016_952,Spoletium,Spoleto,Italia (VI Umbria and Ager Gallicus),Italy,2,42 D3,-240,NULL,12.736833,42.734216,Beloch 1880; Benario 1981; Bispham 2007; BNP; Cornell and Mathews 1982; de Ligt 2012; DGRG; Golvin 1988; Nelis-ClÃ©ment and Roddaz 2008; PECS; Salmon 1969; Sear 2006.
 Hanson2016_953,Suasa,Castelleone di Suasa,Italia (VI Umbria and Ager Gallicus),Italy,3,42 D1,-400,NULL,12.983986,43.623375,Beloch 1880; de Ligt 2012; DGRG; PECS.
 Hanson2016_954,Tadinae,S. Antonio della Rasina,Italia (VI Umbria and Ager Gallicus),Italy,3,42 D2,-400,NULL,12.786046,43.230265,Beloch 1880; BNP; de Ligt 2012; DGRG; PECS.
 Hanson2016_955,Tuder,Todi,Italia (VI Umbria and Ager Gallicus),Italy,3,42 C3,-400,NULL,12.406448,42.781909,Beloch 1880; Bispham 2007; BNP; Cornell and Mathews 1982; de Ligt 2012; DGRG; Golvin 1988; PECS; Salmon 1969; Sear 2006.
@@ -985,12 +985,12 @@ Hanson2016_983,Lucus Feroniae,Unknown,Italia (VII Etruria),Italy,3,42 D4,-400,NU
 Hanson2016_984,Luna,Luni,Italia (VII Etruria),Italy,2,41 C1,-177,NULL,10.022101,44.062217,Beloch 1880; Cornell and Mathews 1982; de Ligt 2012; Golvin 1988; PECS; Quinn and Wilson 2013; Salmon 1969; Sear 2006.
 Hanson2016_985,Nepet,Nepi,Italia (VII Etruria),Italy,3,42 C4,-500,NULL,12.347835,42.241889,Beloch 1880; Bispham 2007; BNP; Cornell and Mathews 1982; de Ligt 2012; Salmon 1969.
 Hanson2016_986,Perusia,Perugia,Italia (VII Etruria),Italy,2,42 C2,-400,NULL,12.388791,43.111742,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; DGRG; Golvin 1988; PECS; Salmon 1969.
-Hanson2016_987,Pisae,Pisa,Italia (VII Etruria),Italy,2,41 C2,-500,NULL,10.40074,43.714368,Beloch 1880; Bispham 2007; BNP; Cornell and Mathews 1982; de Ligt 2012; DGRG; Nelis-Clément and Roddaz 2008; PECS; Russell 1958; Salmon 1969.
+Hanson2016_987,Pisae,Pisa,Italia (VII Etruria),Italy,2,41 C2,-500,NULL,10.40074,43.714368,Beloch 1880; Bispham 2007; BNP; Cornell and Mathews 1982; de Ligt 2012; DGRG; Nelis-ClÃ©ment and Roddaz 2008; PECS; Russell 1958; Salmon 1969.
 Hanson2016_988,Pistorium,Pistoia,Italia (VII Etruria),Italy,2,41 D2,-400,NULL,10.916667,43.933333,Beloch 1880; Bispham 2007; de Ligt 2012; DGRG.
 Hanson2016_989,Pitulum,Umbertide,Italia (VII Etruria),Italy,-,-,-400,NULL,12.327429,43.305119,Beloch 1880; de Ligt 2012; DGRG.
 Hanson2016_990,Portus,Fuimicino,Italia (VII Etruria),Italy,2,43 B2,41,NULL,12.266667,41.779167,BNP; PECS.
 Hanson2016_991,Pyrgi,S. Severa,Italia (VII Etruria),Italy,3,44 A1,-400,NULL,11.963414,42.015225,Beloch 1880; BNP; Cornell and Mathews 1982; de Ligt 2012; PECS; Salmon 1969; Salmon 1969.
-Hanson2016_992,Roma,Rome,Italia (VII Etruria),Italy,1,43 B2,-700,NULL,12.485098,41.892777,Beloch 1886; Benario 1981; de Ligt 2012; Golvin 1988; McEvedy 2011; Nelis-Clément and Roddaz 2008; PECS; Salmon 1969; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
+Hanson2016_992,Roma,Rome,Italia (VII Etruria),Italy,1,43 B2,-700,NULL,12.485098,41.892777,Beloch 1886; Benario 1981; de Ligt 2012; Golvin 1988; McEvedy 2011; Nelis-ClÃ©ment and Roddaz 2008; PECS; Salmon 1969; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
 Hanson2016_993,Rusellae,Roselle,Italia (VII Etruria),Italy,3,42 A3,-600,NULL,11.159234,42.827387,Beloch 1880; BNP; Cornell and Mathews 1982; de Ligt 2012; DGRG; Golvin 1988; PECS; Salmon 1969.
 Hanson2016_994,Saena,Sienna,Italia (VII Etruria),Italy,3,42 A2,-400,NULL,11.330514,43.318661,Beloch 1880; Bispham 2007; BNP; Cornell and Mathews 1982; de Ligt 2012; Salmon 1969.
 Hanson2016_995,Saturnia,Saturnia,Italia (VII Etruria),Italy,3,42 B3,-400,NULL,11.504827,42.666255,Beloch 1880; BNP; Cornell and Mathews 1982; de Ligt 2012; DGRG; PECS; Salmon 1969.
@@ -998,7 +998,7 @@ Hanson2016_996,Statonia,Poggio Buco?,Italia (VII Etruria),Italy,3,42 C3,-400,NUL
 Hanson2016_997,Suana,Sovana,Italia (VII Etruria),Italy,4 or 5,42 B3,-400,NULL,11.64704,42.658622,Beloch 1880; de Ligt 2012; DGRG.
 Hanson2016_998,Sutrium,Sutri,Italia (VII Etruria),Italy,3,42 C4,-500,NULL,12.224259,42.241269,Beloch 1880; Bispham 2007; BNP; Cornell and Mathews 1982; de Ligt 2012; PECS; Salmon 1969.
 Hanson2016_999,Tarquinii,Tarquinia,Italia (VII Etruria),Italy,4 or 5,42 B4,-700,NULL,11.758011,42.254051,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; DGRG; PECS; Woloch 1983.
-Hanson2016_1000,Tifernum Tiberinum,Città di Castello,Italia (VII Etruria),Italy,3,42 C2,-400,NULL,12.243968,43.460874,Beloch 1880; BNP; de Ligt 2012; DGRG; PECS.
+Hanson2016_1000,Tifernum Tiberinum,CittÃ  di Castello,Italia (VII Etruria),Italy,3,42 C2,-400,NULL,12.243968,43.460874,Beloch 1880; BNP; de Ligt 2012; DGRG; PECS.
 Hanson2016_1001,Tuscana,Tuscania,Italia (VII Etruria),Italy,3,42 B4,-400,NULL,11.872307,42.417272,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; DGRG; PECS.
 Hanson2016_1002,Veii,Veio,Italia (VII Etruria),Italy,3,43 B1,-600,NULL,12.395451,42.021684,Beloch 1880; BNP; de Ligt 2012; PECS; Salmon 1969; Sear 2006.
 Hanson2016_1003,Vetulonia,Vetulonia,Italia (VII Etruria),Italy,3,41 D4,-400,NULL,10.971111,42.859444,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; DGRG; PECS; Woloch 1983.
@@ -1010,7 +1010,7 @@ Hanson2016_1008,Ariminum,Rimini,Italia (VIII Aemilia),Italy,3,40 D4,-268,NULL,12
 Hanson2016_1009,Bononia,Bologna,Italia (VIII Aemilia),Italy,3,40 A4,-189,NULL,11.342381,44.494599,Beloch 1880; Beloch 1886; Bispham 2007; Cornell and Mathews 1982; de Ligt 2012; McEvedy 2011; PECS; Salmon 1969; Sear 2006; Woloch 1983.
 Hanson2016_1010,Brixellum,Brescello,Italia (VIII Aemilia),Italy,4 or 5,39 H4,-150,NULL,10.516667,44.9,Beloch 1880; Cornell and Mathews 1982; de Ligt 2012; DGRG; Salmon 1969.
 Hanson2016_1011,Caesena,Cesena,Italia (VIII Aemilia),Italy,4 or 5,40 C4,-200,NULL,12.239124,44.13876,Beloch 1880; de Ligt 2012; PECS.
-Hanson2016_1012,Claterna,Ozzano dell'Emilia,Italia (VIII Aemilia),Italy,4 or 5,40 B4,-200,NULL,11.470525,44.443585,Beloch 1880; BNP; de Ligt 2012; Nelis-Clément and Roddaz 2008; PECS.
+Hanson2016_1012,Claterna,Ozzano dell'Emilia,Italia (VIII Aemilia),Italy,4 or 5,40 B4,-200,NULL,11.470525,44.443585,Beloch 1880; BNP; de Ligt 2012; Nelis-ClÃ©ment and Roddaz 2008; PECS.
 Hanson2016_1013,Cremona,Cremona,Italia (VIII Aemilia),Italy,3,39 G3,-218,NULL,10.02297,45.134868,Beloch 1880; Bispham 2007; Cornell and Mathews 1982; de Ligt 2012; PECS; Salmon 1969; Salmon 1969.
 Hanson2016_1014,Faventia,Faenza,Italia (VIII Aemilia),Italy,4 or 5,40 B4,-146,NULL,11.882989,44.285348,Beloch 1880; de Ligt 2012; PECS.
 Hanson2016_1015,Fidentia,Fidenza,Italia (VIII Aemilia),Italy,3,39 G4,-200,NULL,10.066667,44.866667,Beloch 1880; de Ligt 2012; DGRG.
@@ -1043,7 +1043,7 @@ Hanson2016_1041,Acelum,Asolo,Italia (X Venetia et Histria),Italy,4 or 5,40 B1,-5
 Hanson2016_1042,Adria,Adria,Italia (X Venetia et Histria),Italy,4 or 5,40 C2,-600,NULL,12.056242,45.054003,Beloch 1880; Bispham 2007; BNP; de Ligt 2012; DGRG; Hansen and Nielsen 2004; PECS; Salmon 1969; Sear 2006.
 Hanson2016_1043,Albona,Labin,Italia (X Venetia et Histria),Croatia,4 or 5,20 B4,-44,NULL,14.115748,45.098398,Wilkes 2003a.
 Hanson2016_1044,Altinum,Altino,Italia (X Venetia et Histria),Italy,3,40 C1,-50,NULL,12.400964,45.549242,Beloch 1880; de Ligt 2012; DGRG; PECS; Sear 2006.
-Hanson2016_1045,Aquileia,Aquileia,Italia (X Venetia et Histria),Italy,2,19 F4,-181,NULL,13.367051,45.765269,Beloch 1880; Beloch 1886; Bispham 2007; Cornell and Mathews 1982; de Ligt 2012; Golvin 1988; McEvedy 2011; Nelis-Clément and Roddaz 2008; PECS; Quinn and Wilson 2013; Salmon 1969; Sear 2006; Wilkes 2003b; Wilson 2011.
+Hanson2016_1045,Aquileia,Aquileia,Italia (X Venetia et Histria),Italy,2,19 F4,-181,NULL,13.367051,45.765269,Beloch 1880; Beloch 1886; Bispham 2007; Cornell and Mathews 1982; de Ligt 2012; Golvin 1988; McEvedy 2011; Nelis-ClÃ©ment and Roddaz 2008; PECS; Quinn and Wilson 2013; Salmon 1969; Sear 2006; Wilkes 2003b; Wilson 2011.
 Hanson2016_1046,Ateste,Este,Italia (X Venetia et Histria),Italy,4 or 5,40 B2,-400,NULL,11.666667,45.233333,Beloch 1880; Cornell and Mathews 1982; de Ligt 2012; DGRG; Salmon 1969; Sear 2006.
 Hanson2016_1047,Bellunum,Belluno,Italia (X Venetia et Histria),Italy,4 or 5,19 E3,-220,NULL,12.217395,46.140032,de Ligt 2012; DGRG.
 Hanson2016_1048,Brixia,Brescia,Italia (X Venetia et Histria),Italy,2,39 G2,-89,NULL,10.219836,45.539406,Beloch 1880; Cornell and Mathews 1982; de Ligt 2012; McEvedy 2011; PECS; Quinn and Wilson 2013; Salmon 1969; Sear 2006.
@@ -1057,58 +1057,58 @@ Hanson2016_1055,Mantua,Mantova,Italia (X Venetia et Histria),Italy,4 or 5,39 H3,
 Hanson2016_1056,Nesactium,Viza?e,Italia (X Venetia et Histria),Croatia,4 or 5,20 A5,-177,NULL,13.969722,44.916667,Beloch 1880; de Ligt 2012; DGRG; PECS.
 Hanson2016_1057,Opitergum,Oderzo,Italia (X Venetia et Histria),Italy,4 or 5,40 D1,-100,NULL,12.490642,45.781115,Beloch 1880; de Ligt 2012; PECS; Salmon 1969.
 Hanson2016_1058,Parentium,Porec,Italia (X Venetia et Histria),Croatia,3,20 A4,-177,NULL,13.597752,45.226697,Beloch 1880; Cornell and Mathews 1982; de Ligt 2012; DGRG; MacMullen 2000; PECS; Salmon 1969.
-Hanson2016_1059,Patavium,Padua,Italia (X Venetia et Histria),Italy,2,40 B2,-50,NULL,11.876589,45.409568,Beloch 1880; de Ligt 2012; Golvin 1988; McEvedy 2011; Nelis-Clément and Roddaz 2008; PECS; Sear 2006; Wilson 2011.
+Hanson2016_1059,Patavium,Padua,Italia (X Venetia et Histria),Italy,2,40 B2,-50,NULL,11.876589,45.409568,Beloch 1880; de Ligt 2012; Golvin 1988; McEvedy 2011; Nelis-ClÃ©ment and Roddaz 2008; PECS; Sear 2006; Wilson 2011.
 Hanson2016_1060,Pola,Pula,Italia (X Venetia et Histria),Croatia,3,20 A5,-178,NULL,13.841147,44.869652,Beloch 1880; Beloch 1886; Benario 1981; Cornell and Mathews 1982; de Ligt 2012; Golvin 1988; MacMullen 2000; PECS; Salmon 1969; Sear 2006.
 Hanson2016_1061,Tarvisium,Treviso,Italia (X Venetia et Histria),Italy,4 or 5,40 C1,-50,NULL,12.242072,45.666286,Beloch 1880; de Ligt 2012; PECS.
 Hanson2016_1062,Tergestum,Trieste,Italia (X Venetia et Histria),Italy,3,19 F4,-43,NULL,13.770245,45.648459,Beloch 1880; Cornell and Mathews 1982; de Ligt 2012; PECS; Quinn and Wilson 2013; Salmon 1969; Sear 2006.
 Hanson2016_1063,Tridentum,Trento,Italia (X Venetia et Histria),Italy,3,39 I1,-23,NULL,11.121006,46.067253,Beloch 1880; de Ligt 2012; PECS; Salmon 1969; Wilkes 2003b.
 Hanson2016_1064,Urbana,Unknown,Italia (X Venetia et Histria),Italy,4 or 5,44 F3,-82,NULL,11.445288,45.193362,Beloch 1880; de Ligt 2012; DGRG; Salmon 1969.
-Hanson2016_1065,Verona,Verona,Italia (X Venetia et Histria),Italy,2,39 H3,-89,NULL,10.997047,45.442663,Beloch 1880; Beloch 1886; Benario 1981; Bomgardner 2000; de Ligt 2012; McEvedy 2011; Nelis-Clément and Roddaz 2008; PECS; Quinn and Wilson 2013; Salmon 1969; Sear 2006; Wilkes 2003b; Woloch 1983.
+Hanson2016_1065,Verona,Verona,Italia (X Venetia et Histria),Italy,2,39 H3,-89,NULL,10.997047,45.442663,Beloch 1880; Beloch 1886; Benario 1981; Bomgardner 2000; de Ligt 2012; McEvedy 2011; Nelis-ClÃ©ment and Roddaz 2008; PECS; Quinn and Wilson 2013; Salmon 1969; Sear 2006; Wilkes 2003b; Woloch 1983.
 Hanson2016_1066,Vicetia,Vicenza,Italia (X Venetia et Histria),Italy,3,40 B1,-89,NULL,11.54551,45.547333,Beloch 1880; de Ligt 2012; PECS; Sear 2006.
 Hanson2016_1067,Bergomum,Bergamo,Italia (XI Transpadana),Italy,3,39 F2,-50,NULL,9.669953,45.694903,Beloch 1880; de Ligt 2012; DGRG.
 Hanson2016_1068,Comum,Como,Italia (XI Transpadana),Italy,3,39 E2,-59,NULL,9.082065,45.81011,Beloch 1880; de Ligt 2012; PECS; Sear 2006.
 Hanson2016_1069,Eporedia,Ivrea,Italia (XI Transpadana),Italy,3,39 B3,-100,NULL,7.87595,45.4666,Beloch 1880; Cornell and Mathews 1982; de Ligt 2012; Golvin 1988; PECS; Salmon 1969; Sear 2006.
 Hanson2016_1070,Laumellum,Lomello,Italia (XI Transpadana),Italy,4 or 5,39 D3,-27,NULL,8.79735,45.122042,de Ligt 2012; DGRG.
 Hanson2016_1071,Laus Pompeia,Unknown,Italia (XI Transpadana),Italy,4 or 5,39 E3,-510,NULL,9.418777,45.303456,Beloch 1880; BNP; de Ligt 2012; Hansen and Nielsen 2004; Sear 2006.
-Hanson2016_1072,Mediolanum (Italia (XI Transpadana)),Milan,Italia (XI Transpadana),Italy,1,39 E3,-89,NULL,9.188141,45.463689,Beloch 1880; Beloch 1886; Benario 1981; de Ligt 2012; Golvin 1988; McEvedy 2011; Nelis-Clément and Roddaz 2008; PECS; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
+Hanson2016_1072,Mediolanum (Italia (XI Transpadana)),Milan,Italia (XI Transpadana),Italy,1,39 E3,-89,NULL,9.188141,45.463689,Beloch 1880; Beloch 1886; Benario 1981; de Ligt 2012; Golvin 1988; McEvedy 2011; Nelis-ClÃ©ment and Roddaz 2008; PECS; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
 Hanson2016_1073,Novaria,Novara,Italia (XI Transpadana),Italy,3,39 D3,-50,NULL,8.621834,45.446198,Beloch 1880; de Ligt 2012; PECS.
 Hanson2016_1074,Ticinum,Pavia,Italia (XI Transpadana),Italy,4 or 5,39 E3,-50,NULL,9.155164,45.184912,Beloch 1880; de Ligt 2012; McEvedy 2011; PECS; Sear 2006.
-Hanson2016_1075,Vercellae,Vercelli,Italia (XI Transpadana),Italy,3,39 C3,-50,NULL,8.422795,45.325287,Beloch 1880; de Ligt 2012; Nelis-Clément and Roddaz 2008; PECS.
+Hanson2016_1075,Vercellae,Vercelli,Italia (XI Transpadana),Italy,3,39 C3,-50,NULL,8.422795,45.325287,Beloch 1880; de Ligt 2012; Nelis-ClÃ©ment and Roddaz 2008; PECS.
 Hanson2016_1076,Aeminium,Coimbra,Lusitania,Portugal,3,24 C4,-50,NULL,-8.415964,40.213267,PECS.
-Hanson2016_1077,Augusta Emerita,Mérida,Lusitania,Spain,2,26 D3,-25,NULL,-6.338496,38.915571,Benario 1981; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; Golvin 1988; Humphrey 1986; MacMullen 2000; McEvedy 2011; Nelis-Clément and Roddaz 2008; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Woloch 1983.
-Hanson2016_1078,Balsa,Tavira,Lusitania,Portugal,3,26 C4,-50,NULL,-7.649448,37.126277,DGRG; Nelis-Clément and Roddaz 2008; PECS.
+Hanson2016_1077,Augusta Emerita,MÃ©rida,Lusitania,Spain,2,26 D3,-25,NULL,-6.338496,38.915571,Benario 1981; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; Golvin 1988; Humphrey 1986; MacMullen 2000; McEvedy 2011; Nelis-ClÃ©ment and Roddaz 2008; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Woloch 1983.
+Hanson2016_1078,Balsa,Tavira,Lusitania,Portugal,3,26 C4,-50,NULL,-7.649448,37.126277,DGRG; Nelis-ClÃ©ment and Roddaz 2008; PECS.
 Hanson2016_1079,Caesarobriga,Talavera de la Reina,Lusitania,Spain,4 or 5,27 A2,-50,NULL,-4.832609,39.958228,Keay 1998.
-Hanson2016_1080,Capera,Cáparra,Lusitania,Spain,3,24 E4,-50,NULL,-6.101091,40.166755,Carreras Monfort 1995-1996; PECS; Sear 2006.
+Hanson2016_1080,Capera,CÃ¡parra,Lusitania,Spain,3,24 E4,-50,NULL,-6.101091,40.166755,Carreras Monfort 1995-1996; PECS; Sear 2006.
 Hanson2016_1081,Conimbriga,Condeixa a Velha,Lusitania,Portugal,3,24 C4,-27,NULL,-8.494923,40.099154,Carreras Monfort 1995-1996; Golvin 1988; PECS.
-Hanson2016_1082,Ebora,Evora,Lusitania,Portugal,3,26 C3,-57,NULL,-7.907296,38.572638,BNP; Carreras Monfort 1995-1996; DGRG; MacMullen 2000; Nelis-Clément and Roddaz 2008; PECS; Sear 2006.
+Hanson2016_1082,Ebora,Evora,Lusitania,Portugal,3,26 C3,-57,NULL,-7.907296,38.572638,BNP; Carreras Monfort 1995-1996; DGRG; MacMullen 2000; Nelis-ClÃ©ment and Roddaz 2008; PECS; Sear 2006.
 Hanson2016_1083,Egitania,Idanha a Velha,Lusitania,Portugal,3,26 C2,-50,NULL,-7.144524,39.997054,DGRG; PECS.
 Hanson2016_1084,Lacimurga,Unknown,Lusitania,Spain,4 or 5,26 E2,-49,NULL,-5.461123,39.091793,MacMullen 2000.
-Hanson2016_1085,Metellinum,Medellín,Lusitania,Spain,4 or 5,26 E3,-80,NULL,-5.958211,38.964642,Brunt 1971; Cornell and Mathews 1982; DGRG; MacMullen 2000; PECS; Salmon 1969; Sear 2006.
-Hanson2016_1086,Mirobriga (Lusitania),Santiago do Cacém,Lusitania,Portugal,3,26 B4,-50,NULL,-8.683718,38.010169,BNP; DGRG; Humphrey 1986; Nelis-Clément and Roddaz 2008; PECS.
-Hanson2016_1087,Myrtilis,Mértola,Lusitania,Portugal,3,26 C4,-50,NULL,-7.668795,37.634902,DGRG; MacMullen 2000; Nelis-Clément and Roddaz 2008; PECS.
-Hanson2016_1088,Norba Caesarina,Cáceres,Lusitania,Spain,4 or 5,26 D2,-49,NULL,-6.38098,39.454368,BNP; Brunt 1971; Cornell and Mathews 1982; MacMullen 2000; PECS; Salmon 1969.
-Hanson2016_1089,Olisipo,Lisbon,Lusitania,Portugal,3,26 A3,-138,NULL,-9.145302,38.721227,BNP; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; DGRG; MacMullen 2000; Nelis-Clément and Roddaz 2008; PECS; Sear 2006.
+Hanson2016_1085,Metellinum,MedellÃ­n,Lusitania,Spain,4 or 5,26 E3,-80,NULL,-5.958211,38.964642,Brunt 1971; Cornell and Mathews 1982; DGRG; MacMullen 2000; PECS; Salmon 1969; Sear 2006.
+Hanson2016_1086,Mirobriga (Lusitania),Santiago do CacÃ©m,Lusitania,Portugal,3,26 B4,-50,NULL,-8.683718,38.010169,BNP; DGRG; Humphrey 1986; Nelis-ClÃ©ment and Roddaz 2008; PECS.
+Hanson2016_1087,Myrtilis,MÃ©rtola,Lusitania,Portugal,3,26 C4,-50,NULL,-7.668795,37.634902,DGRG; MacMullen 2000; Nelis-ClÃ©ment and Roddaz 2008; PECS.
+Hanson2016_1088,Norba Caesarina,CÃ¡ceres,Lusitania,Spain,4 or 5,26 D2,-49,NULL,-6.38098,39.454368,BNP; Brunt 1971; Cornell and Mathews 1982; MacMullen 2000; PECS; Salmon 1969.
+Hanson2016_1089,Olisipo,Lisbon,Lusitania,Portugal,3,26 A3,-138,NULL,-9.145302,38.721227,BNP; Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; DGRG; MacMullen 2000; Nelis-ClÃ©ment and Roddaz 2008; PECS; Sear 2006.
 Hanson2016_1090,Ossonoba,Faro,Lusitania,Portugal,3,26 C4,-50,NULL,-7.935108,37.01535,Carreras Monfort 1995-1996; DGRG; PECS.
-Hanson2016_1091,Pax Iulia,Beja,Lusitania,Portugal,2,26 C4,-49,NULL,-7.865235,38.015624,Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; MacMullen 2000; Nelis-Clément and Roddaz 2008; PECS; Salmon 1969.
-Hanson2016_1092,Salacia,Alcacer do Sal,Lusitania,Portugal,3,26 B3,-50,NULL,-8.519503,38.371152,Carreras Monfort 1995-1996; DGRG; MacMullen 2000; Nelis-Clément and Roddaz 2008.
+Hanson2016_1091,Pax Iulia,Beja,Lusitania,Portugal,2,26 C4,-49,NULL,-7.865235,38.015624,Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; MacMullen 2000; Nelis-ClÃ©ment and Roddaz 2008; PECS; Salmon 1969.
+Hanson2016_1092,Salacia,Alcacer do Sal,Lusitania,Portugal,3,26 B3,-50,NULL,-8.519503,38.371152,Carreras Monfort 1995-1996; DGRG; MacMullen 2000; Nelis-ClÃ©ment and Roddaz 2008.
 Hanson2016_1093,Salmantica,Salamanca,Lusitania,Spain,3,24 F4,-50,NULL,-5.663087,40.964965,BNP; DGRG; Russell 1958.
 Hanson2016_1094,Scallabis,Santarem,Lusitania,Portugal,2,26 B2,-49,NULL,-8.687059,39.236177,Brunt 1971; Carreras Monfort 1995-1996; Cornell and Mathews 1982; MacMullen 2000; Salmon 1969.
-Hanson2016_1095,Unknown (4),Tróia,Lusitania,Portugal,4 or 5,26 B3,-50,NULL,-8.903604,38.488819,Carreras Monfort 1995-1996.
+Hanson2016_1095,Unknown (4),TrÃ³ia,Lusitania,Portugal,4 or 5,26 B3,-50,NULL,-8.903604,38.488819,Carreras Monfort 1995-1996.
 Hanson2016_1096,Adada,Karabaulo,Lycia et Pamphylia,Turkey,3,65 E2,-323,NULL,30.986348,37.581776,DGRG; Jones 1937; PECS.
 Hanson2016_1097,Antiphellus,Ka?,Lycia et Pamphylia,Turkey,4 or 5,65 C5,-323,NULL,29.634935,36.199973,BNP; DGRG; Jones 1937; PECS; Sear 2006.
 Hanson2016_1098,Apollonia (Lycia et Pamphylia) (1),Olou Borlon,Lycia et Pamphylia,Turkey,3,65 D1,-600,NULL,30.456957,38.078272,Cohen 1995; DGRG; Jones 1937; PECS; Sear 2006.
-Hanson2016_1099,Apollonia (Lycia et Pamphylia) (2),Kilinçli,Lycia et Pamphylia,Turkey,4 or 5,65 C5,-323,NULL,29.763668,36.186655,Cohen 1995; PECS; Sear 2006.
-Hanson2016_1100,Ariassus,Üçkap?,Lycia et Pamphylia,Turkey,3,65 D3,-323,NULL,30.470806,37.179694,DGRG; Hanson 2011; Jones 1937; PECS; Sear 2006.
-Hanson2016_1101,Arycanda,Aykiriçay,Lycia et Pamphylia,Turkey,3,65 D4,-323,NULL,30.048508,36.513408,BNP; DGRG; Hanson 2011; Jones 1937; PECS; Sear 2006.
+Hanson2016_1099,Apollonia (Lycia et Pamphylia) (2),KilinÃ§li,Lycia et Pamphylia,Turkey,4 or 5,65 C5,-323,NULL,29.763668,36.186655,Cohen 1995; PECS; Sear 2006.
+Hanson2016_1100,Ariassus,ÃœÃ§kap?,Lycia et Pamphylia,Turkey,3,65 D3,-323,NULL,30.470806,37.179694,DGRG; Hanson 2011; Jones 1937; PECS; Sear 2006.
+Hanson2016_1101,Arycanda,AykiriÃ§ay,Lycia et Pamphylia,Turkey,3,65 D4,-323,NULL,30.048508,36.513408,BNP; DGRG; Hanson 2011; Jones 1937; PECS; Sear 2006.
 Hanson2016_1102,Aspendus,Belkis,Lycia et Pamphylia,Turkey,3,65 F4,-700,NULL,31.169115,36.939472,BNP; DGRG; Hansen and Nielsen 2004; Hanson 2011; Jones 1937; PECS; Sear 2006.
 Hanson2016_1103,Attalea,Antalya,Lycia et Pamphylia,Turkey,3,65 E4,-150,NULL,30.705521,36.884284,BNP; Cohen 1995; DGRG; Jones 1937; PECS; Salmon 1969; Sear 2006.
 Hanson2016_1104,Attalea,Adala,Lycia et Pamphylia,Turkey,3,56 F3,-262,NULL,30.699969,36.89031,BNP; Cohen 1995; DGRG.
-Hanson2016_1105,Balbura,Çölkayi?i,Lycia et Pamphylia,Turkey,3,65 C4,-323,NULL,29.602567,36.967055,DGRG; Jones 1937; PECS; Sear 2006.
+Hanson2016_1105,Balbura,Ã‡Ã¶lkayi?i,Lycia et Pamphylia,Turkey,3,65 C4,-323,NULL,29.602567,36.967055,DGRG; Jones 1937; PECS; Sear 2006.
 Hanson2016_1106,Bubon,Ibecik,Lycia et Pamphylia,Turkey,3,65 B4,-323,NULL,29.415217,36.974003,BNP; DGRG; Jones 1937; PECS; Sear 2006.
-Hanson2016_1107,Cadyanda,Üzümlü,Lycia et Pamphylia,Turkey,4 or 5,65 B4,-323,NULL,29.242155,36.725913,BNP; DGRG; PECS; Sear 2006.
+Hanson2016_1107,Cadyanda,ÃœzÃ¼mlÃ¼,Lycia et Pamphylia,Turkey,4 or 5,65 B4,-323,NULL,29.242155,36.725913,BNP; DGRG; PECS; Sear 2006.
 Hanson2016_1108,Candyba,Gendevar,Lycia et Pamphylia,Turkey,4 or 5,65 C5,-323,NULL,29.666491,36.308363,BNP; DGRG; Jones 1937; PECS; Sear 2006.
-Hanson2016_1109,Cibyra,Gölhisar,Lycia et Pamphylia,Turkey,3,65 B3,-323,NULL,29.489819,37.160008,BNP; DGRG; Jones 1937; PECS; Sear 2006.
-Hanson2016_1110,Comama,Serefönü,Lycia et Pamphylia,Turkey,3,65 D3,-323,NULL,30.3371,37.3213,Brunt 1971; Jones 1937; Salmon 1969.
+Hanson2016_1109,Cibyra,GÃ¶lhisar,Lycia et Pamphylia,Turkey,3,65 B3,-323,NULL,29.489819,37.160008,BNP; DGRG; Jones 1937; PECS; Sear 2006.
+Hanson2016_1110,Comama,SerefÃ¶nÃ¼,Lycia et Pamphylia,Turkey,3,65 D3,-323,NULL,30.3371,37.3213,Brunt 1971; Jones 1937; Salmon 1969.
 Hanson2016_1111,Corycus,Kizkalesi,Lycia et Pamphylia,Turkey,3,65 D5,-323,NULL,30.470547,36.436081,BNP; DGRG; Hansen and Nielsen 2004; PECS.
 Hanson2016_1112,Corydalla,Haciveliler,Lycia et Pamphylia,Turkey,4 or 5,65 D5,-323,NULL,30.273841,36.371287,DGRG; Jones 1937; PECS; Sear 2006.
 Hanson2016_1113,Cremna,Amlik,Lycia et Pamphylia,Turkey,3,65 E2,-323,NULL,30.6911,37.500139,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; Hanson 2011; Jones 1937; MacMullen 2000; PECS; Salmon 1969; Sear 2006.
@@ -1119,7 +1119,7 @@ Hanson2016_1117,Limyra,Finike,Lycia et Pamphylia,Turkey,3,65 D5,-323,NULL,30.173
 Hanson2016_1118,Lydai,Kapi Da?i,Lycia et Pamphylia,Turkey,4 or 5,65 A4,-323,NULL,28.860181,36.614948,BNP; PECS.
 Hanson2016_1119,Milyas,Melli,Lycia et Pamphylia,Turkey,4 or 5,65 C4,-323,NULL,29.75,36.750001,BNP; DGRG; Jones 1937; PECS.
 Hanson2016_1120,Myra,Demre,Lycia et Pamphylia,Turkey,3,65 C5,-500,NULL,30.014409,36.246429,Jones 1937; McEvedy 2011; PECS; Sear 2006.
-Hanson2016_1121,Nisa,Sütl?en,Lycia et Pamphylia,Turkey,4 or 5,65 C5,-323,NULL,29.633049,36.439231,BNP; Jones 1937; PECS; Sear 2006.
+Hanson2016_1121,Nisa,SÃ¼tl?en,Lycia et Pamphylia,Turkey,4 or 5,65 C5,-323,NULL,29.633049,36.439231,BNP; Jones 1937; PECS; Sear 2006.
 Hanson2016_1122,Oenoanda,Incealiler,Lycia et Pamphylia,Turkey,3,65 C4,-200,NULL,29.549677,36.809338,BNP; DGRG; Hanson 2011; Jones 1937; PECS; Sear 2006.
 Hanson2016_1123,Olbasa,Belenli,Lycia et Pamphylia,Turkey,3,65 C3,-323,NULL,30.005519,37.303875,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; Jones 1937; MacMullen 2000; PECS; Quinn and Wilson 2013; Salmon 1969.
 Hanson2016_1124,Olympus,Delikta?,Lycia et Pamphylia,Turkey,3,65 D5,-323,NULL,30.471532,36.387902,BNP; Jones 1937; PECS; Sear 2006.
@@ -1129,20 +1129,20 @@ Hanson2016_1127,Pednelissus,Near Kozan,Lycia et Pamphylia,Turkey,3,65 E3,-323,NU
 Hanson2016_1128,Perge,Aksu,Lycia et Pamphylia,Turkey,2,65 E4,-700,NULL,30.854072,36.960317,Hansen and Nielsen 2004; Hanson 2011; McEvedy 2011; PECS; Russell 1958; Sear 2006.
 Hanson2016_1129,Phaselis,Tekirova,Lycia et Pamphylia,Turkey,3,65 E4,-690,NULL,30.548712,36.52178,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_1130,Phellus,Felendai,Lycia et Pamphylia,Turkey,4 or 5,65 C5,-323,NULL,29.666308,36.24085,BNP; DGRG; Jones 1937; PECS.
-Hanson2016_1131,Pinara,Minare Köyü,Lycia et Pamphylia,Turkey,3,65 B5,-600,NULL,29.240952,36.497572,BNP; DGRG; Hanson 2011; Jones 1937; PECS; Sear 2006.
+Hanson2016_1131,Pinara,Minare KÃ¶yÃ¼,Lycia et Pamphylia,Turkey,3,65 B5,-600,NULL,29.240952,36.497572,BNP; DGRG; Hanson 2011; Jones 1937; PECS; Sear 2006.
 Hanson2016_1132,Rhodiapolis,Kumluca,Lycia et Pamphylia,Turkey,4 or 5,65 D5,-700,NULL,30.267204,36.385704,BNP; Jones 1937; PECS; Sear 2006.
 Hanson2016_1133,Sagalassus,Aglasun,Lycia et Pamphylia,Turkey,2,65 E2,-323,NULL,30.519188,37.67674,BNP; DGRG; Hanson 2011; Jones 1937; PECS; Sear 2006.
 Hanson2016_1134,Seleucia (Lycia et Pamphylia),Selef,Lycia et Pamphylia,Turkey,3,65 E2,-323,NULL,30.632381,37.897296,BNP; Cohen 1995; Jones 1937; PECS.
 Hanson2016_1135,Selge,Selge,Lycia et Pamphylia,Turkey,3,65 F3,-700,NULL,31.127958,37.228159,BNP; Cohen 1995; DGRG; Hanson 2011; Jones 1937; PECS; Sear 2006.
 Hanson2016_1136,Side,Selimiye,Lycia et Pamphylia,Turkey,2,65 F4,-700,NULL,31.388793,36.766346,Hansen and Nielsen 2004; Hanson 2011; Jones 1937; McEvedy 2011; PECS; Sear 2006.
 Hanson2016_1137,Sidyma,Dudurga Asari,Lycia et Pamphylia,Turkey,3,65 B5,-323,NULL,29.197819,36.409728,BNP; DGRG; Jones 1937; PECS; Sear 2006.
-Hanson2016_1138,Sillyum,Asar Köyü,Lycia et Pamphylia,Turkey,3,65 E4,-700,NULL,30.98638,36.990721,BNP; DGRG; Hanson 2011; Jones 1937; PECS; Sear 2006.
-Hanson2016_1139,Simena,Kaleköy,Lycia et Pamphylia,Turkey,4 or 5,65 C5,-700,NULL,29.86135,36.190221,BNP; PECS; Sear 2006.
+Hanson2016_1138,Sillyum,Asar KÃ¶yÃ¼,Lycia et Pamphylia,Turkey,3,65 E4,-700,NULL,30.98638,36.990721,BNP; DGRG; Hanson 2011; Jones 1937; PECS; Sear 2006.
+Hanson2016_1139,Simena,KalekÃ¶y,Lycia et Pamphylia,Turkey,4 or 5,65 C5,-700,NULL,29.86135,36.190221,BNP; PECS; Sear 2006.
 Hanson2016_1140,Telmessus,Fethiye,Lycia et Pamphylia,Turkey,3,65 B4,-323,NULL,29.116464,36.621188,BNP; DGRG; Hansen and Nielsen 2004; Jones 1937; PECS; Sear 2006.
 Hanson2016_1141,Tenedos,Bozcaada,Lycia et Pamphylia,Turkey,4 or 5,65 E4,-700,NULL,30.647928,36.885834,BNP; DGRG; Hansen and Nielsen 2004.
-Hanson2016_1142,Termessus,Güllük Da?,Lycia et Pamphylia,Turkey,3,65 D4,-323,NULL,30.464722,36.9825,BNP; DGRG; Hanson 2011; Jones 1937; PECS; Russell 1958; Sear 2006.
+Hanson2016_1142,Termessus,GÃ¼llÃ¼k Da?,Lycia et Pamphylia,Turkey,3,65 D4,-323,NULL,30.464722,36.9825,BNP; DGRG; Hanson 2011; Jones 1937; PECS; Russell 1958; Sear 2006.
 Hanson2016_1143,Tlos,Dilver,Lycia et Pamphylia,Turkey,3,65 B4,-323,NULL,29.420789,36.553889,BNP; DGRG; Hanson 2011; Jones 1937; PECS; Sear 2006.
-Hanson2016_1144,Trebenna,Ça?larca,Lycia et Pamphylia,Turkey,3,65 D4,-323,NULL,30.461845,36.876066,BNP; PECS; Salmon 1969.
+Hanson2016_1144,Trebenna,Ã‡a?larca,Lycia et Pamphylia,Turkey,3,65 D4,-323,NULL,30.461845,36.876066,BNP; PECS; Salmon 1969.
 Hanson2016_1145,Xanthus,Kinik,Lycia et Pamphylia,Turkey,3,65 B5,-600,NULL,29.319885,36.356552,Hansen and Nielsen 2004; Hanson 2011; Jones 1937; McEvedy 2011; PECS; Sear 2006.
 Hanson2016_1146,Amantia,Klos,Macedonia,Albania,4 or 5,49 B3,-600,NULL,19.61777,40.467945,DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS.
 Hanson2016_1147,Amphipolis,Amfipoli,Macedonia,Greece,2,51 B3,-437,NULL,23.84013,40.821057,BNP; Cohen 2006; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006; Wilkes 2003b.
@@ -1151,7 +1151,7 @@ Hanson2016_1149,Beroea (Macedonia),Veria,Macedonia,Greece,3,50 B3,-400,NULL,22.2
 Hanson2016_1150,Byllis,Gradisht,Macedonia,Albania,3,49 B3,-400,NULL,19.739266,40.538262,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; Hansen 2006; Hansen and Nielsen 2004; MacMullen 2000; PECS; Salmon 1969; Sear 2006.
 Hanson2016_1151,Cassandrea,Cassandrea,Macedonia,Greece,4 or 5,50 D4,-600,NULL,23.412031,40.047726,BNP; Brunt 1971; Cohen 1995; Cornell and Mathews 1982; DGRG; MacMullen 2000; PECS; Salmon 1969.
 Hanson2016_1152,Dium,Dion,Macedonia,Greece,3,50 B4,-400,NULL,22.48613,40.172852,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; Hansen 2006; Hansen and Nielsen 2004; Jones 1937; MacMullen 2000; PECS; Salmon 1969; Sear 2006.
-Hanson2016_1153,Dyrrachium,Durrës,Macedonia,Albania,2,49 B2,-627,NULL,19.456811,41.327377,BNP; Boatwright 2000; Brunt 1971; Cornell and Mathews 1982; DGRG; Hansen and Nielsen 2004; MacMullen 2000; PECS; Russell 1958; Salmon 1969.
+Hanson2016_1153,Dyrrachium,DurrÃ«s,Macedonia,Albania,2,49 B2,-627,NULL,19.456811,41.327377,BNP; Boatwright 2000; Brunt 1971; Cornell and Mathews 1982; DGRG; Hansen and Nielsen 2004; MacMullen 2000; PECS; Russell 1958; Salmon 1969.
 Hanson2016_1154,Edessa,Edessa,Macedonia,Greece,3,50 B3,-600,NULL,22.050693,40.802398,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS.
 Hanson2016_1155,Heraclea (Macedonia),Bitola,Macedonia,Macedonia,3,49 D2,-359,NULL,21.342,41.011,BNP; Cohen 2006; DGRG; Hansen and Nielsen 2004; Jones 1937; PECS; Sear 2006.
 Hanson2016_1156,Lychnidus,Ochrid,Macedonia,Macedonia,3,49 C2,-600,NULL,20.793964,41.114676,BNP; DGRG; PECS; Sear 2006.
@@ -1160,38 +1160,38 @@ Hanson2016_1158,Pella (Macedonia),Pella,Macedonia,Greece,2,50 C3,-413,NULL,22.52
 Hanson2016_1159,Philippi,Krenides,Macedonia,Greece,2,51 C2,-360,NULL,24.339126,41.025172,Beloch 1886; BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; Hansen and Nielsen 2004; MacMullen 2000; PECS; Salmon 1969; Sear 2006; Wilson 2011.
 Hanson2016_1160,Stobi,Stobi,Macedonia,Macedonia,3,50 A1,-229,NULL,21.974974,41.552591,BNP; Brunt 1971; Cohen 1995; Cornell and Mathews 1982; DGRG; PECS; Salmon 1969; Sear 2006; Wilkes 2003b.
 Hanson2016_1161,Thasos,Thasos,Macedonia,Greece,3,51 D3,-700,NULL,24.738633,40.747565,Beloch 1886; BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
-Hanson2016_1162,Thessalonica,Thessaloniki,Macedonia,Greece,1,50 C3,-316,NULL,22.94554,40.637747,Cohen 1995; McEvedy 2011; Nelis-Clément and Roddaz 2008; PECS; Russell 1958; Salmon 1969; Sear 2006; Wilkes 2003b; Wilson 2011.
+Hanson2016_1162,Thessalonica,Thessaloniki,Macedonia,Greece,1,50 C3,-316,NULL,22.94554,40.637747,Cohen 1995; McEvedy 2011; Nelis-ClÃ©ment and Roddaz 2008; PECS; Russell 1958; Salmon 1969; Sear 2006; Wilkes 2003b; Wilson 2011.
 Hanson2016_1163,Torone,Toroni,Macedonia,Greece,3,51 B5,-400,NULL,23.904451,39.976665,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS.
 Hanson2016_1164,Ad Sava,Hammam Guergour,Mauretania Caesariensis,Algeria,3,31 C4,100,NULL,5.066483,36.325495,PECS.
 Hanson2016_1165,Aquae Calidae,Hammam Righa,Mauretania Caesariensis,Algeria,3,30 D4,-27,NULL,2.393876,36.380242,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; MacMullen 2000; Salmon 1969.
 Hanson2016_1166,Arsennaria,Sidi bou Ras,Mauretania Caesariensis,Algeria,3,30 inset,100,NULL,0.873111,36.334326,Salmon 1969.
 Hanson2016_1167,Auzia,Aumale,Mauretania Caesariensis,Algeria,3,30 G4,100,NULL,3.689949,36.145619,BNP; Lepelley 1979-1981; PECS; Salmon 1969.
 Hanson2016_1168,Bida,Djemaa Saharidj,Mauretania Caesariensis,Algeria,3,30 H3,100,NULL,4.289191,36.683267,Salmon 1969.
-Hanson2016_1169,Cartenna,Ténès,Mauretania Caesariensis,Algeria,3,30 B3,-30,NULL,1.307598,36.510418,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; MacMullen 2000; Russell 1958; Salmon 1969; Wilson 2011.
+Hanson2016_1169,Cartenna,TÃ©nÃ¨s,Mauretania Caesariensis,Algeria,3,30 B3,-30,NULL,1.307598,36.510418,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; MacMullen 2000; Russell 1958; Salmon 1969; Wilson 2011.
 Hanson2016_1170,Choba,Ziama,Mauretania Caesariensis,Algeria,3,31 C3,100,NULL,5.481269,36.673105,BNP; Boatwright 2000.
 Hanson2016_1171,Cuicul,Djemila,Mauretania Caesariensis,Algeria,3,31 D4,96,NULL,5.735732,36.320494,BNP; DGRG; Lepelley 1979-1981; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
 Hanson2016_1172,Diana Veteranorum,Zana,Mauretania Caesariensis,Algeria,3,34 E2,98,NULL,6.080301,35.77969,BNP; DGRG; Lepelley 1979-1981; PECS; Wilson 2011.
 Hanson2016_1173,Gunugu,Sidi Brahim,Mauretania Caesariensis,Algeria,3,30 C3,-33,NULL,1.9056,36.571558,BNP; Brunt 1971; Cornell and Mathews 1982; Lepelley 1979-1981; MacMullen 2000; Salmon 1969.
 Hanson2016_1174,Icosium,Algiers,Mauretania Caesariensis,Algeria,3,30 F3,-29,NULL,3.049726,36.766025,BNP; DGRG; Lepelley 1979-1981; PECS; Salmon 1969; Wilson 2011.
 Hanson2016_1175,Igilgili,Djidjelli,Mauretania Caesariensis,Algeria,3,31 D3,-27,NULL,5.765676,36.820982,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; Lepelley 1979-1981; MacMullen 2000; PECS; Salmon 1969; Woloch 1983.
-Hanson2016_1176,Iol,Cherchell,Mauretania Caesariensis,Algeria,2,30 D3,-25,NULL,2.188806,36.606415,Benario 1981; Bomgardner 2000; Lepelley 1979-1981; MacMullen 2000; McEvedy 2011; Nelis-Clément and Roddaz 2008; PECS; Quinn and Wilson 2013; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
+Hanson2016_1176,Iol,Cherchell,Mauretania Caesariensis,Algeria,2,30 D3,-25,NULL,2.188806,36.606415,Benario 1981; Bomgardner 2000; Lepelley 1979-1981; MacMullen 2000; McEvedy 2011; Nelis-ClÃ©ment and Roddaz 2008; PECS; Quinn and Wilson 2013; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
 Hanson2016_1177,Iomnium,Tigzirt,Mauretania Caesariensis,Algeria,3,30 H3,100,NULL,4.125565,36.891971,BNP; PECS.
 Hanson2016_1178,Lamasba,Henchir Merouana,Mauretania Caesariensis,Algeria,3,34 D2,100,NULL,5.9113,35.629,BNP.
 Hanson2016_1179,Milev,Mila,Mauretania Caesariensis,Algeria,3,31 E4,-27,NULL,6.267698,36.451276,Brunt 1971; Lepelley 1979-1981; MacMullen 2000; Salmon 1969.
 Hanson2016_1180,Mopthensium,Mons,Mauretania Caesariensis,Algeria,3,31 D4,96,NULL,5.567436,36.247346,BNP; PECS; Quinn and Wilson 2013.
-Hanson2016_1181,Oppidum Novum,Aïn Defla,Mauretania Caesariensis,Algeria,3,30 C4,41,NULL,1.965443,36.257137,BNP; DGRG; PECS; Salmon 1969.
+Hanson2016_1181,Oppidum Novum,AÃ¯n Defla,Mauretania Caesariensis,Algeria,3,30 C4,41,NULL,1.965443,36.257137,BNP; DGRG; PECS; Salmon 1969.
 Hanson2016_1182,Portus Magnus,Arzew,Mauretania Caesariensis,Algeria,4 or 5,29 E1,100,NULL,-0.266018,35.807917,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; PECS; Quinn and Wilson 2013.
-Hanson2016_1183,Quiza,El Bénian,Mauretania Caesariensis,Algeria,3,30 inset,100,NULL,0.241679,36.02993,BNP; Boatwright 2000; DGRG; Lepelley 1979-1981; PECS; Salmon 1969.
+Hanson2016_1183,Quiza,El BÃ©nian,Mauretania Caesariensis,Algeria,3,30 inset,100,NULL,0.241679,36.02993,BNP; Boatwright 2000; DGRG; Lepelley 1979-1981; PECS; Salmon 1969.
 Hanson2016_1184,Rapidum,Sour Djouab,Mauretania Caesariensis,Algeria,3,30 F4,122,NULL,3.421825,36.136435,BNP; Lepelley 1979-1981; PECS; Quinn and Wilson 2013.
 Hanson2016_1185,Rusazus,Azeffoun,Mauretania Caesariensis,Algeria,3,31 A3,-33,NULL,4.422655,36.893992,BNP; Brunt 1971; Cornell and Mathews 1982; MacMullen 2000; Salmon 1969.
 Hanson2016_1186,Rusguniae,Tementfoust,Mauretania Caesariensis,Algeria,3,30 F3,-33,NULL,3.235522,36.810022,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; MacMullen 2000; PECS; Salmon 1969.
 Hanson2016_1187,Rusippisir,Taksebt,Mauretania Caesariensis,Algeria,3,30 H3,100,NULL,4.174236,36.900733,PECS.
 Hanson2016_1188,Rusuccuru,Dellys?,Mauretania Caesariensis,Algeria,3,30 G3,41,NULL,3.9141,36.916,BNP; PECS; Salmon 1969.
-Hanson2016_1189,Saldae,Béjaia,Mauretania Caesariensis,Algeria,3,31 C3,-33,NULL,5.078027,36.758025,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; Lepelley 1979-1981; MacMullen 2000; PECS; Salmon 1969.
+Hanson2016_1189,Saldae,BÃ©jaia,Mauretania Caesariensis,Algeria,3,31 C3,-33,NULL,5.078027,36.758025,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; Lepelley 1979-1981; MacMullen 2000; PECS; Salmon 1969.
 Hanson2016_1190,Siga,Takembrit,Mauretania Caesariensis,Algeria,3,29 D1,100,NULL,-1.451732,35.252924,BNP; DGRG; PECS; Salmon 1969.
-Hanson2016_1191,Sitifis,Sétif,Mauretania Caesariensis,Algeria,2,31 C4,96,NULL,5.4072,36.1886,BNP; Humphrey 1986; Lepelley 1979-1981; Nelis-Clément and Roddaz 2008; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
+Hanson2016_1191,Sitifis,SÃ©tif,Mauretania Caesariensis,Algeria,2,31 C4,96,NULL,5.4072,36.1886,BNP; Humphrey 1986; Lepelley 1979-1981; Nelis-ClÃ©ment and Roddaz 2008; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
 Hanson2016_1192,Tigava,El Kherba,Mauretania Caesariensis,Algeria,3,30 C4,-50,NULL,1.651388,36.231943,BNP; DGRG; PECS.
-Hanson2016_1193,Tipasa,Tipaza,Mauretania Caesariensis,Algeria,3,30 D3,40,NULL,2.4456,36.5914,BNP; Boatwright 2000; Bomgardner 2000; DGRG; Lepelley 1979-1981; Nelis-Clément and Roddaz 2008; PECS; Quinn and Wilson 2013; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
+Hanson2016_1193,Tipasa,Tipaza,Mauretania Caesariensis,Algeria,3,30 D3,40,NULL,2.4456,36.5914,BNP; Boatwright 2000; Bomgardner 2000; DGRG; Lepelley 1979-1981; Nelis-ClÃ©ment and Roddaz 2008; PECS; Quinn and Wilson 2013; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
 Hanson2016_1194,Tubusuctu,Tiklat,Mauretania Caesariensis,Algeria,3,31 B3,-33,NULL,4.841954,36.665461,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; MacMullen 2000; PECS; Salmon 1969; Wilson 2011.
 Hanson2016_1195,Uzelis,Oudjel,Mauretania Caesariensis,Algeria,4 or 5,31 E4,-50,NULL,6.360226,36.380653,Brunt 1971; Quinn and Wilson 2013.
 Hanson2016_1196,Zucchabar,Miliana,Mauretania Caesariensis,Algeria,3,30 D4,-27,NULL,2.226763,36.304491,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; MacMullen 2000; Salmon 1969.
@@ -1219,7 +1219,7 @@ Hanson2016_1217,Dard(...),Unknown,Moesia Superior,Kosovo,3,21 C6,100,NULL,20.818
 Hanson2016_1218,Drobeta,Turnu Severin,Moesia Superior,Serbia,3,21 E5,101,NULL,22.665,44.631111,BNP; Boatwright 2000; DGRG; PECS; Salmon 1969; Wilkes 2003b.
 Hanson2016_1219,Margum,Dubravica,Moesia Superior,Serbia,3,21 D5,169,NULL,21.061748,44.69123,BNP; DGRG; PECS; Wilkes 2003b; Wilson 2011.
 Hanson2016_1220,Montana,Montana,Moesia Superior,Bulgaria,3,21 F6,99,NULL,23.226095,43.408743,BNP; Wilkes 2003b.
-Hanson2016_1221,Naissus,Niš,Moesia Superior,Serbia,2,21 D6,-1,NULL,21.893884,43.316295,BNP; DGRG; PECS; Wilkes 2003b.
+Hanson2016_1221,Naissus,NiÂš,Moesia Superior,Serbia,2,21 D6,-1,NULL,21.893884,43.316295,BNP; DGRG; PECS; Wilkes 2003b.
 Hanson2016_1222,Ratiaria,Archar,Moesia Superior,Bulgaria,3,21 E6,106,NULL,22.904856,43.817397,McEvedy 2011; PECS; Salmon 1969; Wilkes 2003b.
 Hanson2016_1223,Remesiana,Bela Palanka,Moesia Superior,Serbia,3,21 E6,100,NULL,22.293498,43.214499,
 Hanson2016_1224,Scupi,Skopje,Moesia Superior,Macedonia,2,49 D1,81,NULL,21.391437,42.016885,McEvedy 2011; PECS; Salmon 1969; Sear 2006; Wilkes 2003b; Wilson 2011.
@@ -1227,8 +1227,8 @@ Hanson2016_1225,Singidunum,Belgrade,Moesia Superior,Serbia,3,21 C5,100,NULL,20.4
 Hanson2016_1226,Ulpiana,Gra?anica,Moesia Superior,Kosovo,3,49 D1,98,NULL,21.195698,42.600105,BNP; PECS; Wilkes 2003b.
 Hanson2016_1227,Viminacium (1),Kostolac,Moesia Superior,Serbia,2,21 D5,60,NULL,21.216122,44.736776,McEvedy 2011; PECS; Salmon 1969; Wilkes 2003b; Wilson 2011.
 Hanson2016_1228,Viminacium (2),Kostolac,Moesia Superior,Serbia,2,21 D5,60,NULL,21.216122,44.736776,Boatwright 2000; McEvedy 2011; PECS; Wilkes 2003a; Wilkes 2003b.
-Hanson2016_1229,Aguntum,Dölsach and Nußdorf Debant,Noricum,Austria,3,19 E3,41,NULL,12.822158,46.827894,BNP; PECS; Wilkes 2003b.
-Hanson2016_1230,Cetium,S. Pölten,Noricum,Austria,4 or 5,12 I4,100,NULL,15.622696,48.20473,BNP; Boatwright 2000; DGRG; PECS; Wilkes 2003b.
+Hanson2016_1229,Aguntum,DÃ¶lsach and NuÃŸdorf Debant,Noricum,Austria,3,19 E3,41,NULL,12.822158,46.827894,BNP; PECS; Wilkes 2003b.
+Hanson2016_1230,Cetium,S. PÃ¶lten,Noricum,Austria,4 or 5,12 I4,100,NULL,15.622696,48.20473,BNP; Boatwright 2000; DGRG; PECS; Wilkes 2003b.
 Hanson2016_1231,Flavia Solva,Solfeld,Noricum,Austria,3,20 C3,69,NULL,15.568722,46.768972,BNP; Golvin 1988; PECS; Salmon 1969; Wilkes 2003b; Wilson 2011.
 Hanson2016_1232,Iuvavum,Salzburg,Noricum,Austria,3,19 F2,41,NULL,13.045517,47.799173,BNP; DGRG; PECS; Wilkes 2003b.
 Hanson2016_1233,Lauriacum,Lorch,Noricum,Austria,3,12 H4,191,NULL,14.478806,48.212636,BNP; DGRG; PECS; Wilkes 2003b.
@@ -1257,7 +1257,7 @@ Hanson2016_1255,Simitthus,Chemtou,Numidia,Tunisia,3,32 C4,-50,NULL,8.57355,36.49
 Hanson2016_1256,Thabraca,Tabarka,Numidia,Tunisia,3,32 C3,-50,NULL,8.748512,36.956243,BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; Lepelley 1979-1981; MacMullen 2000; Quinn and Wilson 2013; Salmon 1969; Wilson 2011.
 Hanson2016_1257,Thala,Thala,Numidia,Tunisia,3,33 C1,200,NULL,8.6692,35.5724,BNP; Lepelley 1979-1981.
 Hanson2016_1258,Thamugadi,Timgad,Numidia,Algeria,3,34 E2,100,NULL,6.468525,35.485017,BNP; Lepelley 1979-1981; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011; Woloch 1983.
-Hanson2016_1259,Theveste,Tébessa,Numidia,Algeria,3,33 B2,69,NULL,8.121558,35.403084,BNP; Bomgardner 2000; DGRG; Golvin 1988; Lepelley 1979-1981; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011.
+Hanson2016_1259,Theveste,TÃ©bessa,Numidia,Algeria,3,33 B2,69,NULL,8.121558,35.403084,BNP; Bomgardner 2000; DGRG; Golvin 1988; Lepelley 1979-1981; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011.
 Hanson2016_1260,Thibilis,Announa,Numidia,Algeria,3,31 G4,200,NULL,7.250033,36.382567,BNP; Lepelley 1979-1981; PECS; Quinn and Wilson 2013.
 Hanson2016_1261,Thuburnica,Sidi Ali bel Kassem,Numidia,Tunisia,3,32 B3,-50,NULL,8.461267,36.527541,Brunt 1971; Cornell and Mathews 1982; MacMullen 2000; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Wilson 2011.
 Hanson2016_1262,Thubursicum Numidarum,Khamissa,Numidia,Algeria,3,31 H4,100,NULL,7.655351,36.193186,BNP; Lepelley 1979-1981; PECS; Russell 1958; Salmon 1969; Wilson 2011.
@@ -1267,18 +1267,18 @@ Hanson2016_1265,Uchi Maius,Henchir Douamis,Numidia,Tunisia,3,32 D4,-100,NULL,9.0
 Hanson2016_1266,Verecunda,Markouna,Numidia,Algeria,4 or 5,34 E2,100,NULL,6.289709,35.488718,Lepelley 1979-1981; PECS; Quinn and Wilson 2013.
 Hanson2016_1267,Aquincum,Obuda,Pannonia Inferior,Hungary,2,20 G2,106,NULL,19.050216,47.56473,Boatwright 2000; Golvin 1988; McEvedy 2011; PECS; Salmon 1969; Sear 2006; Wilkes 2003b; Wilson 2011.
 Hanson2016_1268,Bassiana (Pannonia Inferior),Petrovci,Pannonia Inferior,Serbia,3,21 B5,100,NULL,19.977001,44.969659,BNP; DGRG; Salmon 1969; Wilkes 2003b.
-Hanson2016_1269,Brigetio,Szöny,Pannonia Inferior,Hungary,3,20 F2,50,NULL,18.169507,47.735239,BNP; DGRG; PECS; Salmon 1969; Wilkes 2003b; Wilson 2011.
+Hanson2016_1269,Brigetio,SzÃ¶ny,Pannonia Inferior,Hungary,3,20 F2,50,NULL,18.169507,47.735239,BNP; DGRG; PECS; Salmon 1969; Wilkes 2003b; Wilson 2011.
 Hanson2016_1270,Cibalae,Vinkovci,Pannonia Inferior,Croatia,3,20 F4,100,NULL,18.801048,45.291025,BNP; DGRG; PECS; Wilkes 2003b.
-Hanson2016_1271,Gorsium,Tác,Pannonia Inferior,Hungary,3,20 F2,100,NULL,18.419781,47.09017,BNP; PECS; Wilkes 2003b.
+Hanson2016_1271,Gorsium,TÃ¡c,Pannonia Inferior,Hungary,3,20 F2,100,NULL,18.419781,47.09017,BNP; PECS; Wilkes 2003b.
 Hanson2016_1272,Mursa,Osijek,Pannonia Inferior,Croatia,3,20 F4,133,NULL,18.675749,45.560018,BNP; DGRG; PECS; Salmon 1969; Wilkes 2003b; Wilson 2011.
 Hanson2016_1273,Sirmium,Sremska Mitrovica,Pannonia Inferior,Serbia,2,21 B5,1,NULL,19.610106,44.966447,McEvedy 2011; PECS; Salmon 1969; Sear 2006; Wilkes 2003b; Wilson 2011.
 Hanson2016_1274,Andautonia,??itarjevo,Pannonia Superior,Croatia,3,20 D4,1,NULL,16.11724,45.773624,BNP; PECS; Wilkes 2003b; Wilson 2011.
 Hanson2016_1275,Aquae Balissae,Daruvar,Pannonia Superior,Croatia,3,20 E4,100,NULL,17.224015,45.593653,BNP; DGRG; PECS; Wilkes 2003b.
-Hanson2016_1276,Bassiana (Pannonia Superior),Sárvár,Pannonia Superior,Hungary,3,20 D2,100,NULL,16.935227,47.254062,BNP; Wilkes 2003b.
+Hanson2016_1276,Bassiana (Pannonia Superior),SÃ¡rvÃ¡r,Pannonia Superior,Hungary,3,20 D2,100,NULL,16.935227,47.254062,BNP; Wilkes 2003b.
 Hanson2016_1277,Carnuntum (1),Petronell,Pannonia Superior,Austria,3,13 B4,15,NULL,16.867891,48.113346,BNP; DGRG; Golvin 1988; McEvedy 2011; PECS; Wilkes 2003b.
 Hanson2016_1278,Carnuntum (2),Petronell,Pannonia Superior,Austria,3,13 B4,103,NULL,16.863149,48.114778,Benario 1981; BNP; Boatwright 2000; Golvin 1988; McEvedy 2011; PECS; Salmon 1969; Sear 2006; Wilkes 2003b; Wilson 2011.
 Hanson2016_1279,Celeia,Celje,Pannonia Superior,Slovenia,3,20 C3,41,NULL,15.260294,46.231018,BNP; PECS; Wilkes 2003b.
-Hanson2016_1280,Mogentiana,Tüskevár,Pannonia Superior,Hungary,3,20 E2,100,NULL,17.314149,47.118283,BNP; DGRG; Wilkes 2003b.
+Hanson2016_1280,Mogentiana,TÃ¼skevÃ¡r,Pannonia Superior,Hungary,3,20 E2,100,NULL,17.314149,47.118283,BNP; DGRG; Wilkes 2003b.
 Hanson2016_1281,Neviodunum,Drnovo,Pannonia Superior,Slovenia,3,20 C4,50,NULL,15.499078,45.920942,BNP; DGRG; PECS; Wilkes 2003b.
 Hanson2016_1282,Savaria,Szombathely,Pannonia Superior,Hungary,3,20 D2,43,NULL,16.617369,47.231643,McEvedy 2011; PECS; Quinn and Wilson 2013; Salmon 1969; Sear 2006; Wilkes 2003b; Wilson 2011.
 Hanson2016_1283,Scarbantia,Sopron,Pannonia Superior,Hungary,3,20 D2,1,NULL,16.590498,47.6848,BNP; DGRG; PECS; Quinn and Wilson 2013; Wilkes 2003b.
@@ -1293,10 +1293,10 @@ Hanson2016_1291,Curia,Chur,Raetia,Switzerland,4 or 5,19 B3,1,NULL,9.530735,46.84
 Hanson2016_1292,Acrae,Palazzolo Acreide,Silicia,Italy,4 or 5,47 F4,-664,NULL,14.894215,37.057781,Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_1293,Adranum,Adrano,Silicia,Italy,3,47 C3,-400,NULL,13.13773,37.663228,BNP; DGRG; Hansen 2006; Hansen and Nielsen 2004.
 Hanson2016_1294,Agrigentum,Agrigento,Silicia,Italy,3,47 D4,-582,NULL,13.576956,37.311188,Beloch 1886; Brunt 1971; Cornell and Mathews 1982; DGRG; Hansen 2006; Hansen and Nielsen 2004; PECS; Sear 2006.
-Hanson2016_1295,Agyrium,S. Filippo d'Argirò,Silicia,Italy,4 or 5,47 F3,-339,NULL,14.529547,37.655226,BNP; DGRG; Hansen and Nielsen 2004; PECS.
+Hanson2016_1295,Agyrium,S. Filippo d'ArgirÃ²,Silicia,Italy,4 or 5,47 F3,-339,NULL,14.529547,37.655226,BNP; DGRG; Hansen and Nielsen 2004; PECS.
 Hanson2016_1296,Apollonia (Sicilia),S. Fratello,Silicia,Italy,4 or 5,47 F2,-600,NULL,14.5974572,38.0128274,DGRG; Hansen and Nielsen 2004; PECS.
 Hanson2016_1297,Camarina,Camarina,Silicia,Italy,3,47 E5,-599,-27,14.447679,36.872063,Hansen 2006; Hansen 2006; Hansen and Nielsen 2004; PECS.
-Hanson2016_1298,Catania,Catania,Silicia,Italy,3,47 G3,-729,NULL,15.087834,37.502482,Benario 1981; Brunt 1971; Cornell and Mathews 1982; Golvin 1988; Hansen and Nielsen 2004; Nelis-Clément and Roddaz 2008; PECS; Salmon 1969; Sear 2006; Wilson 2011.
+Hanson2016_1298,Catania,Catania,Silicia,Italy,3,47 G3,-729,NULL,15.087834,37.502482,Benario 1981; Brunt 1971; Cornell and Mathews 1982; Golvin 1988; Hansen and Nielsen 2004; Nelis-ClÃ©ment and Roddaz 2008; PECS; Salmon 1969; Sear 2006; Wilson 2011.
 Hanson2016_1299,Centuripae,Centuripe,Silicia,Italy,3,47 F3,-400,NULL,14.740133,37.624023,BNP; Brunt 1971; Hansen and Nielsen 2004; PECS.
 Hanson2016_1300,Drepanum (Silicia),Trapani,Silicia,Italy,4 or 5,47 A2,-600,NULL,12.512684,38.015537,BNP; DGRG.
 Hanson2016_1301,Enna,Enna,Silicia,Italy,3,47 E3,-664,NULL,14.279706,37.567595,BNP; Hansen and Nielsen 2004; PECS.
@@ -1314,15 +1314,15 @@ Hanson2016_1312,Messana,Messina,Silicia,Italy,3,47 H2,-730,NULL,15.555523,38.192
 Hanson2016_1313,Morgantina,Serra Orlando,Silicia,Italy,3,47 E4,-600,-25,14.479254,37.431064,Hansen and Nielsen 2004; PECS; Sear 2006.
 Hanson2016_1314,Mylae,Milazzo,Silicia,Italy,4 or 5,47 G2,-716,NULL,15.233333,38.216667,BNP; Hansen and Nielsen 2004; Jones 1937; PECS.
 Hanson2016_1315,Netum,Noto Vecchio,Silicia,Italy,4 or 5,47 G5,-400,NULL,15.071001,36.891741,BNP; DGRG; PECS.
-Hanson2016_1316,Panormus,Palermo,Silicia,Italy,2,47 C2,-700,NULL,13.361376,38.115619,Beloch 1886; BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; Nelis-Clément and Roddaz 2008; PECS; Salmon 1969; Sear 2006.
+Hanson2016_1316,Panormus,Palermo,Silicia,Italy,2,47 C2,-700,NULL,13.361376,38.115619,Beloch 1886; BNP; Brunt 1971; Cornell and Mathews 1982; DGRG; Nelis-ClÃ©ment and Roddaz 2008; PECS; Salmon 1969; Sear 2006.
 Hanson2016_1317,Phintias,Licata,Silicia,Italy,3,47 D4,-280,NULL,13.937781,37.101414,BNP; DGRG; PECS.
 Hanson2016_1318,Segesta,Segesta,Silicia,Italy,3,47 B3,-600,NULL,12.832376,37.941352,McEvedy 2011; PECS; Sear 2006; Woloch 1983.
 Hanson2016_1319,Soluntum,Soluntum,Silicia,Italy,3,47 D2,-400,199,13.531739,38.092662,BNP; PECS; Sear 2006.
-Hanson2016_1320,Syracusae,Syracuse,Silicia,Italy,2,47 G4,-733,NULL,15.28444,37.066484,Beloch 1886; Benario 1981; Brunt 1971; Cornell and Mathews 1982; Golvin 1988; Hansen 2006; Hansen and Nielsen 2004; McEvedy 2011; Nelis-Clément and Roddaz 2008; PECS; Salmon 1969; Sear 2006; Woloch 1983.
+Hanson2016_1320,Syracusae,Syracuse,Silicia,Italy,2,47 G4,-733,NULL,15.28444,37.066484,Beloch 1886; Benario 1981; Brunt 1971; Cornell and Mathews 1982; Golvin 1988; Hansen 2006; Hansen and Nielsen 2004; McEvedy 2011; Nelis-ClÃ©ment and Roddaz 2008; PECS; Salmon 1969; Sear 2006; Woloch 1983.
 Hanson2016_1321,Tauromenium,Taormina,Silicia,Italy,3,47 G3,-396,NULL,15.287916,37.853066,Brunt 1971; Cornell and Mathews 1982; Hansen 2006; Hansen and Nielsen 2004; PECS; Salmon 1969; Sear 2006; Woloch 1983.
 Hanson2016_1322,Tyndaris,Tindari,Silicia,Italy,3,47 G2,-396,NULL,15.03996,38.145393,Brunt 1971; Cornell and Mathews 1982; Hansen 2006; Hansen and Nielsen 2004; PECS; Salmon 1969; Sear 2006.
 Hanson2016_1323,Acce,Acre,Syria,Israel,3,69 B4,-400,NULL,35.068668,32.921188,BNP; Broshi 1979; Cohen 2006; DGRG; Jones 1937; McEvedy 2011; PECS; Salmon 1969.
-Hanson2016_1324,Antiochia (Syria),Antakya,Syria,Turkey,1,67 C4,-300,NULL,36.169629,36.210172,Boatwright 2000; Jones 1937; McEvedy 2011; Nelis-Clément and Roddaz 2008; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011.
+Hanson2016_1324,Antiochia (Syria),Antakya,Syria,Turkey,1,67 C4,-300,NULL,36.169629,36.210172,Boatwright 2000; Jones 1937; McEvedy 2011; Nelis-ClÃ©ment and Roddaz 2008; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Sear 2006; Wilson 2011.
 Hanson2016_1325,Apamea (Syria) (1),Qalaat al Mudik,Syria,Syria,2,68 B3,-305,NULL,36.401621,35.41726,BNP; Cohen 2006; DGRG; PECS; Russell 1958; Sear 2006; Wilson 2011.
 Hanson2016_1326,Apamea (Syria) (2),Tilmusa,Syria,Turkey,3,67 F2,-305,NULL,37.872411,37.078446,BNP; DGRG; Jones 1937.
 Hanson2016_1327,Aradus,Arwad,Syria,Syria,4 or 5,68 A4,-323,NULL,35.858333,34.856111,BNP; Cohen 2006; DGRG; Jones 1937; PECS; Russell 1958.
@@ -1345,7 +1345,7 @@ Hanson2016_1343,Samosata,Samsat,Syria,Turkey,2,67 H1,-323,NULL,38.508199,37.5418
 Hanson2016_1344,Seleucia (Syria),Samandag,Syria,Turkey,4 or 5,67 B4,-301,NULL,35.936001,36.11808,BNP; Cohen 2006; Jones 1937; PECS; Sear 2006; Wilson 2011.
 Hanson2016_1345,Sidon,Saida,Syria,Lebanon,2,69 B2,-800,NULL,35.371208,33.560243,BNP; DGRG; Jones 1937; PECS; Russell 1958; Salmon 1969; Sear 2006.
 Hanson2016_1346,Tripolis,Tarablis,Syria,Lebanon,2,68 A5,-323,NULL,35.815212,34.448685,BNP; DGRG; Jones 1937; PECS.
-Hanson2016_1347,Tyrus,Tyre,Syria,Lebanon,2,69 B3,-800,NULL,35.194564,33.271637,Beloch 1886; BNP; Cohen 2006; DGRG; Jones 1937; Nelis-Clément and Roddaz 2008; PECS; Russell 1958; Salmon 1969.
+Hanson2016_1347,Tyrus,Tyre,Syria,Lebanon,2,69 B3,-800,NULL,35.194564,33.271637,Beloch 1886; BNP; Cohen 2006; DGRG; Jones 1937; Nelis-ClÃ©ment and Roddaz 2008; PECS; Russell 1958; Salmon 1969.
 Hanson2016_1348,Zeugma,Balkis,Syria,Turkey,3,67 F2,-301,NULL,37.865833,37.058333,BNP; Cohen 2006; DGRG; Jones 1937; PECS; Sear 2006.
 Hanson2016_1349,Aelia Capitolina,Jerusalem,Syria Palestina,Israel,1,70 G2,-40,NULL,35.235357,31.777766,Beloch 1886; Broshi 1979; Cohen 2006; DGRG; Jones 1937; McEvedy 2011; PECS; Quinn and Wilson 2013; Russell 1958; Salmon 1969; Salmon 1969; Sear 2006.
 Hanson2016_1350,Agrippias,Khirbet Tida,Syria Palestina,Israel,3,70 E2,-323,NULL,34.47975,31.536326,BNP; Broshi 1979; Cohen 2006; DGRG; Jones 1937; PECS.
@@ -1353,7 +1353,7 @@ Hanson2016_1351,Antipatris,Tel Afek,Syria Palestina,Israel,3,70 F1,-323,NULL,34.
 Hanson2016_1352,Apollonia (Syria Palestina),Arsuf,Syria Palestina,Israel,3,69 A5,-323,NULL,34.8068,32.1952,Cohen 2006; DGRG; PECS.
 Hanson2016_1353,Ascalon,Ashkelon,Syria Palestina,Israel,2,70 F2,-323,NULL,34.556159,31.669799,BNP; Broshi 1979; DGRG; Jones 1937; PECS; Salmon 1969; Sear 2006.
 Hanson2016_1354,Azotos,Unknown,Syria Palestina,Israel,3,70 F2,-323,NULL,34.622004,31.783466,Broshi 1979; Jones 1937; PECS.
-Hanson2016_1355,Caesarea Maritima,Caesarea Maritima,Syria Palestina,Israel,3,69 A4,-22,NULL,34.892078,32.500908,Boatwright 2000; Broshi 1979; Golvin 1988; Jones 1937; McEvedy 2011; Nelis-Clément and Roddaz 2008; PECS; Salmon 1969; Sear 2006; Wilson 2011.
+Hanson2016_1355,Caesarea Maritima,Caesarea Maritima,Syria Palestina,Israel,3,69 A4,-22,NULL,34.892078,32.500908,Boatwright 2000; Broshi 1979; Golvin 1988; Jones 1937; McEvedy 2011; Nelis-ClÃ©ment and Roddaz 2008; PECS; Salmon 1969; Sear 2006; Wilson 2011.
 Hanson2016_1356,Dora,Khirbet el Burj,Syria Palestina,Israel,3,69 A4,-323,NULL,34.922192,32.616786,BNP; Broshi 1979; DGRG; Jones 1937; PECS; Sear 2006.
 Hanson2016_1357,Eleutheropolis,Beit Jibrin,Syria Palestina,Israel,2,70 F2,-323,NULL,34.893976,31.617141,Broshi 1979; DGRG; Jones 1937; PECS.
 Hanson2016_1358,Emmaus,Amwas,Syria Palestina,Israel,3,70 F2,-323,NULL,34.989503,31.839201,BNP; Broshi 1979; PECS.
